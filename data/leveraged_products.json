@@ -1,0 +1,4304 @@
+{
+  "AAPL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ABBV": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ABNB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ABT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ADBE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ADM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AEP": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ALB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ALV.DE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AMD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AMGN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AMT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AMX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AMZN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ANET": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "APA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "APD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ARE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ARM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ATO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AVB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AVGO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AWK": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "AXP": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BAC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BAS.DE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BKNG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BKR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BLK": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BLNK": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BMY": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "BSX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "C": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CAT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CCI": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CCL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CF": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CHKP": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CHPT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CHTR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CLX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CMCSA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CMS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "COP": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "COST": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CRM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CRWD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CSCO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CSX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CTVA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CVS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "CVX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "D": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DBK.DE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DDOG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DELL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DHI": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DHR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DLR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DOW": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DTE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DTE.DE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DUK": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "DVN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EBAY": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ECL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ED": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EIX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ELV": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EMR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ENPH": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EOG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EQIX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EQR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ES": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ESS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ETN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ETR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EXC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "EXR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "F": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "FANG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "FCX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "FE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "FTNT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "GD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "GE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "GEN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "GILD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "GIS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "GM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "GOOGL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "GS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "HAL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "HD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "HON": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "HSY": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "IBM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ICE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "IFF": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "INTC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "INTU": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "INVH": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "IRDM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ISRG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ITW": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "JNJ": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "JPM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "KHC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "KIM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "KMB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "KMI": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "KO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "KR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "LCID": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "LEN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "LI": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "LIN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "LLY": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "LMT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "LOW": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "LUMN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MAA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MAR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MCD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MDLZ": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "META": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MLM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MMM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MOS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MPC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MRK": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MRNA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MRVL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "MSFT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NEE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NEM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NET": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NIO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NKE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NOC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NOW": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NSC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NUE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "NVDA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "O": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "OKTA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ON": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ORCL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "OXY": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PANW": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PEG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PEP": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PFE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PH": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PLD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PLTR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PLUG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PNC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PPG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PPL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PSA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PSX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "PYPL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "QCOM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "QLYS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "QS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "RCL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "REGN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "RIVN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ROST": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "RPD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "RTX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "S": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SAP.DE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SBUX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SCHW": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SHW": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SIE.DE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SLB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SMCI": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SNOW": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SPG": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SPGI": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SRE": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "STLA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "STLD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "STZ": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SYK": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "SYY": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "T": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TENB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TFC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TGT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TJX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TMO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TMUS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TRGP": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TSLA": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TSM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "TXN": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "UDR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "UNH": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "UNP": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "UPS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "USB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "V": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "VICI": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "VLO": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "VMC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "VOD": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "VRNS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "VRTX": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "VTR": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "VZ": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "WEC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "WELL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "WFC": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "WM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "WMB": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "WMT": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "XEL": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "XOM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "XPEV": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "YUM": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  },
+  "ZS": {
+    "handelbar_hebel": true,
+    "issuers_typisch": [
+      "HSBC",
+      "Société Générale",
+      "UBS",
+      "Vontobel",
+      "Citi"
+    ],
+    "produkttypen": [
+      "Turbo/Knock-Out",
+      "Optionsschein",
+      "Faktor-Zertifikat"
+    ],
+    "konfidenz": "mittel",
+    "stand": "2026-09-07",
+    "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."
+  }
+}
