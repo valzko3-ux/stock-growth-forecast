@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T00:23:29.833201Z",
+  "last_updated": "2026-09-08T06:18:38.933756Z",
   "overall_hit_rate": 0.014,
   "total_evaluated": 70,
   "per_category": {
@@ -62,10 +62,10 @@
   },
   "weights": {
     "short": {
-      "momentum": 0.27,
+      "momentum": 0.24,
       "technical": 0.3,
-      "trend": 0.215,
-      "stability": 0.215
+      "trend": 0.23,
+      "stability": 0.23
     },
     "medium": {
       "momentum": 0.3,
@@ -91,6 +91,18 @@
         "technical": 0.3,
         "trend": 0.215,
         "stability": 0.215
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "bucket": "short",
+      "hit_rate": 0.025,
+      "reason": "Trefferquote short-Horizont niedrig (2%) -> Momentum-Gewicht gesenkt, Trend/Stabilität erhöht",
+      "new_weights": {
+        "momentum": 0.24,
+        "technical": 0.3,
+        "trend": 0.23,
+        "stability": 0.23
       }
     }
   ],
