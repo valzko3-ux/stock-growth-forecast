@@ -1,14 +1,17 @@
 """
 Hauptpipeline: Kursdaten laden, technische Indikatoren berechnen, Aktien pro
-Sektor/Megatrend und Zeithorizont bewerten, Top-5-Listen erzeugen, vergangene
-Signale gegen die Realitaet pruefen (Self-Correction) und Gewichte nachjustieren.
+Sektor/Megatrend und Zeithorizont in RICHTUNG (Long oder Short) und STAERKE
+bewerten, Top-5-Listen erzeugen, vergangene Signale gegen die Realitaet
+pruefen (Self-Correction) und Gewichte nachjustieren.
 
-Wird von .github/workflows/update.yml automatisch alle 6 Stunden ausgefuehrt.
-Kann auch lokal gestartet werden:  python scripts/fetch_and_score.py
+Wird von .github/workflows/update.yml automatisch 2x taeglich (07:30 / 15:30
+Europe/Berlin, siehe scripts/should_run.py) ausgefuehrt. Kann auch lokal
+gestartet werden:  python scripts/fetch_and_score.py
 """
 
 import copy
 import json
+import math
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
@@ -23,13 +26,18 @@ DATA_DIR = ROOT / "data"
 PREDICTIONS_PATH = DATA_DIR / "predictions.json"
 BACKTEST_PATH = DATA_DIR / "backtest.json"
 LEVERAGED_PATH = DATA_DIR / "leveraged_products.json"
+UNIVERSE_PATH = DATA_DIR / "universe.json"
 
 HORIZONS = [1, 3, 5, 10, 15, 20, 25, 30]
 
+# Gewichte fuer die *Konviktion* (signiert: positiv = Long-Bias, negativ =
+# Short-Bias). momentum = juengste Kursbewegung, technical = RSI-Tilt+MACD,
+# trend = Kurs vs. gleitende Durchschnitte. Der Self-Correction-Mechanismus
+# unten justiert diese Gewichte automatisch anhand der bisherigen Trefferquote.
 DEFAULT_WEIGHTS = {
-    "short": {"momentum": 0.30, "technical": 0.30, "trend": 0.20, "stability": 0.20},
-    "medium": {"momentum": 0.30, "technical": 0.25, "trend": 0.25, "stability": 0.20},
-    "long": {"momentum": 0.30, "technical": 0.15, "trend": 0.35, "stability": 0.20},
+    "short": {"momentum": 0.45, "technical": 0.35, "trend": 0.20},
+    "medium": {"momentum": 0.40, "technical": 0.30, "trend": 0.30},
+    "long": {"momentum": 0.30, "technical": 0.20, "trend": 0.50},
 }
 
 BUCKET_HORIZONS = {"short": [1, 3], "medium": [5, 10], "long": [15, 20, 25, 30]}
@@ -113,87 +121,127 @@ def compute_metrics(df: pd.DataFrame) -> dict:
     return m
 
 
-def rank_percentile(values):
-    s = pd.Series(values)
-    if s.nunique() <= 1:
-        return [50.0] * len(values)
-    return (s.rank(pct=True) * 100).tolist()
+def clamp(v, lo, hi):
+    return max(lo, min(hi, v))
 
 
-def score_category(metrics_by_ticker: dict, horizon: int, weights: dict):
+def macd_state(m: dict) -> str:
+    if m["macd"] > m["macd_signal"] and m["macd_hist"] > m["macd_hist_prev"]:
+        return "bull"
+    if m["macd"] < m["macd_signal"] and m["macd_hist"] < m["macd_hist_prev"]:
+        return "bear"
+    if m["macd"] > m["macd_signal"]:
+        return "bull_weak"
+    if m["macd"] < m["macd_signal"]:
+        return "bear_weak"
+    return "neutral"
+
+
+def momentum_signed(m: dict, bucket: str) -> float:
+    """Gewichtete juengste Kursrendite in Prozent (Rohwert, kein Score)."""
+    if bucket == "short":
+        return 0.7 * m["ret5"] + 0.3 * m["ret20"]
+    if bucket == "medium":
+        return 0.4 * m["ret5"] + 0.6 * m["ret20"]
+    return 0.3 * m["ret20"] + 0.4 * m["ret60"] + 0.3 * m["ret120"]
+
+
+def technical_signed(m: dict) -> float:
+    """RSI-Mean-Reversion-Tilt + MACD-Richtung -> Wert in [-100, 100]."""
+    rsi_tilt = clamp(-(m["rsi14"] - 50) / 50 * 60, -60, 60)
+    state = macd_state(m)
+    macd_component = {"bull": 100, "bull_weak": 40, "neutral": 0, "bear_weak": -40, "bear": -100}[state]
+    return 0.45 * rsi_tilt + 0.55 * macd_component
+
+
+def trend_signed(m: dict) -> float:
+    """Kurs vs. SMA20/50/200 als gestapeltes Trendsignal -> Wert in [-100, 100]."""
+    s = 0
+    s += 1 if m["price"] > m["sma20"] else -1
+    s += 1 if m["price"] > m["sma50"] else -1
+    s += 1 if m["price"] > m["sma200"] else -1
+    return (s / 3.0) * 100
+
+
+def stability_factor(m: dict) -> float:
+    """Hohe Volatilitaet daempft die Konviktion, niedrige verstaerkt sie leicht."""
+    return clamp(1.3 - m["vol20"] / 100.0, 0.55, 1.15)
+
+
+def conviction_score(m: dict, horizon: int, weights: dict) -> float:
+    """Signierter Konviktions-Score in [-100, 100]. Positiv = Long-Bias,
+    negativ = Short-Bias. Betrag = Signalstaerke."""
     bucket = bucket_for_horizon(horizon)
     w = weights[bucket]
-    tickers = list(metrics_by_ticker.keys())
-    if not tickers:
-        return []
-
-    def momentum_value(m):
-        if bucket == "short":
-            return 0.7 * m["ret5"] + 0.3 * m["ret20"]
-        if bucket == "medium":
-            return 0.4 * m["ret5"] + 0.6 * m["ret20"]
-        return 0.3 * m["ret20"] + 0.4 * m["ret60"] + 0.3 * m["ret120"]
-
-    def technical_value(m):
-        rsi_score = max(0.0, min(100.0, 100 - abs(m["rsi14"] - 60) * 1.5))
-        if m["macd"] > m["macd_signal"] and m["macd_hist"] > m["macd_hist_prev"]:
-            macd_score = 100
-        elif m["macd"] > m["macd_signal"]:
-            macd_score = 60
-        else:
-            macd_score = 20
-        return 0.5 * rsi_score + 0.5 * macd_score
-
-    def trend_value(m):
-        s = 0
-        s += 40 if m["price"] > m["sma20"] else 0
-        s += 30 if m["price"] > m["sma50"] else 0
-        s += 30 if m["price"] > m["sma200"] else 0
-        return s
-
-    def stability_value(m):
-        return max(0.0, 100 - m["vol20"])
-
-    momentum_pct = rank_percentile([momentum_value(metrics_by_ticker[t]) for t in tickers])
-    technical_pct = rank_percentile([technical_value(metrics_by_ticker[t]) for t in tickers])
-    trend_pct = rank_percentile([trend_value(metrics_by_ticker[t]) for t in tickers])
-    stability_pct = rank_percentile([stability_value(metrics_by_ticker[t]) for t in tickers])
-
-    results = []
-    for i, t in enumerate(tickers):
-        m = metrics_by_ticker[t]
-        score = (w["momentum"] * momentum_pct[i] + w["technical"] * technical_pct[i]
-                 + w["trend"] * trend_pct[i] + w["stability"] * stability_pct[i])
-        macd_bull = m["macd"] > m["macd_signal"] and m["macd_hist"] > m["macd_hist_prev"]
-        results.append({"ticker": t, "score": round(score, 1), "metrics": m, "macd_bull": macd_bull})
-    results.sort(key=lambda x: x["score"], reverse=True)
-    return results
+    total_w = w["momentum"] + w["technical"] + w["trend"]
+    mom_norm = math.tanh(momentum_signed(m, bucket) / 15.0) * 100
+    raw = (w["momentum"] * mom_norm + w["technical"] * technical_signed(m)
+           + w["trend"] * trend_signed(m)) / total_w
+    return clamp(raw * stability_factor(m), -100, 100)
 
 
-def build_reasoning(m: dict, macd_bull: bool, horizon: int) -> list:
+def forecast_pct(m: dict, horizon_days: int, conviction: float) -> float:
+    """Volatilitaets-skalierte Erwartungswert-Schaetzung fuer den gewaehlten
+    Zeithorizont. Richtung & Konfidenz kommen aus `conviction` (-100..100),
+    die Groessenordnung aus der annualisierten 20-Tage-Volatilitaet skaliert
+    mit Wurzel(Zeit) (Standard-Diffusionsannahme). Explizit KEINE
+    Kursziel-Garantie -- rein algorithmische Schaetzung, siehe Disclaimer."""
+    daily_vol = m["vol20"] / (252 ** 0.5) / 100.0
+    horizon_move = daily_vol * math.sqrt(horizon_days) * 100.0
+    pct = (conviction / 100.0) * horizon_move * 0.85
+    cap = 2.0 + horizon_days * 0.8
+    return round(clamp(pct, -cap, cap), 1)
+
+
+def build_reasoning(m: dict, direction: str, horizon: int) -> list:
     lines = []
-    if m["ret20"] > 0:
-        lines.append(f"Aufwärtstrend: {m['ret20']:+.1f}% in den letzten 20 Handelstagen.")
+    if direction == "long":
+        if m["ret20"] > 0:
+            lines.append(f"Aufwärtstrend: {m['ret20']:+.1f}% in den letzten 20 Handelstagen.")
+        else:
+            lines.append(f"Kurzfristige Schwäche ({m['ret20']:+.1f}% / 20T), übrige Faktoren sprechen aber für eine Gegenbewegung nach oben.")
+        if m["rsi14"] > 70:
+            lines.append(f"RSI(14) bei {m['rsi14']:.0f} — überkauft, kurzfristig erhöhtes Rückschlagsrisiko trotz Long-Signal.")
+        elif m["rsi14"] < 35:
+            lines.append(f"RSI(14) bei {m['rsi14']:.0f} — überverkauft, technische Gegenbewegung nach oben wahrscheinlich.")
+        else:
+            lines.append(f"RSI(14) bei {m['rsi14']:.0f} — neutral bis bullisch, Spielraum nach oben vorhanden.")
+        state = macd_state(m)
+        if state in ("bull", "bull_weak"):
+            lines.append("MACD-Linie notiert über der Signallinie — bullisches Momentum.")
+        else:
+            lines.append("MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.")
+        if m["price"] > m["sma50"] > m["sma200"]:
+            lines.append("Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).")
+        elif m["price"] > m["sma20"]:
+            lines.append("Kurs notiert über dem SMA20 — kurzfristiges Momentum vorhanden, SMA50 als nächste Hürde.")
+        else:
+            lines.append("Kurs unter wichtigen gleitenden Durchschnitten — eher antizyklische, riskantere Chance.")
     else:
-        lines.append(f"Konsolidierung: {m['ret20']:+.1f}% in den letzten 20 Handelstagen — mögliches antizyklisches Setup.")
-    if m["rsi14"] > 70:
-        lines.append(f"RSI(14) bei {m['rsi14']:.0f} — überkauft, kurzfristig erhöhtes Rückschlagsrisiko.")
-    elif m["rsi14"] < 30:
-        lines.append(f"RSI(14) bei {m['rsi14']:.0f} — überverkauft, mögliche technische Gegenbewegung.")
-    else:
-        lines.append(f"RSI(14) bei {m['rsi14']:.0f} — neutral bis bullisch, Spielraum nach oben vorhanden.")
-    if macd_bull:
-        lines.append("MACD-Linie notiert über der Signallinie und das Histogramm weitet sich aus (bullisches Momentum).")
-    else:
-        lines.append("MACD zeigt aktuell kein frisches Kaufsignal — Chartstruktur wird weiter beobachtet.")
-    if m["price"] > m["sma50"] > m["sma200"]:
-        lines.append("Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend.")
-    elif m["price"] > m["sma20"]:
-        lines.append("Kurs notiert über dem SMA20 — kurzfristiges Momentum vorhanden.")
-    else:
-        lines.append("Kurs unter wichtigen gleitenden Durchschnitten — eher antizyklische Chance.")
-    lines.append(f"Annualisierte 20-Tage-Volatilität: {m['vol20']:.0f}%.")
-    lines.append(f"Bewertung für Zeithorizont {horizon} Tag(e), gewichtet aus Momentum, Technik, Trend und Stabilität.")
+        if m["ret20"] < 0:
+            lines.append(f"Abwärtstrend: {m['ret20']:+.1f}% in den letzten 20 Handelstagen.")
+        else:
+            lines.append(f"Trotz kurzfristiger Stärke ({m['ret20']:+.1f}% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.")
+        if m["rsi14"] > 65:
+            lines.append(f"RSI(14) bei {m['rsi14']:.0f} — überkauft, erhöhtes Risiko einer technischen Korrektur nach unten.")
+        elif m["rsi14"] < 30:
+            lines.append(f"RSI(14) bei {m['rsi14']:.0f} — bereits überverkauft, Short-Setup mit erhöhtem Gegenbewegungsrisiko.")
+        else:
+            lines.append(f"RSI(14) bei {m['rsi14']:.0f} — neutral bis bearisch.")
+        state = macd_state(m)
+        if state in ("bear", "bear_weak"):
+            lines.append("MACD-Linie notiert unter der Signallinie — bearisches Momentum.")
+        else:
+            lines.append("MACD noch nicht eindeutig bearisch — Short-Einstieg mit erhöhter Vorsicht.")
+        if m["price"] < m["sma50"] < m["sma200"]:
+            lines.append("Kurs notiert unter SMA50 und SMA200 — intakter mittelfristiger Abwärtstrend (Unterstützung: bisheriges Tief).")
+        elif m["price"] < m["sma20"]:
+            lines.append("Kurs notiert unter dem SMA20 — kurzfristige Schwäche, SMA50 als nächste Unterstützung.")
+        else:
+            lines.append("Kurs über wichtigen gleitenden Durchschnitten — Short-Idee ist antizyklisch und riskanter.")
+
+    lines.append(f"Annualisierte 20-Tage-Volatilität: {m['vol20']:.0f}% (fließt in die Prognosegröße ein).")
+    lines.append(f"Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von {horizon} Tag(en).")
     return lines
 
 
@@ -208,10 +256,12 @@ def update_backtest(state: dict, current_prices: dict) -> dict:
                 still_open.append(sig)
                 continue
             realized = (exit_price / sig["entry_price"] - 1) * 100
+            direction = sig.get("direction", "long")
+            correct = (realized > 0.2) if direction == "long" else (realized < -0.2)
             newly_evaluated.append({
                 **sig, "exit_price": round(exit_price, 2),
                 "realized_return_pct": round(realized, 2),
-                "correct": bool(realized > 0.2),
+                "correct": bool(correct),
                 "evaluated_date": today.isoformat(),
             })
         else:
@@ -241,16 +291,14 @@ def update_backtest(state: dict, current_prices: dict) -> dict:
         w = weights[bucket]
         reason = None
         if hit < 0.45:
-            shift = 0.03
+            shift = 0.04
             w["momentum"] = max(0.10, w["momentum"] - shift)
-            w["trend"] = min(0.60, w["trend"] + shift / 2)
-            w["stability"] = min(0.60, w["stability"] + shift / 2)
-            reason = f"Trefferquote {bucket}-Horizont niedrig ({hit:.0%}) -> Momentum-Gewicht gesenkt, Trend/Stabilität erhöht"
+            w["trend"] = min(0.65, w["trend"] + shift)
+            reason = f"Trefferquote {bucket}-Horizont niedrig ({hit:.0%}) -> Momentum-Gewicht gesenkt, Trend-Gewicht erhöht"
         elif hit > 0.62:
-            shift = 0.03
-            w["trend"] = max(0.10, w["trend"] - shift / 2)
-            w["stability"] = max(0.10, w["stability"] - shift / 2)
-            w["momentum"] = min(0.60, w["momentum"] + shift)
+            shift = 0.04
+            w["trend"] = max(0.10, w["trend"] - shift)
+            w["momentum"] = min(0.65, w["momentum"] + shift)
             reason = f"Trefferquote {bucket}-Horizont hoch ({hit:.0%}) -> Momentum-Gewicht erhöht"
         if reason:
             total = sum(w.values())
@@ -263,6 +311,52 @@ def update_backtest(state: dict, current_prices: dict) -> dict:
     state["weight_adjustments_log"] = log[-300:]
     state["last_updated"] = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
     return state
+
+
+def rank_stocks(metrics_by_ticker: dict, horizon: int, weights: dict):
+    out = []
+    for t, m in metrics_by_ticker.items():
+        conv = conviction_score(m, horizon, weights)
+        out.append({"ticker": t, "conviction": conv, "metrics": m})
+    out.sort(key=lambda x: abs(x["conviction"]), reverse=True)
+    return out
+
+
+def is_top_deal(conv: float, m: dict, direction: str) -> bool:
+    if abs(conv) < 88:
+        return False
+    state = macd_state(m)
+    if direction == "long":
+        return 45 <= m["rsi14"] <= 72 and state in ("bull", "bull_weak")
+    return 28 <= m["rsi14"] <= 60 and state in ("bear", "bear_weak")
+
+
+def build_stock_entry(t: str, m: dict, horizon: int, weights: dict, leveraged: dict, rank=None):
+    """Baut das JSON-Objekt einer Aktie fuer einen Zeithorizont. Wird sowohl
+    fuer die Top-5-Listen je Kategorie als auch fuer das komplette
+    Such-Universum (data/universe.json) verwendet, damit beide Ansichten
+    exakt dieselbe Bewertungslogik nutzen."""
+    conv = conviction_score(m, horizon, weights)
+    direction = "long" if conv >= 0 else "short"
+    fpct = forecast_pct(m, horizon, conv)
+    lev = leveraged.get(t, {"handelbar_hebel": False})
+    entry = {
+        "ticker": t, "name": NAMES.get(t, t),
+        "score": round(abs(conv), 1), "direction": direction,
+        "forecast_pct": fpct, "forecast_horizon_days": horizon,
+        "top_deal": is_top_deal(conv, m, direction),
+        "price": round(m["price"], 2), "rsi14": round(m["rsi14"], 1),
+        "macd_hist": round(m["macd_hist"], 3),
+        "sma20": round(m["sma20"], 2), "sma50": round(m["sma50"], 2), "sma200": round(m["sma200"], 2),
+        "ret5": round(m["ret5"], 2), "ret20": round(m["ret20"], 2), "ret60": round(m["ret60"], 2),
+        "vol20": round(m["vol20"], 1),
+        "reasoning": build_reasoning(m, direction, horizon),
+        "trade_republic_hebel": lev,
+    }
+    if rank is not None:
+        entry["rank"] = rank
+        entry["top_deal"] = rank == 1 and entry["top_deal"]
+    return entry, conv
 
 
 def main():
@@ -298,28 +392,19 @@ def main():
         cat_metrics = {t: metrics_by_ticker[t] for t in cat_def["tickers"] if t in metrics_by_ticker}
         cat_out = {"label": cat_def["label"], "type": cat_def["type"], "horizons": {}}
         for h in HORIZONS:
-            ranked = score_category(cat_metrics, h, weights)[:5]
+            ranked = rank_stocks(cat_metrics, h, weights)[:5]
             stocks_out = []
-            for idx, entry in enumerate(ranked):
-                t, m = entry["ticker"], entry["metrics"]
-                is_top_deal = (idx == 0 and entry["score"] >= 88 and 45 <= m["rsi14"] <= 72 and entry["macd_bull"])
-                lev = leveraged.get(t, {"handelbar_hebel": False})
-                stocks_out.append({
-                    "ticker": t, "name": NAMES.get(t, t), "rank": idx + 1,
-                    "score": entry["score"], "top_deal": is_top_deal,
-                    "price": round(m["price"], 2), "rsi14": round(m["rsi14"], 1),
-                    "macd_hist": round(m["macd_hist"], 3),
-                    "sma20": round(m["sma20"], 2), "sma50": round(m["sma50"], 2), "sma200": round(m["sma200"], 2),
-                    "ret5": round(m["ret5"], 2), "ret20": round(m["ret20"], 2), "ret60": round(m["ret60"], 2),
-                    "vol20": round(m["vol20"], 1),
-                    "reasoning": build_reasoning(m, entry["macd_bull"], h),
-                    "trade_republic_hebel": lev,
-                })
+            for idx, ranked_entry in enumerate(ranked):
+                t, m = ranked_entry["ticker"], ranked_entry["metrics"]
+                stock_entry, conv = build_stock_entry(t, m, h, weights, leveraged, rank=idx + 1)
+                stocks_out.append(stock_entry)
+                direction = stock_entry["direction"]
                 key = (t, cat_key, h, today_iso)
                 if key not in existing_keys:
                     backtest_state["open_signals"].append({
                         "ticker": t, "category": cat_key, "horizon_days": h,
                         "entry_date": today_iso, "entry_price": round(m["price"], 2),
+                        "direction": direction,
                     })
                     existing_keys.add(key)
             cat_out["horizons"][str(h)] = stocks_out
@@ -330,6 +415,26 @@ def main():
     print(f"predictions.json und backtest.json geschrieben. "
           f"Trefferquote gesamt: {backtest_state['overall_hit_rate']}, "
           f"offene Signale: {len(backtest_state['open_signals'])}")
+
+    # -------- Such-Universum: ALLE ueberwachten Ticker, nicht nur Top-5 --------
+    ticker_categories = {}
+    for cat_key, cat_def in CATEGORIES.items():
+        for t in cat_def["tickers"]:
+            ticker_categories.setdefault(t, []).append({"key": cat_key, "label": cat_def["label"]})
+
+    universe_out = {"generated_at": generated_at, "horizons": HORIZONS, "tickers": {}}
+    for t, m in metrics_by_ticker.items():
+        horizons_out = {}
+        for h in HORIZONS:
+            entry, _ = build_stock_entry(t, m, h, weights, leveraged)
+            horizons_out[str(h)] = entry
+        universe_out["tickers"][t] = {
+            "ticker": t, "name": NAMES.get(t, t),
+            "categories": ticker_categories.get(t, []),
+            "horizons": horizons_out,
+        }
+    save_json(UNIVERSE_PATH, universe_out)
+    print(f"universe.json geschrieben ({len(universe_out['tickers'])} Ticker, für die Suchfunktion).")
 
 
 if __name__ == "__main__":

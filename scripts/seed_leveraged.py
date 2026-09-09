@@ -30,12 +30,14 @@ def main():
         out[t] = {
             "handelbar_hebel": True,
             "issuers_typisch": STANDARD_ISSUERS,
-            "produkttypen": ["Turbo/Knock-Out", "Optionsschein", "Faktor-Zertifikat"],
+            "produkttypen": ["Turbo/Knock-Out (Call & Put)", "Optionsschein (Call & Put)", "Faktor-Zertifikat (Long & Short)"],
             "konfidenz": "mittel",
             "stand": today,
             "hinweis": ("Basierend auf allgemeiner Markterfahrung für diesen liquiden, "
-                        "bekannten Basiswert. Keine Live-Verifizierung — bitte vor Handel "
-                        "Verfügbarkeit direkt bei Trade Republic bzw. beim Emittenten prüfen."),
+                        "bekannten Basiswert. Für Long- wie Short-Positionen existieren bei "
+                        "diesen Emittenten in der Regel sowohl Call- als auch Put-Varianten. "
+                        "Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit, WKN und "
+                        "Knock-Out-Schwelle direkt bei Trade Republic bzw. beim Emittenten prüfen."),
         }
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")

@@ -1,0 +1,199 @@
+{
+  "generated_at": "2026-09-09T17:31:32.430578Z",
+  "horizon_used": 5,
+  "items": [
+    {
+      "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
+      "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+      "published": "Wed, 09 Sep 2026 16:19:00 GMT",
+      "categories": [
+        "Energie"
+      ],
+      "winners": [
+        {
+          "ticker": "MPC",
+          "name": "Marathon Petroleum"
+        },
+        {
+          "ticker": "VLO",
+          "name": "Valero Energy"
+        },
+        {
+          "ticker": "PSX",
+          "name": "Phillips 66"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "CVX",
+          "name": "Chevron"
+        },
+        {
+          "ticker": "MPC",
+          "name": "Marathon Petroleum"
+        }
+      ]
+    },
+    {
+      "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+      "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+      "published": "Wed, 09 Sep 2026 16:18:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley"
+        }
+      ]
+    },
+    {
+      "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "published": "Wed, 09 Sep 2026 15:14:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley"
+        }
+      ]
+    },
+    {
+      "title": "Legal software startup Harvey raises $550m at $15.5b valuation",
+      "link": "https://www.investing.com/news/stock-market-news/legal-software-startup-harvey-raises-550m-at-155b-valuation-93CH-4894226",
+      "published": "2026-09-09 16:51:10",
+      "categories": [
+        "Technologie"
+      ],
+      "winners": [
+        {
+          "ticker": "QCOM",
+          "name": "Qualcomm"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        },
+        {
+          "ticker": "AMD",
+          "name": "AMD"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "QCOM",
+          "name": "Qualcomm"
+        }
+      ]
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "published": "Wed, 29 Jul 2026 18:00:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley"
+        }
+      ]
+    },
+    {
+      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+      "published": "Thu, 9 Jul 2026 19:00:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley"
+        }
+      ]
+    }
+  ],
+  "method_note": "Schlagzeilen stammen aus öffentlichen RSS-Feeds (MarketWatch, Nasdaq, Investing.com, Federal Reserve). Die Sektor-Zuordnung sowie die Auswahl von 'Gewinnern' und 'krisenfesten Werten' basiert auf einer einfachen Schlüsselwort-Heuristik kombiniert mit den aktuellen, rein algorithmischen Sektor-Scores dieser App — keine redaktionelle oder fundamentale Einzelfallprüfung und keine Anlageberatung."
+}

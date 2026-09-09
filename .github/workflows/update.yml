@@ -2,8 +2,13 @@ name: Update stock forecasts
 
 on:
   schedule:
-    # 06:00 / 12:00 / 18:00 / 00:00 UTC — 4x taeglich
-    - cron: "0 0,6,12,18 * * *"
+    # Cron ist immer UTC und kennt keine Sommerzeit. Damit die Pipeline exakt
+    # um 07:30 und 15:30 Europe/Berlin-Zeit laeuft (egal ob CET oder CEST),
+    # feuert der Cron in zwei breiten UTC-Fenstern alle 10 Minuten, aber
+    # scripts/should_run.py laesst den eigentlichen Job nur genau zur
+    # Zielzeit durch (DST-sicher via zoneinfo).
+    - cron: "*/10 5,6,7,8 * * *"
+    - cron: "*/10 13,14,15,16 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -25,17 +30,30 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Zeitfenster prüfen (07:30 / 15:30 Europe/Berlin)
+        id: gate
+        env:
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: python scripts/should_run.py
+
       - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
         run: pip install -r scripts/requirements.txt
 
-      - name: Run forecast pipeline
+      - name: Run forecast pipeline (Kursdaten, Scoring, Backtest)
+        if: steps.gate.outputs.run == 'true'
         run: python scripts/fetch_and_score.py
 
+      - name: Run news pipeline (Pinned Impact News)
+        if: steps.gate.outputs.run == 'true'
+        run: python scripts/fetch_news.py
+
       - name: Commit and push updated data
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/predictions.json data/backtest.json
+          git add data/predictions.json data/backtest.json data/news.json data/universe.json
           if git diff --cached --quiet; then
             echo "Keine Aenderungen an den Daten."
           else

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
 <title>QUANT SIGNALS — Aktien-Wachstumsprognosen</title>
-<meta name="description" content="Algorithmische Wachstumsprognosen für 14 Sektoren &amp; Megatrends, optimiert für Trade Republic.">
+<meta name="description" content="Algorithmische Long/Short-Prognosen für 14 Sektoren &amp; Megatrends, optimiert für Trade Republic.">
 <meta name="theme-color" content="#0d0f14">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📈</text></svg>">
 <script src="https://cdn.tailwindcss.com"></script>
@@ -35,6 +35,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
 <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body class="bg-base text-slate-200 font-sans min-h-screen pb-24">
@@ -54,58 +55,205 @@
         <div id="hitRateValue" class="text-sm font-bold font-mono text-cyberlight">—</div>
       </div>
     </div>
+    <!-- Tabs -->
+    <div class="max-w-3xl mx-auto px-4 flex gap-1 pb-2">
+      <button class="tab-btn is-active" data-tab="signals">📊 Signale</button>
+      <button class="tab-btn" data-tab="portfolio">💼 Portfolio</button>
+    </div>
   </header>
 
   <main class="max-w-3xl mx-auto px-4 pt-4">
 
-    <!-- Slider -->
-    <section class="bg-panel border border-border rounded-2xl px-4 py-4 mb-5">
-      <div class="flex items-center justify-between mb-2">
-        <label for="horizonSlider" class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Prognose-Zeithorizont</label>
-        <span id="horizonLabel" class="text-lg font-bold font-mono text-cyberlight">5 Tage</span>
-      </div>
-      <input id="horizonSlider" type="range" min="0" max="7" step="1" value="2"
-             class="w-full accent-cyber cursor-pointer" aria-label="Zeithorizont in Tagen">
-      <div class="flex justify-between text-[10px] text-slate-500 mt-1 px-0.5 font-mono">
-        <span>1T</span><span>3T</span><span>5T</span><span>10T</span><span>15T</span><span>20T</span><span>25T</span><span>30T</span>
-      </div>
-    </section>
+    <!-- ============ TAB: SIGNALE ============ -->
+    <div id="tab-signals" class="tab-panel">
 
-    <!-- Legend -->
-    <div class="flex items-center gap-4 mb-4 px-1 text-[11px] text-slate-500">
-      <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-neongreen inline-block"></span>Kurschance</span>
-      <span class="flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-neonred inline-block"></span>Rückschlagsrisiko</span>
-      <span class="flex items-center gap-1">🔥 = Top Deal Signal</span>
+      <!-- Slider -->
+      <section class="bg-panel border border-border rounded-2xl px-4 py-4 mb-5">
+        <div class="flex items-center justify-between mb-2">
+          <label for="horizonSlider" class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Prognose-Zeithorizont</label>
+          <span id="horizonLabel" class="text-lg font-bold font-mono text-cyberlight">5 Tage</span>
+        </div>
+        <input id="horizonSlider" type="range" min="0" max="7" step="1" value="2"
+               class="w-full accent-cyber cursor-pointer" aria-label="Zeithorizont in Tagen">
+        <div class="flex justify-between text-[10px] text-slate-500 mt-1 px-0.5 font-mono">
+          <span>1T</span><span>3T</span><span>5T</span><span>10T</span><span>15T</span><span>20T</span><span>25T</span><span>30T</span>
+        </div>
+      </section>
+
+      <!-- Aktien-Suche -->
+      <section class="mb-5">
+        <div class="relative">
+          <span class="search-icon">🔍</span>
+          <input id="stockSearchInput" type="text" inputmode="search" autocomplete="off"
+                 placeholder="Aktie suchen (Ticker oder Name) — z. B. NVDA, Siemens …"
+                 class="search-input" aria-label="Aktie im überwachten Universum suchen">
+        </div>
+        <div id="searchResults" class="hidden mt-2 space-y-2"></div>
+      </section>
+
+      <!-- Legend -->
+      <div class="flex items-center gap-4 mb-4 px-1 text-[11px] text-slate-500 flex-wrap">
+        <span class="flex items-center gap-1"><span class="dir-pill dir-long">LONG</span>Kaufen/Steigen</span>
+        <span class="flex items-center gap-1"><span class="dir-pill dir-short">SHORT</span>Verkaufen/Fallen</span>
+        <span class="flex items-center gap-1">🔥 = Top Deal</span>
+      </div>
+
+      <!-- High-Probability Deals -->
+      <section class="mb-6">
+        <h2 class="text-xs font-bold text-gold uppercase tracking-widest mb-2 px-1 flex items-center gap-1.5">
+          💎 High-Probability Deals
+        </h2>
+        <div id="highConvictionBoard" class="space-y-2">
+          <div class="skeleton h-20"></div>
+        </div>
+      </section>
+
+      <!-- Sector Performance Radar -->
+      <section class="bg-panel border border-border rounded-2xl px-4 py-4 mb-6">
+        <h2 class="text-xs font-bold text-slate-400 uppercase tracking-widest mb-3 flex items-center gap-1.5">
+          🔥 Sektor-Performance des Tages
+        </h2>
+        <p class="text-[10px] text-slate-600 mb-3 -mt-2">Relative technische Stärke je Sektor (Ø Konviktions-Score, aktueller Zeithorizont)</p>
+        <div id="sectorRadar" class="space-y-1.5"></div>
+      </section>
+
+      <!-- Pinned Impact News -->
+      <section class="mb-6">
+        <div class="accordion-item">
+          <button class="accordion-header" data-cat="__news">
+            <span class="flex items-center gap-2 min-w-0">
+              <span class="text-lg shrink-0">📌</span>
+              <span class="min-w-0">
+                <span class="block text-sm font-semibold text-white truncate">Pinned Impact News</span>
+                <span class="block text-[10px] text-slate-500 uppercase tracking-wider">Marktbewegende Meldungen &amp; betroffene Aktien</span>
+              </span>
+            </span>
+            <svg class="accordion-chevron shrink-0" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M6 9l6 6 6-6" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+          <div class="accordion-panel">
+            <div id="newsPanelBody" class="px-3 pb-3 space-y-2">
+              <p class="text-xs text-slate-500 py-2">Lade News…</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Sectors -->
+      <h2 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-2 px-1">Sektoren</h2>
+      <div id="sectorAccordions" class="space-y-2 mb-6"></div>
+
+      <!-- Megatrends -->
+      <h2 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-2 px-1">Megatrends</h2>
+      <div id="megatrendAccordions" class="space-y-2 mb-6"></div>
+
+      <!-- Self-correction panel -->
+      <section id="selfCorrectionPanel" class="bg-panel border border-border rounded-2xl px-4 py-4 mb-6 hidden">
+        <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">🧠 Selbstlern-Modell</h3>
+        <p id="selfCorrectionText" class="text-xs text-slate-400 leading-relaxed"></p>
+      </section>
+
     </div>
 
-    <!-- Sectors -->
-    <h2 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-2 px-1">Sektoren</h2>
-    <div id="sectorAccordions" class="space-y-2 mb-6"></div>
+    <!-- ============ TAB: PORTFOLIO ============ -->
+    <div id="tab-portfolio" class="tab-panel hidden">
 
-    <!-- Megatrends -->
-    <h2 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-2 px-1">Megatrends</h2>
-    <div id="megatrendAccordions" class="space-y-2 mb-6"></div>
+      <!-- Startkapital & Gesamtvermögen -->
+      <section class="bg-panel border border-border rounded-2xl px-4 py-4 mb-5">
+        <label for="startCapitalInput" class="text-xs font-semibold text-slate-400 uppercase tracking-wider block mb-1.5">Startkapital (frei verfügbar)</label>
+        <div class="flex items-center gap-2 mb-4">
+          <span class="text-slate-500 font-mono">€</span>
+          <input id="startCapitalInput" type="number" min="0" step="0.01" placeholder="0.00"
+                 class="flex-1 bg-card border border-border rounded-xl px-3 py-2 font-mono text-white focus:outline-none focus:border-cyber">
+        </div>
+        <div class="grid grid-cols-2 gap-3">
+          <div class="bg-card border border-border rounded-xl px-3 py-2.5">
+            <div class="text-[10px] text-slate-500 uppercase tracking-wider">Gesamtkapital</div>
+            <div id="totalCapitalValue" class="text-lg font-bold font-mono text-white">€0.00</div>
+          </div>
+          <div class="bg-card border border-border rounded-xl px-3 py-2.5">
+            <div class="text-[10px] text-slate-500 uppercase tracking-wider">Trading-Ergebnis</div>
+            <div id="totalPnlValue" class="text-lg font-bold font-mono text-slate-400">€0.00</div>
+          </div>
+        </div>
+      </section>
 
-    <!-- Self-correction panel -->
-    <section id="selfCorrectionPanel" class="bg-panel border border-border rounded-2xl px-4 py-4 mb-6 hidden">
-      <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">🧠 Selbstlern-Modell</h3>
-      <p id="selfCorrectionText" class="text-xs text-slate-400 leading-relaxed"></p>
-    </section>
+      <!-- Trade-Eingabe -->
+      <section class="bg-panel border border-border rounded-2xl px-4 py-4 mb-5">
+        <h2 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3">Trade eintragen</h2>
+        <form id="tradeForm" class="space-y-3">
+          <div>
+            <label class="text-[11px] text-slate-500 block mb-1">Aktie</label>
+            <select id="tradeTicker" class="w-full bg-card border border-border rounded-xl px-3 py-2 text-sm text-white focus:outline-none focus:border-cyber">
+              <option value="">— Aktie wählen —</option>
+            </select>
+          </div>
+          <div class="flex gap-2">
+            <button type="button" class="dir-toggle flex-1 is-active" data-dir="LONG">LONG</button>
+            <button type="button" class="dir-toggle flex-1" data-dir="SHORT">SHORT</button>
+          </div>
+          <div>
+            <label class="text-[11px] text-slate-500 block mb-1">Ergebnis (Gewinn/Verlust in €)</label>
+            <input id="tradeResult" type="number" step="0.01" placeholder="z.B. 45.20 oder -12.50"
+                   class="w-full bg-card border border-border rounded-xl px-3 py-2 font-mono text-white focus:outline-none focus:border-cyber">
+          </div>
+          <button type="submit" class="w-full bg-cyber hover:bg-cyberlight text-white font-semibold text-sm rounded-xl py-2.5 transition-colors">Trade hinzufügen</button>
+        </form>
+      </section>
 
-    <!-- Full disclaimer -->
+      <!-- Chart -->
+      <section class="bg-panel border border-border rounded-2xl px-4 py-4 mb-5">
+        <h2 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3">Vermögensverlauf</h2>
+        <div class="relative" style="height:200px">
+          <canvas id="equityChart"></canvas>
+        </div>
+        <p id="chartEmptyHint" class="text-xs text-slate-600 text-center py-6">Noch keine Trades eingetragen.</p>
+      </section>
+
+      <!-- Meilensteine -->
+      <section class="bg-panel border border-border rounded-2xl px-4 py-4 mb-5">
+        <h2 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3">Meilensteine</h2>
+        <div id="milestoneList" class="space-y-3"></div>
+      </section>
+
+      <!-- Zeitrechner -->
+      <section class="bg-panel border border-border rounded-2xl px-4 py-4 mb-5">
+        <h2 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">⏱️ Hochrechnung bei gleichbleibender Performance</h2>
+        <p id="timeProjectionText" class="text-xs text-slate-400 leading-relaxed">Trage mindestens 2 Trades ein, um eine Hochrechnung zu sehen.</p>
+      </section>
+
+      <!-- Trade-Historie -->
+      <section class="mb-6">
+        <h2 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-2 px-1">Trade-Historie</h2>
+        <div id="tradeHistory" class="space-y-1.5">
+          <p class="text-xs text-slate-600 px-1">Keine Trades vorhanden.</p>
+        </div>
+      </section>
+
+    </div>
+
+    <!-- Full disclaimer (immer sichtbar, tab-unabhängig) -->
     <footer class="border-t border-border pt-5 pb-8 px-1 text-[11px] leading-relaxed text-slate-500 space-y-2">
       <p class="font-semibold text-slate-400">⚠️ Wichtiger Haftungsausschluss</p>
-      <p>Alle auf dieser Seite dargestellten Daten, Scores, Ranglisten und "Top Deal"-Signale werden
+      <p>Alle auf dieser Seite dargestellten Daten, Scores, Ranglisten, Long/Short-Richtungen, %-Prognosen und "Top Deal"-Signale werden
          <strong>vollautomatisch und rein algorithmisch</strong> auf Basis historischer Kursdaten und technischer
-         Indikatoren erzeugt. Es handelt sich <strong>ausdrücklich nicht</strong> um eine Anlageberatung,
-         Finanzanalyse, Kauf- oder Verkaufsempfehlung im Sinne des Wertpapierhandelsgesetzes.</p>
+         Indikatoren erzeugt (Formel-Details im Info-Popup jeder Aktie). Es handelt sich <strong>ausdrücklich nicht</strong>
+         um eine Anlageberatung, Finanzanalyse, Kauf- oder Verkaufsempfehlung im Sinne des Wertpapierhandelsgesetzes.</p>
       <p>Der Handel mit Aktien und insbesondere mit <strong>Hebelprodukten</strong> (Turbos, Optionsscheinen,
          Zertifikaten) ist mit erheblichen Risiken bis hin zum <strong>Totalverlust des eingesetzten Kapitals</strong>
          verbunden. Angaben zu Emittenten und Produktverfügbarkeit basieren auf einer manuell gepflegten,
          nicht live-verifizierten Liste — bitte vor jedem Handel die tatsächliche Verfügbarkeit bei Trade Republic
          bzw. dem jeweiligen Emittenten prüfen. Historische Trefferquoten sind kein Indikator für zukünftige Ergebnisse.</p>
-      <p>Datenquelle: Yahoo Finance (yfinance). Daten können verzögert, unvollständig oder fehlerhaft sein.
-         Automatische Aktualisierung via GitHub Actions. Kein Ersatz für eine individuelle, qualifizierte Beratung.</p>
+      <p>Die Suchfunktion durchsucht ausschließlich das oben kuratierte, auf Trade-Republic-Hebelbarkeit
+         geprüfte Aktien-Universum (~240 Titel) — nicht den gesamten Markt.</p>
+      <p>Die "Pinned Impact News" beruhen auf öffentlichen RSS-Nachrichtenfeeds und einer einfachen
+         Schlüsselwort-Heuristik zur Sektor-Zuordnung — keine redaktionelle Prüfung. Es fließt <strong>kein</strong>
+         Live-Scan von Politiker- oder Trader-Posts auf X/Twitter ein (technisch/rechtlich nicht sauber umsetzbar,
+         siehe README). Der Portfolio-Tracker speichert Eingaben ausschließlich lokal in deinem Browser (LocalStorage).</p>
+      <p>Datenquelle Kurse: Yahoo Finance (yfinance). Daten können verzögert, unvollständig oder fehlerhaft sein.
+         Automatische Aktualisierung via GitHub Actions, 2× täglich (07:30 &amp; 15:30 Uhr, Europe/Berlin).
+         Kein Ersatz für eine individuelle, qualifizierte Beratung.</p>
     </footer>
   </main>
 

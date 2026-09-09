@@ -185,6 +185,165 @@ input[type="range"]::-moz-range-track {
   margin-top: 1px;
 }
 
+/* ---------- Aktien-Suche ---------- */
+.search-input {
+  width: 100%;
+  background: #171a23;
+  border: 1px solid #242836;
+  border-radius: 14px;
+  padding: 12px 14px 12px 40px;
+  font-size: 14px;
+  color: #fff;
+}
+.search-input:focus { outline: none; border-color: #2f8fff; }
+.search-input::placeholder { color: #4b5563; }
+.search-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 14px;
+  opacity: 0.55;
+  pointer-events: none;
+}
+
+/* ---------- Tabs ---------- */
+.tab-btn {
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #64748b;
+  background: transparent;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.tab-btn.is-active {
+  color: #fff;
+  background: rgba(47,143,255,0.12);
+  border-color: rgba(47,143,255,0.35);
+}
+.tab-panel.hidden { display: none; }
+
+/* ---------- Direction pills ---------- */
+.dir-pill {
+  display: inline-flex;
+  align-items: center;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  padding: 2px 7px;
+  border-radius: 6px;
+  line-height: 1.4;
+}
+.dir-long { color: #00ffa3; background: rgba(0,255,163,0.12); border: 1px solid rgba(0,255,163,0.3); }
+.dir-short { color: #ff3b5c; background: rgba(255,59,92,0.12); border: 1px solid rgba(255,59,92,0.3); }
+
+/* ---------- High-Conviction Board ---------- */
+.hc-card {
+  border-color: rgba(255, 184, 0, 0.55) !important;
+  background: linear-gradient(135deg, rgba(255,184,0,0.10), #171a23 45%) !important;
+  box-shadow: 0 0 0 1px rgba(255,184,0,0.18), 0 0 28px -6px rgba(255,184,0,0.4);
+}
+.badge-hc {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 9.5px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #ffb800, #fff2c2);
+  color: #1a1200;
+}
+
+/* ---------- Sector radar ---------- */
+.radar-track { height: 6px; border-radius: 999px; background: #242836; overflow: hidden; }
+.radar-fill { height: 100%; border-radius: 999px; }
+.radar-pos { background: linear-gradient(90deg, #00ffa388, #00ffa3); }
+.radar-neg { background: linear-gradient(90deg, #ff3b5c88, #ff3b5c); }
+
+/* ---------- News cards ---------- */
+.news-card {
+  background: #171a23;
+  border: 1px solid #242836;
+  border-radius: 12px;
+  padding: 12px;
+}
+.news-cat-badge {
+  font-size: 9.5px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 6px;
+  background: rgba(47,143,255,0.1);
+  color: #5eb1ff;
+  border: 1px solid rgba(47,143,255,0.25);
+}
+.news-chip {
+  display: inline-block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 5px;
+  background: #1c1f2a;
+  border: 1px solid #2a2f3f;
+  color: #cbd5e1;
+}
+
+/* ---------- Forecast banner (modal) ---------- */
+.forecast-banner {
+  font-size: 13px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  text-align: center;
+}
+.forecast-long { background: rgba(0,255,163,0.08); border: 1px solid rgba(0,255,163,0.25); }
+.forecast-short { background: rgba(255,59,92,0.08); border: 1px solid rgba(255,59,92,0.25); }
+
+/* ---------- Portfolio / Tracker ---------- */
+.dir-toggle {
+  padding: 10px;
+  border-radius: 12px;
+  border: 1px solid #242836;
+  background: #171a23;
+  color: #64748b;
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.dir-toggle[data-dir="LONG"].is-active { color: #00ffa3; border-color: rgba(0,255,163,0.5); background: rgba(0,255,163,0.08); }
+.dir-toggle[data-dir="SHORT"].is-active { color: #ff3b5c; border-color: rgba(255,59,92,0.5); background: rgba(255,59,92,0.08); }
+
+.milestone-track { height: 8px; border-radius: 999px; background: #242836; overflow: hidden; }
+.milestone-fill { height: 100%; border-radius: 999px; background: linear-gradient(90deg, #2f8fff, #00ffa3); transition: width 0.3s ease; }
+
+.trade-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  background: #171a23;
+  border: 1px solid #242836;
+  border-radius: 10px;
+  padding: 8px 10px;
+}
+.delete-trade-btn {
+  background: transparent;
+  border: none;
+  color: #4b5563;
+  cursor: pointer;
+  font-size: 13px;
+  padding: 2px 4px;
+}
+.delete-trade-btn:hover { color: #ff3b5c; }
+
+#equityChart.hidden { display: none; }
+
 /* Skeleton loading */
 .skeleton {
   background: linear-gradient(90deg, #171a23 25%, #1e2230 37%, #171a23 63%);

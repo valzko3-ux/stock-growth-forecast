@@ -83,7 +83,7 @@ CATEGORIES = {
                     "ARE", "INVH", "UDR", "KIM"],
     },
     "ki": {
-        "label": "Kuenstliche Intelligenz",
+        "label": "Künstliche Intelligenz",
         "type": "megatrend",
         "tickers": ["NVDA", "MSFT", "GOOGL", "META", "AMD", "PLTR", "SNOW",
                     "CRM", "NOW", "ORCL", "AVGO", "SMCI", "ARM", "DELL",
