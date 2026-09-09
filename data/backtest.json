@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T17:35:30.517435Z",
+  "last_updated": "2026-09-09T17:37:12.296547Z",
   "overall_hit_rate": 0.049,
   "total_evaluated": 163,
   "per_category": {
@@ -63,9 +63,9 @@
   "weights": {
     "short": {
       "momentum": 0.096,
-      "technical": 0.285,
-      "trend": 0.329,
-      "stability": 0.29
+      "technical": 0.273,
+      "trend": 0.353,
+      "stability": 0.278
     },
     "medium": {
       "momentum": 0.3,
@@ -175,6 +175,18 @@
         "technical": 0.285,
         "trend": 0.329,
         "stability": 0.29
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "bucket": "short",
+      "hit_rate": 0.175,
+      "reason": "Trefferquote short-Horizont niedrig (18%) -> Momentum-Gewicht gesenkt, Trend-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.096,
+        "technical": 0.273,
+        "trend": 0.353,
+        "stability": 0.278
       }
     }
   ],
@@ -15716,6 +15728,118 @@
       "horizon_days": 30,
       "entry_date": "2026-09-09",
       "entry_price": 12.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "LLY",
+      "category": "gesundheit",
+      "horizon_days": 5,
+      "entry_date": "2026-09-09",
+      "entry_price": 1125.89,
+      "direction": "short"
+    },
+    {
+      "ticker": "LLY",
+      "category": "gesundheit",
+      "horizon_days": 10,
+      "entry_date": "2026-09-09",
+      "entry_price": 1125.89,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-09",
+      "entry_price": 119.96,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-09",
+      "entry_price": 119.96,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 15,
+      "entry_date": "2026-09-09",
+      "entry_price": 119.96,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 20,
+      "entry_date": "2026-09-09",
+      "entry_price": 119.96,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 25,
+      "entry_date": "2026-09-09",
+      "entry_price": 119.96,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 30,
+      "entry_date": "2026-09-09",
+      "entry_price": 119.96,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 5,
+      "entry_date": "2026-09-09",
+      "entry_price": 466.28,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 10,
+      "entry_date": "2026-09-09",
+      "entry_price": 466.28,
+      "direction": "short"
+    },
+    {
+      "ticker": "DOW",
+      "category": "grundstoffe",
+      "horizon_days": 15,
+      "entry_date": "2026-09-09",
+      "entry_price": 29.4,
+      "direction": "short"
+    },
+    {
+      "ticker": "DOW",
+      "category": "grundstoffe",
+      "horizon_days": 20,
+      "entry_date": "2026-09-09",
+      "entry_price": 29.4,
+      "direction": "short"
+    },
+    {
+      "ticker": "DOW",
+      "category": "grundstoffe",
+      "horizon_days": 25,
+      "entry_date": "2026-09-09",
+      "entry_price": 29.4,
+      "direction": "short"
+    },
+    {
+      "ticker": "DOW",
+      "category": "grundstoffe",
+      "horizon_days": 30,
+      "entry_date": "2026-09-09",
+      "entry_price": 29.4,
       "direction": "short"
     }
   ],
