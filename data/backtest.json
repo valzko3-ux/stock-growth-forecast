@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T06:18:57.880558Z",
+  "last_updated": "2026-09-09T12:18:52.662091Z",
   "overall_hit_rate": 0.049,
   "total_evaluated": 163,
   "per_category": {
@@ -62,10 +62,10 @@
   },
   "weights": {
     "short": {
-      "momentum": 0.12,
-      "technical": 0.3,
-      "trend": 0.29,
-      "stability": 0.29
+      "momentum": 0.099,
+      "technical": 0.297,
+      "trend": 0.302,
+      "stability": 0.302
     },
     "medium": {
       "momentum": 0.3,
@@ -151,6 +151,18 @@
         "technical": 0.3,
         "trend": 0.29,
         "stability": 0.29
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "bucket": "short",
+      "hit_rate": 0.175,
+      "reason": "Trefferquote short-Horizont niedrig (18%) -> Momentum-Gewicht gesenkt, Trend/Stabilität erhöht",
+      "new_weights": {
+        "momentum": 0.099,
+        "technical": 0.297,
+        "trend": 0.302,
+        "stability": 0.302
       }
     }
   ],
@@ -12887,6 +12899,76 @@
       "horizon_days": 30,
       "entry_date": "2026-09-09",
       "entry_price": 16.17
+    },
+    {
+      "ticker": "BAC",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-09",
+      "entry_price": 62.39
+    },
+    {
+      "ticker": "BAC",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-09",
+      "entry_price": 62.39
+    },
+    {
+      "ticker": "SPGI",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-09",
+      "entry_price": 429.31
+    },
+    {
+      "ticker": "SPGI",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-09",
+      "entry_price": 429.31
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-09",
+      "entry_price": 87.96
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-09",
+      "entry_price": 87.96
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-09",
+      "entry_price": 87.96
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-09",
+      "entry_price": 87.96
+    },
+    {
+      "ticker": "D",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-09",
+      "entry_price": 66.22
+    },
+    {
+      "ticker": "D",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-09",
+      "entry_price": 66.22
     }
   ],
   "evaluated_history": [
