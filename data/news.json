@@ -1,22 +1,97 @@
 {
-  "generated_at": "2026-09-09T17:37:25.200091Z",
+  "generated_at": "2026-09-10T05:33:13.031322Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+      "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "published": "Thu, 10 Sep 2026 03:00:00 GMT",
+      "categories": [
+        "Industrie"
+      ],
+      "winners": [],
+      "defensive": [
+        {
+          "ticker": "WM",
+          "name": "Waste Management"
+        },
+        {
+          "ticker": "ITW",
+          "name": "Illinois Tool Works"
+        }
+      ]
+    },
+    {
+      "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
+      "link": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
+      "published": "Wed, 09 Sep 2026 22:51:00 GMT",
+      "categories": [
+        "Basiskonsum"
+      ],
+      "winners": [
+        {
+          "ticker": "ADM",
+          "name": "Archer-Daniels-Midland"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "COST",
+          "name": "Costco"
+        },
+        {
+          "ticker": "CLX",
+          "name": "Clorox"
+        }
+      ]
+    },
+    {
+      "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "published": "Wed, 09 Sep 2026 20:36:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "DBK.DE",
+          "name": "Deutsche Bank"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "DBK.DE",
+          "name": "Deutsche Bank"
+        }
+      ]
+    },
+    {
+      "title": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
       "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-      "published": "Wed, 09 Sep 2026 16:19:00 GMT",
+      "published": "Wed, 09 Sep 2026 20:27:00 GMT",
       "categories": [
         "Energie"
       ],
       "winners": [
         {
-          "ticker": "MPC",
-          "name": "Marathon Petroleum"
-        },
-        {
           "ticker": "VLO",
           "name": "Valero Energy"
+        },
+        {
+          "ticker": "MPC",
+          "name": "Marathon Petroleum"
         },
         {
           "ticker": "PSX",
@@ -35,84 +110,20 @@
       ]
     },
     {
-      "title": "Fed rate hike hinges on two key inflation reports in the next two days",
-      "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
-      "published": "Wed, 09 Sep 2026 16:18:00 GMT",
+      "title": "Exclusive-China’s AI chipmakers raise prices as high-bandwidth memory shortage bites",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivechinas-ai-chipmakers-raise-prices-as-highbandwidth-memory-shortage-bites-4894950",
+      "published": "2026-09-10 05:12:27",
       "categories": [
-        "Finanzen"
+        "Künstliche Intelligenz"
       ],
       "winners": [
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        },
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        },
-        {
-          "ticker": "MS",
-          "name": "Morgan Stanley"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "AXP",
-          "name": "American Express"
-        },
-        {
-          "ticker": "MS",
-          "name": "Morgan Stanley"
-        }
-      ]
-    },
-    {
-      "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-      "published": "Wed, 09 Sep 2026 15:14:00 GMT",
-      "categories": [
-        "Finanzen"
-      ],
-      "winners": [
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        },
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        },
-        {
-          "ticker": "MS",
-          "name": "Morgan Stanley"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "AXP",
-          "name": "American Express"
-        },
-        {
-          "ticker": "MS",
-          "name": "Morgan Stanley"
-        }
-      ]
-    },
-    {
-      "title": "Legal software startup Harvey raises $550m at $15.5b valuation",
-      "link": "https://www.investing.com/news/stock-market-news/legal-software-startup-harvey-raises-550m-at-155b-valuation-93CH-4894226",
-      "published": "2026-09-09 16:51:10",
-      "categories": [
-        "Technologie"
-      ],
-      "winners": [
-        {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
-        },
         {
           "ticker": "META",
           "name": "Meta Platforms"
+        },
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
         },
         {
           "ticker": "AMD",
@@ -125,8 +136,8 @@
           "name": "Alphabet"
         },
         {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
         }
       ]
     },
@@ -139,16 +150,16 @@
       ],
       "winners": [
         {
-          "ticker": "C",
-          "name": "Citigroup"
+          "ticker": "DBK.DE",
+          "name": "Deutsche Bank"
         },
         {
           "ticker": "WFC",
           "name": "Wells Fargo"
         },
         {
-          "ticker": "MS",
-          "name": "Morgan Stanley"
+          "ticker": "C",
+          "name": "Citigroup"
         }
       ],
       "defensive": [
@@ -157,8 +168,8 @@
           "name": "American Express"
         },
         {
-          "ticker": "MS",
-          "name": "Morgan Stanley"
+          "ticker": "DBK.DE",
+          "name": "Deutsche Bank"
         }
       ]
     },
@@ -171,16 +182,16 @@
       ],
       "winners": [
         {
-          "ticker": "C",
-          "name": "Citigroup"
+          "ticker": "DBK.DE",
+          "name": "Deutsche Bank"
         },
         {
           "ticker": "WFC",
           "name": "Wells Fargo"
         },
         {
-          "ticker": "MS",
-          "name": "Morgan Stanley"
+          "ticker": "C",
+          "name": "Citigroup"
         }
       ],
       "defensive": [
@@ -189,8 +200,8 @@
           "name": "American Express"
         },
         {
-          "ticker": "MS",
-          "name": "Morgan Stanley"
+          "ticker": "DBK.DE",
+          "name": "Deutsche Bank"
         }
       ]
     }
