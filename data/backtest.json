@@ -1,63 +1,63 @@
 {
-  "last_updated": "2026-09-10T05:33:00.441699Z",
-  "overall_hit_rate": 0.199,
-  "total_evaluated": 372,
+  "last_updated": "2026-09-11T05:32:38.053017Z",
+  "overall_hit_rate": 0.239,
+  "total_evaluated": 535,
   "per_category": {
     "technologie": {
-      "n": 26,
-      "hit_rate": 0.308
+      "n": 39,
+      "hit_rate": 0.333
     },
     "gesundheit": {
-      "n": 27,
-      "hit_rate": 0.074
+      "n": 39,
+      "hit_rate": 0.128
     },
     "finanzen": {
-      "n": 26,
-      "hit_rate": 0.192
+      "n": 38,
+      "hit_rate": 0.237
     },
     "zyklischer_konsum": {
-      "n": 29,
-      "hit_rate": 0.103
+      "n": 41,
+      "hit_rate": 0.195
     },
     "basiskonsum": {
-      "n": 27,
-      "hit_rate": 0.185
+      "n": 39,
+      "hit_rate": 0.231
     },
     "industrie": {
-      "n": 26,
-      "hit_rate": 0.115
+      "n": 37,
+      "hit_rate": 0.162
     },
     "energie": {
-      "n": 24,
+      "n": 36,
       "hit_rate": 0.417
     },
     "versorger": {
-      "n": 31,
-      "hit_rate": 0.0
+      "n": 44,
+      "hit_rate": 0.068
     },
     "telekommunikation": {
-      "n": 24,
-      "hit_rate": 0.25
+      "n": 34,
+      "hit_rate": 0.294
     },
     "grundstoffe": {
-      "n": 27,
-      "hit_rate": 0.407
+      "n": 38,
+      "hit_rate": 0.421
     },
     "immobilien": {
-      "n": 27,
-      "hit_rate": 0.111
+      "n": 38,
+      "hit_rate": 0.158
     },
     "ki": {
-      "n": 24,
-      "hit_rate": 0.375
+      "n": 35,
+      "hit_rate": 0.314
     },
     "cybersecurity": {
-      "n": 24,
-      "hit_rate": 0.208
+      "n": 35,
+      "hit_rate": 0.229
     },
     "e_mobility": {
-      "n": 30,
-      "hit_rate": 0.133
+      "n": 42,
+      "hit_rate": 0.214
     }
   },
   "weights": {
@@ -3134,41 +3134,6 @@
     {
       "ticker": "NVDA",
       "category": "technologie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 230.36
-    },
-    {
-      "ticker": "META",
-      "category": "technologie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 616.77
-    },
-    {
-      "ticker": "QCOM",
-      "category": "technologie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 168.74
-    },
-    {
-      "ticker": "AAPL",
-      "category": "technologie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 319.97
-    },
-    {
-      "ticker": "ORCL",
-      "category": "technologie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 158.78
-    },
-    {
-      "ticker": "NVDA",
-      "category": "technologie",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 230.36
@@ -3375,41 +3340,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 477.57
-    },
-    {
-      "ticker": "JNJ",
-      "category": "gesundheit",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 275.23
-    },
-    {
-      "ticker": "GILD",
-      "category": "gesundheit",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 151.0
-    },
-    {
-      "ticker": "ELV",
-      "category": "gesundheit",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 407.5
-    },
-    {
-      "ticker": "MRNA",
-      "category": "gesundheit",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 145.55
-    },
-    {
-      "ticker": "REGN",
-      "category": "gesundheit",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 827.72
     },
     {
       "ticker": "JNJ",
@@ -3624,41 +3554,6 @@
     {
       "ticker": "WFC",
       "category": "finanzen",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 89.97
-    },
-    {
-      "ticker": "C",
-      "category": "finanzen",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 137.72
-    },
-    {
-      "ticker": "DBK.DE",
-      "category": "finanzen",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 35.57
-    },
-    {
-      "ticker": "TFC",
-      "category": "finanzen",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 51.65
-    },
-    {
-      "ticker": "ALV.DE",
-      "category": "finanzen",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 450.6
-    },
-    {
-      "ticker": "WFC",
-      "category": "finanzen",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 89.97
@@ -3869,41 +3764,6 @@
     {
       "ticker": "GM",
       "category": "zyklischer_konsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 87.76
-    },
-    {
-      "ticker": "F",
-      "category": "zyklischer_konsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 14.62
-    },
-    {
-      "ticker": "YUM",
-      "category": "zyklischer_konsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 150.71
-    },
-    {
-      "ticker": "TSLA",
-      "category": "zyklischer_konsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 354.08
-    },
-    {
-      "ticker": "ABNB",
-      "category": "zyklischer_konsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 181.94
-    },
-    {
-      "ticker": "GM",
-      "category": "zyklischer_konsum",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 87.76
@@ -4114,41 +3974,6 @@
     {
       "ticker": "PG",
       "category": "basiskonsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 146.44
-    },
-    {
-      "ticker": "KR",
-      "category": "basiskonsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 58.59
-    },
-    {
-      "ticker": "ADM",
-      "category": "basiskonsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 84.61
-    },
-    {
-      "ticker": "EL",
-      "category": "basiskonsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 103.86
-    },
-    {
-      "ticker": "KO",
-      "category": "basiskonsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 88.07
-    },
-    {
-      "ticker": "PG",
-      "category": "basiskonsum",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 146.44
@@ -4355,41 +4180,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 103.86
-    },
-    {
-      "ticker": "DE",
-      "category": "industrie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 693.53
-    },
-    {
-      "ticker": "UPS",
-      "category": "industrie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 102.29
-    },
-    {
-      "ticker": "EMR",
-      "category": "industrie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 152.82
-    },
-    {
-      "ticker": "CAT",
-      "category": "industrie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 813.94
-    },
-    {
-      "ticker": "CSX",
-      "category": "industrie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 49.41
     },
     {
       "ticker": "UPS",
@@ -4604,41 +4394,6 @@
     {
       "ticker": "VLO",
       "category": "energie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 370.72
-    },
-    {
-      "ticker": "CVX",
-      "category": "energie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 208.6
-    },
-    {
-      "ticker": "PSX",
-      "category": "energie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 255.09
-    },
-    {
-      "ticker": "HAL",
-      "category": "energie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 37.07
-    },
-    {
-      "ticker": "DVN",
-      "category": "energie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 48.06
-    },
-    {
-      "ticker": "VLO",
-      "category": "energie",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 370.72
@@ -4845,41 +4600,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 134.26
-    },
-    {
-      "ticker": "ETR",
-      "category": "versorger",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 107.27
-    },
-    {
-      "ticker": "AWK",
-      "category": "versorger",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 140.7
-    },
-    {
-      "ticker": "PPL",
-      "category": "versorger",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 35.11
-    },
-    {
-      "ticker": "FE",
-      "category": "versorger",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 46.77
-    },
-    {
-      "ticker": "AEP",
-      "category": "versorger",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 124.5
     },
     {
       "ticker": "ETR",
@@ -5094,41 +4814,6 @@
     {
       "ticker": "VOD",
       "category": "telekommunikation",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 16.9
-    },
-    {
-      "ticker": "VZ",
-      "category": "telekommunikation",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 50.14
-    },
-    {
-      "ticker": "T",
-      "category": "telekommunikation",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 25.68
-    },
-    {
-      "ticker": "LUMN",
-      "category": "telekommunikation",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 6.77
-    },
-    {
-      "ticker": "TMUS",
-      "category": "telekommunikation",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 181.52
-    },
-    {
-      "ticker": "VOD",
-      "category": "telekommunikation",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 16.9
@@ -5339,41 +5024,6 @@
     {
       "ticker": "BAS.DE",
       "category": "grundstoffe",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 53.36
-    },
-    {
-      "ticker": "MOS",
-      "category": "grundstoffe",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 25.85
-    },
-    {
-      "ticker": "CTVA",
-      "category": "grundstoffe",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 87.86
-    },
-    {
-      "ticker": "NUE",
-      "category": "grundstoffe",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 261.07
-    },
-    {
-      "ticker": "CF",
-      "category": "grundstoffe",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 133.35
-    },
-    {
-      "ticker": "BAS.DE",
-      "category": "grundstoffe",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 53.36
@@ -5580,41 +5230,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 86.35
-    },
-    {
-      "ticker": "KIM",
-      "category": "immobilien",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 23.6
-    },
-    {
-      "ticker": "AMT",
-      "category": "immobilien",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 175.85
-    },
-    {
-      "ticker": "ARE",
-      "category": "immobilien",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 52.65
-    },
-    {
-      "ticker": "CCI",
-      "category": "immobilien",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 75.83
-    },
-    {
-      "ticker": "DLR",
-      "category": "immobilien",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 188.39
     },
     {
       "ticker": "AMT",
@@ -5829,41 +5444,6 @@
     {
       "ticker": "NVDA",
       "category": "ki",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 230.36
-    },
-    {
-      "ticker": "TSM",
-      "category": "ki",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 428.91
-    },
-    {
-      "ticker": "META",
-      "category": "ki",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 616.77
-    },
-    {
-      "ticker": "ORCL",
-      "category": "ki",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 158.78
-    },
-    {
-      "ticker": "DELL",
-      "category": "ki",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 524.14
-    },
-    {
-      "ticker": "NVDA",
-      "category": "ki",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 230.36
@@ -6070,41 +5650,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 477.57
-    },
-    {
-      "ticker": "GEN",
-      "category": "cybersecurity",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 30.65
-    },
-    {
-      "ticker": "VRNS",
-      "category": "cybersecurity",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 46.09
-    },
-    {
-      "ticker": "CHKP",
-      "category": "cybersecurity",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 137.05
-    },
-    {
-      "ticker": "OKTA",
-      "category": "cybersecurity",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 170.6
-    },
-    {
-      "ticker": "CRWD",
-      "category": "cybersecurity",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 213.1
     },
     {
       "ticker": "GEN",
@@ -6319,41 +5864,6 @@
     {
       "ticker": "F",
       "category": "e_mobility",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 14.62
-    },
-    {
-      "ticker": "GM",
-      "category": "e_mobility",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 87.76
-    },
-    {
-      "ticker": "BLNK",
-      "category": "e_mobility",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 0.59
-    },
-    {
-      "ticker": "STLA",
-      "category": "e_mobility",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 5.56
-    },
-    {
-      "ticker": "CHPT",
-      "category": "e_mobility",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 9.89
-    },
-    {
-      "ticker": "F",
-      "category": "e_mobility",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 14.62
@@ -6560,13 +6070,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 354.08
-    },
-    {
-      "ticker": "MSFT",
-      "category": "technologie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 499.7
     },
     {
       "ticker": "ORCL",
@@ -6609,13 +6112,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 141.26
-    },
-    {
-      "ticker": "MS",
-      "category": "finanzen",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 217.72
     },
     {
       "ticker": "SPGI",
@@ -6662,20 +6158,6 @@
     {
       "ticker": "INTC",
       "category": "technologie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 105.04
-    },
-    {
-      "ticker": "AMD",
-      "category": "technologie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 508.44
-    },
-    {
-      "ticker": "INTC",
-      "category": "technologie",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 105.04
@@ -6756,20 +6238,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 105.04
-    },
-    {
-      "ticker": "UNH",
-      "category": "gesundheit",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 401.7
-    },
-    {
-      "ticker": "PFE",
-      "category": "gesundheit",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 27.93
     },
     {
       "ticker": "UNH",
@@ -6856,13 +6324,6 @@
       "entry_price": 148.9
     },
     {
-      "ticker": "BAC",
-      "category": "finanzen",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 62.78
-    },
-    {
       "ticker": "WFC",
       "category": "finanzen",
       "horizon_days": 15,
@@ -6891,20 +6352,6 @@
       "entry_price": 88.81
     },
     {
-      "ticker": "AMZN",
-      "category": "zyklischer_konsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 257.05
-    },
-    {
-      "ticker": "EBAY",
-      "category": "zyklischer_konsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 103.07
-    },
-    {
       "ticker": "EBAY",
       "category": "zyklischer_konsum",
       "horizon_days": 5,
@@ -6917,20 +6364,6 @@
       "horizon_days": 10,
       "entry_date": "2026-09-08",
       "entry_price": 103.07
-    },
-    {
-      "ticker": "MO",
-      "category": "basiskonsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 68.31
-    },
-    {
-      "ticker": "TGT",
-      "category": "basiskonsum",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 163.1
     },
     {
       "ticker": "MO",
@@ -6959,13 +6392,6 @@
       "horizon_days": 10,
       "entry_date": "2026-09-08",
       "entry_price": 163.1
-    },
-    {
-      "ticker": "ETN",
-      "category": "industrie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 427.27
     },
     {
       "ticker": "ETN",
@@ -7008,41 +6434,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 427.27
-    },
-    {
-      "ticker": "MPC",
-      "category": "energie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 397.35
-    },
-    {
-      "ticker": "OXY",
-      "category": "energie",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 60.68
-    },
-    {
-      "ticker": "ED",
-      "category": "versorger",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 108.68
-    },
-    {
-      "ticker": "D",
-      "category": "versorger",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 66.57
-    },
-    {
-      "ticker": "ES",
-      "category": "versorger",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 71.95
     },
     {
       "ticker": "ED",
@@ -7131,13 +6522,6 @@
     {
       "ticker": "IFF",
       "category": "grundstoffe",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 85.57
-    },
-    {
-      "ticker": "IFF",
-      "category": "grundstoffe",
       "horizon_days": 5,
       "entry_date": "2026-09-08",
       "entry_price": 85.57
@@ -7176,13 +6560,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 26.35
-    },
-    {
-      "ticker": "WELL",
-      "category": "immobilien",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 239.26
     },
     {
       "ticker": "WELL",
@@ -7253,13 +6630,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 1050.93
-    },
-    {
-      "ticker": "AMD",
-      "category": "ki",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 508.44
     },
     {
       "ticker": "AMD",
@@ -7344,27 +6714,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-08",
       "entry_price": 337.95
-    },
-    {
-      "ticker": "QLYS",
-      "category": "cybersecurity",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 170.84
-    },
-    {
-      "ticker": "LI",
-      "category": "e_mobility",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 12.52
-    },
-    {
-      "ticker": "PLUG",
-      "category": "e_mobility",
-      "horizon_days": 3,
-      "entry_date": "2026-09-08",
-      "entry_price": 2.29
     },
     {
       "ticker": "LI",
@@ -14336,46 +13685,6 @@
     {
       "ticker": "GOOGL",
       "category": "technologie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 330.65,
-      "direction": "short"
-    },
-    {
-      "ticker": "QCOM",
-      "category": "technologie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 176.4,
-      "direction": "long"
-    },
-    {
-      "ticker": "META",
-      "category": "technologie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 653.69,
-      "direction": "long"
-    },
-    {
-      "ticker": "AMD",
-      "category": "technologie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 521.1,
-      "direction": "long"
-    },
-    {
-      "ticker": "INTU",
-      "category": "technologie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 313.94,
-      "direction": "short"
-    },
-    {
-      "ticker": "GOOGL",
-      "category": "technologie",
       "horizon_days": 3,
       "entry_date": "2026-09-10",
       "entry_price": 330.65,
@@ -14651,46 +13960,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-10",
       "entry_price": 330.65,
-      "direction": "short"
-    },
-    {
-      "ticker": "ISRG",
-      "category": "gesundheit",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 353.24,
-      "direction": "short"
-    },
-    {
-      "ticker": "SYK",
-      "category": "gesundheit",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 275.39,
-      "direction": "short"
-    },
-    {
-      "ticker": "BSX",
-      "category": "gesundheit",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 44.96,
-      "direction": "short"
-    },
-    {
-      "ticker": "ABBV",
-      "category": "gesundheit",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 250.91,
-      "direction": "short"
-    },
-    {
-      "ticker": "LLY",
-      "category": "gesundheit",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 1124.21,
       "direction": "short"
     },
     {
@@ -14976,46 +14245,6 @@
     {
       "ticker": "AXP",
       "category": "finanzen",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 321.8,
-      "direction": "short"
-    },
-    {
-      "ticker": "C",
-      "category": "finanzen",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 137.8,
-      "direction": "long"
-    },
-    {
-      "ticker": "WFC",
-      "category": "finanzen",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 89.67,
-      "direction": "long"
-    },
-    {
-      "ticker": "DBK.DE",
-      "category": "finanzen",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 35.75,
-      "direction": "long"
-    },
-    {
-      "ticker": "SPGI",
-      "category": "finanzen",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 418.36,
-      "direction": "short"
-    },
-    {
-      "ticker": "AXP",
-      "category": "finanzen",
       "horizon_days": 3,
       "entry_date": "2026-09-10",
       "entry_price": 321.8,
@@ -15292,46 +14521,6 @@
       "entry_date": "2026-09-10",
       "entry_price": 62.67,
       "direction": "long"
-    },
-    {
-      "ticker": "MCD",
-      "category": "zyklischer_konsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 253.48,
-      "direction": "short"
-    },
-    {
-      "ticker": "TJX",
-      "category": "zyklischer_konsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 126.12,
-      "direction": "short"
-    },
-    {
-      "ticker": "HD",
-      "category": "zyklischer_konsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 310.45,
-      "direction": "short"
-    },
-    {
-      "ticker": "LEN",
-      "category": "zyklischer_konsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 80.76,
-      "direction": "short"
-    },
-    {
-      "ticker": "NKE",
-      "category": "zyklischer_konsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 37.35,
-      "direction": "short"
     },
     {
       "ticker": "MCD",
@@ -15611,46 +14800,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-10",
       "entry_price": 80.76,
-      "direction": "short"
-    },
-    {
-      "ticker": "PEP",
-      "category": "basiskonsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 136.69,
-      "direction": "short"
-    },
-    {
-      "ticker": "COST",
-      "category": "basiskonsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 902.6,
-      "direction": "short"
-    },
-    {
-      "ticker": "CLX",
-      "category": "basiskonsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 89.62,
-      "direction": "short"
-    },
-    {
-      "ticker": "KMB",
-      "category": "basiskonsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 98.7,
-      "direction": "short"
-    },
-    {
-      "ticker": "KR",
-      "category": "basiskonsum",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 56.44,
       "direction": "short"
     },
     {
@@ -15936,46 +15085,6 @@
     {
       "ticker": "ITW",
       "category": "industrie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 263.99,
-      "direction": "short"
-    },
-    {
-      "ticker": "WM",
-      "category": "industrie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 216.44,
-      "direction": "short"
-    },
-    {
-      "ticker": "UPS",
-      "category": "industrie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 99.22,
-      "direction": "short"
-    },
-    {
-      "ticker": "BA",
-      "category": "industrie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 206.42,
-      "direction": "short"
-    },
-    {
-      "ticker": "HON",
-      "category": "industrie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 204.93,
-      "direction": "short"
-    },
-    {
-      "ticker": "ITW",
-      "category": "industrie",
       "horizon_days": 3,
       "entry_date": "2026-09-10",
       "entry_price": 263.99,
@@ -16256,46 +15365,6 @@
     {
       "ticker": "CVX",
       "category": "energie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 213.81,
-      "direction": "long"
-    },
-    {
-      "ticker": "VLO",
-      "category": "energie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 388.95,
-      "direction": "long"
-    },
-    {
-      "ticker": "MPC",
-      "category": "energie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 399.44,
-      "direction": "long"
-    },
-    {
-      "ticker": "PSX",
-      "category": "energie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 260.78,
-      "direction": "long"
-    },
-    {
-      "ticker": "HAL",
-      "category": "energie",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 37.13,
-      "direction": "long"
-    },
-    {
-      "ticker": "CVX",
-      "category": "energie",
       "horizon_days": 3,
       "entry_date": "2026-09-10",
       "entry_price": 213.81,
@@ -16572,46 +15641,6 @@
       "entry_date": "2026-09-10",
       "entry_price": 136.53,
       "direction": "long"
-    },
-    {
-      "ticker": "XEL",
-      "category": "versorger",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 76.19,
-      "direction": "short"
-    },
-    {
-      "ticker": "AWK",
-      "category": "versorger",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 140.33,
-      "direction": "long"
-    },
-    {
-      "ticker": "ATO",
-      "category": "versorger",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 166.59,
-      "direction": "short"
-    },
-    {
-      "ticker": "FE",
-      "category": "versorger",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 46.21,
-      "direction": "short"
-    },
-    {
-      "ticker": "NEE",
-      "category": "versorger",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 82.65,
-      "direction": "short"
     },
     {
       "ticker": "XEL",
@@ -16896,46 +15925,6 @@
     {
       "ticker": "VOD",
       "category": "telekommunikation",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 17.13,
-      "direction": "long"
-    },
-    {
-      "ticker": "TMUS",
-      "category": "telekommunikation",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 177.34,
-      "direction": "short"
-    },
-    {
-      "ticker": "CMCSA",
-      "category": "telekommunikation",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 24.59,
-      "direction": "short"
-    },
-    {
-      "ticker": "CHTR",
-      "category": "telekommunikation",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 133.89,
-      "direction": "short"
-    },
-    {
-      "ticker": "VZ",
-      "category": "telekommunikation",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 49.74,
-      "direction": "long"
-    },
-    {
-      "ticker": "VOD",
-      "category": "telekommunikation",
       "horizon_days": 3,
       "entry_date": "2026-09-10",
       "entry_price": 17.13,
@@ -17216,46 +16205,6 @@
     {
       "ticker": "LIN",
       "category": "grundstoffe",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 466.65,
-      "direction": "short"
-    },
-    {
-      "ticker": "SHW",
-      "category": "grundstoffe",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 320.64,
-      "direction": "short"
-    },
-    {
-      "ticker": "DD",
-      "category": "grundstoffe",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 127.92,
-      "direction": "short"
-    },
-    {
-      "ticker": "PPG",
-      "category": "grundstoffe",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 107.16,
-      "direction": "short"
-    },
-    {
-      "ticker": "VMC",
-      "category": "grundstoffe",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 249.89,
-      "direction": "short"
-    },
-    {
-      "ticker": "LIN",
-      "category": "grundstoffe",
       "horizon_days": 3,
       "entry_date": "2026-09-10",
       "entry_price": 466.65,
@@ -17531,46 +16480,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-10",
       "entry_price": 29.4,
-      "direction": "short"
-    },
-    {
-      "ticker": "PLD",
-      "category": "immobilien",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 135.66,
-      "direction": "short"
-    },
-    {
-      "ticker": "EXR",
-      "category": "immobilien",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 135.63,
-      "direction": "short"
-    },
-    {
-      "ticker": "VICI",
-      "category": "immobilien",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 25.21,
-      "direction": "short"
-    },
-    {
-      "ticker": "O",
-      "category": "immobilien",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 60.11,
-      "direction": "short"
-    },
-    {
-      "ticker": "PSA",
-      "category": "immobilien",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 294.6,
       "direction": "short"
     },
     {
@@ -17856,46 +16765,6 @@
     {
       "ticker": "GOOGL",
       "category": "ki",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 330.65,
-      "direction": "short"
-    },
-    {
-      "ticker": "TSM",
-      "category": "ki",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 435.36,
-      "direction": "long"
-    },
-    {
-      "ticker": "META",
-      "category": "ki",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 653.69,
-      "direction": "long"
-    },
-    {
-      "ticker": "AMD",
-      "category": "ki",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 521.1,
-      "direction": "long"
-    },
-    {
-      "ticker": "AVGO",
-      "category": "ki",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 364.38,
-      "direction": "short"
-    },
-    {
-      "ticker": "GOOGL",
-      "category": "ki",
       "horizon_days": 3,
       "entry_date": "2026-09-10",
       "entry_price": 330.65,
@@ -18171,46 +17040,6 @@
       "horizon_days": 30,
       "entry_date": "2026-09-10",
       "entry_price": 223.67,
-      "direction": "long"
-    },
-    {
-      "ticker": "VRNS",
-      "category": "cybersecurity",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 46.09,
-      "direction": "long"
-    },
-    {
-      "ticker": "OKTA",
-      "category": "cybersecurity",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 172.74,
-      "direction": "long"
-    },
-    {
-      "ticker": "FTNT",
-      "category": "cybersecurity",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 157.22,
-      "direction": "short"
-    },
-    {
-      "ticker": "ZS",
-      "category": "cybersecurity",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 166.1,
-      "direction": "short"
-    },
-    {
-      "ticker": "GEN",
-      "category": "cybersecurity",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 29.76,
       "direction": "long"
     },
     {
@@ -18496,46 +17325,6 @@
     {
       "ticker": "NIO",
       "category": "e_mobility",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 3.7,
-      "direction": "short"
-    },
-    {
-      "ticker": "LI",
-      "category": "e_mobility",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 11.91,
-      "direction": "short"
-    },
-    {
-      "ticker": "XPEV",
-      "category": "e_mobility",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 10.57,
-      "direction": "short"
-    },
-    {
-      "ticker": "ALB",
-      "category": "e_mobility",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 125.91,
-      "direction": "short"
-    },
-    {
-      "ticker": "QS",
-      "category": "e_mobility",
-      "horizon_days": 1,
-      "entry_date": "2026-09-10",
-      "entry_price": 5.22,
-      "direction": "short"
-    },
-    {
-      "ticker": "NIO",
-      "category": "e_mobility",
       "horizon_days": 3,
       "entry_date": "2026-09-10",
       "entry_price": 3.7,
@@ -18811,6 +17600,4486 @@
       "horizon_days": 30,
       "entry_date": "2026-09-10",
       "entry_price": 125.91,
+      "direction": "short"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 176.88,
+      "direction": "long"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "ADBE",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 248.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 176.88,
+      "direction": "long"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "ADBE",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 248.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 176.88,
+      "direction": "long"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "AVGO",
+      "category": "technologie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 360.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 176.88,
+      "direction": "long"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "AVGO",
+      "category": "technologie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 360.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "direction": "long"
+    },
+    {
+      "ticker": "AMD",
+      "category": "technologie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 176.88,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "direction": "long"
+    },
+    {
+      "ticker": "AMD",
+      "category": "technologie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 176.88,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "direction": "long"
+    },
+    {
+      "ticker": "AMD",
+      "category": "technologie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 176.88,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 326.57,
+      "direction": "long"
+    },
+    {
+      "ticker": "AMD",
+      "category": "technologie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 176.88,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "ABT",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 103.36,
+      "direction": "short"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 416.54,
+      "direction": "long"
+    },
+    {
+      "ticker": "DHR",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 200.53,
+      "direction": "short"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 270.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 43.1,
+      "direction": "short"
+    },
+    {
+      "ticker": "ABT",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 103.36,
+      "direction": "short"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 416.54,
+      "direction": "long"
+    },
+    {
+      "ticker": "DHR",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 200.53,
+      "direction": "short"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 270.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 43.1,
+      "direction": "short"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 270.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "ABT",
+      "category": "gesundheit",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 103.36,
+      "direction": "short"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 43.1,
+      "direction": "short"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 416.54,
+      "direction": "long"
+    },
+    {
+      "ticker": "DHR",
+      "category": "gesundheit",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 200.53,
+      "direction": "short"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 270.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "ABT",
+      "category": "gesundheit",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 103.36,
+      "direction": "short"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 43.1,
+      "direction": "short"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 416.54,
+      "direction": "long"
+    },
+    {
+      "ticker": "DHR",
+      "category": "gesundheit",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 200.53,
+      "direction": "short"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 416.54,
+      "direction": "long"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 270.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "ISRG",
+      "category": "gesundheit",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 360.46,
+      "direction": "short"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 43.1,
+      "direction": "short"
+    },
+    {
+      "ticker": "ABT",
+      "category": "gesundheit",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 103.36,
+      "direction": "short"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 416.54,
+      "direction": "long"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 270.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "ISRG",
+      "category": "gesundheit",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 360.46,
+      "direction": "short"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 43.1,
+      "direction": "short"
+    },
+    {
+      "ticker": "ABT",
+      "category": "gesundheit",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 103.36,
+      "direction": "short"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 416.54,
+      "direction": "long"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 270.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "ISRG",
+      "category": "gesundheit",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 360.46,
+      "direction": "short"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 43.1,
+      "direction": "short"
+    },
+    {
+      "ticker": "ABT",
+      "category": "gesundheit",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 103.36,
+      "direction": "short"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 416.54,
+      "direction": "long"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 270.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "ISRG",
+      "category": "gesundheit",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 360.46,
+      "direction": "short"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 43.1,
+      "direction": "short"
+    },
+    {
+      "ticker": "ABT",
+      "category": "gesundheit",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 103.36,
+      "direction": "short"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 320.71,
+      "direction": "short"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 138.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "SPGI",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 410.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.04,
+      "direction": "long"
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 89.45,
+      "direction": "long"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 320.71,
+      "direction": "short"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 138.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "SPGI",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 410.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.04,
+      "direction": "long"
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 89.45,
+      "direction": "long"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 320.71,
+      "direction": "short"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 138.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "SPGI",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 410.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.04,
+      "direction": "long"
+    },
+    {
+      "ticker": "BLK",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 1062.4,
+      "direction": "short"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 320.71,
+      "direction": "short"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 138.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "SPGI",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 410.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.04,
+      "direction": "long"
+    },
+    {
+      "ticker": "BLK",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 1062.4,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.04,
+      "direction": "long"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 138.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "BAC",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 62.56,
+      "direction": "long"
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 89.45,
+      "direction": "long"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 320.71,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.04,
+      "direction": "long"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 138.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "BAC",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 62.56,
+      "direction": "long"
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 89.45,
+      "direction": "long"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 320.71,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.04,
+      "direction": "long"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 138.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "BAC",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 62.56,
+      "direction": "long"
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 89.45,
+      "direction": "long"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 320.71,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.04,
+      "direction": "long"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 138.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "BAC",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 62.56,
+      "direction": "long"
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 89.45,
+      "direction": "long"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 320.71,
+      "direction": "short"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 253.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "HD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 305.69,
+      "direction": "short"
+    },
+    {
+      "ticker": "LOW",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 196.59,
+      "direction": "short"
+    },
+    {
+      "ticker": "YUM",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 143.89,
+      "direction": "short"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 77.9,
+      "direction": "short"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 253.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "HD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 305.69,
+      "direction": "short"
+    },
+    {
+      "ticker": "LOW",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 196.59,
+      "direction": "short"
+    },
+    {
+      "ticker": "YUM",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 143.89,
+      "direction": "short"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 77.9,
+      "direction": "short"
+    },
+    {
+      "ticker": "HD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 305.69,
+      "direction": "short"
+    },
+    {
+      "ticker": "BKNG",
+      "category": "zyklischer_konsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 174.33,
+      "direction": "short"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 253.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "LOW",
+      "category": "zyklischer_konsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 196.59,
+      "direction": "short"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 77.9,
+      "direction": "short"
+    },
+    {
+      "ticker": "HD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 305.69,
+      "direction": "short"
+    },
+    {
+      "ticker": "BKNG",
+      "category": "zyklischer_konsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 174.33,
+      "direction": "short"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 253.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "LOW",
+      "category": "zyklischer_konsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 196.59,
+      "direction": "short"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 77.9,
+      "direction": "short"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 253.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "TJX",
+      "category": "zyklischer_konsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 126.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "LOW",
+      "category": "zyklischer_konsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 196.59,
+      "direction": "short"
+    },
+    {
+      "ticker": "NKE",
+      "category": "zyklischer_konsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 36.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 77.9,
+      "direction": "short"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 253.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "TJX",
+      "category": "zyklischer_konsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 126.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "LOW",
+      "category": "zyklischer_konsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 196.59,
+      "direction": "short"
+    },
+    {
+      "ticker": "NKE",
+      "category": "zyklischer_konsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 36.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 77.9,
+      "direction": "short"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 253.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "TJX",
+      "category": "zyklischer_konsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 126.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "LOW",
+      "category": "zyklischer_konsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 196.59,
+      "direction": "short"
+    },
+    {
+      "ticker": "NKE",
+      "category": "zyklischer_konsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 36.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 77.9,
+      "direction": "short"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 253.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "TJX",
+      "category": "zyklischer_konsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 126.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "LOW",
+      "category": "zyklischer_konsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 196.59,
+      "direction": "short"
+    },
+    {
+      "ticker": "NKE",
+      "category": "zyklischer_konsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 36.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 77.9,
+      "direction": "short"
+    },
+    {
+      "ticker": "PG",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 142.97,
+      "direction": "short"
+    },
+    {
+      "ticker": "PEP",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 136.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 902.38,
+      "direction": "short"
+    },
+    {
+      "ticker": "KMB",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 98.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "KR",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 56.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "PG",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 142.97,
+      "direction": "short"
+    },
+    {
+      "ticker": "PEP",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 136.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 902.38,
+      "direction": "short"
+    },
+    {
+      "ticker": "KMB",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 98.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "KR",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 56.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "KMB",
+      "category": "basiskonsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 98.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "ADM",
+      "category": "basiskonsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 86.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 88.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 902.38,
+      "direction": "short"
+    },
+    {
+      "ticker": "GIS",
+      "category": "basiskonsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.96,
+      "direction": "short"
+    },
+    {
+      "ticker": "KMB",
+      "category": "basiskonsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 98.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "ADM",
+      "category": "basiskonsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 86.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 88.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 902.38,
+      "direction": "short"
+    },
+    {
+      "ticker": "GIS",
+      "category": "basiskonsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.96,
+      "direction": "short"
+    },
+    {
+      "ticker": "ADM",
+      "category": "basiskonsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 86.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "KR",
+      "category": "basiskonsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 56.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 902.38,
+      "direction": "short"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 88.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "PEP",
+      "category": "basiskonsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 136.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "ADM",
+      "category": "basiskonsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 86.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "KR",
+      "category": "basiskonsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 56.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 902.38,
+      "direction": "short"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 88.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "PEP",
+      "category": "basiskonsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 136.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "ADM",
+      "category": "basiskonsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 86.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "KR",
+      "category": "basiskonsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 56.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 902.38,
+      "direction": "short"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 88.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "PEP",
+      "category": "basiskonsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 136.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "ADM",
+      "category": "basiskonsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 86.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "KR",
+      "category": "basiskonsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 56.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 902.38,
+      "direction": "short"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 88.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "PEP",
+      "category": "basiskonsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 136.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 214.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 204.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "UPS",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 99.97,
+      "direction": "short"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 202.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "PH",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 934.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 214.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 204.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "UPS",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 99.97,
+      "direction": "short"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 202.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "PH",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 934.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 202.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 204.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "PH",
+      "category": "industrie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 934.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 214.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "UPS",
+      "category": "industrie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 99.97,
+      "direction": "short"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 202.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 204.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "PH",
+      "category": "industrie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 934.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 214.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "UPS",
+      "category": "industrie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 99.97,
+      "direction": "short"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 202.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 204.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "NOC",
+      "category": "industrie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 518.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 214.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "DE",
+      "category": "industrie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 677.94,
+      "direction": "long"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 202.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 204.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "NOC",
+      "category": "industrie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 518.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 214.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "DE",
+      "category": "industrie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 677.94,
+      "direction": "long"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 202.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 204.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "NOC",
+      "category": "industrie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 518.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 214.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "DE",
+      "category": "industrie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 677.94,
+      "direction": "long"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 202.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 204.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "NOC",
+      "category": "industrie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 518.95,
+      "direction": "short"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 214.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "DE",
+      "category": "industrie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 677.94,
+      "direction": "long"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 50.02,
+      "direction": "long"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 212.76,
+      "direction": "long"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 385.43,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 392.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 258.51,
+      "direction": "long"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 50.02,
+      "direction": "long"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 212.76,
+      "direction": "long"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 385.43,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 392.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 258.51,
+      "direction": "long"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 50.02,
+      "direction": "long"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 385.43,
+      "direction": "long"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 258.51,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 392.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 212.76,
+      "direction": "long"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 50.02,
+      "direction": "long"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 385.43,
+      "direction": "long"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 258.51,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 392.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 212.76,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 392.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 258.51,
+      "direction": "long"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 385.43,
+      "direction": "long"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 212.76,
+      "direction": "long"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 50.02,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 392.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 258.51,
+      "direction": "long"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 385.43,
+      "direction": "long"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 212.76,
+      "direction": "long"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 50.02,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 392.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 258.51,
+      "direction": "long"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 385.43,
+      "direction": "long"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 212.76,
+      "direction": "long"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 50.02,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 392.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 258.51,
+      "direction": "long"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 385.43,
+      "direction": "long"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 212.76,
+      "direction": "long"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 50.02,
+      "direction": "long"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 119.37,
+      "direction": "short"
+    },
+    {
+      "ticker": "SO",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 87.75,
+      "direction": "short"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 75.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "ES",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 68.99,
+      "direction": "short"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 139.84,
+      "direction": "long"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 119.37,
+      "direction": "short"
+    },
+    {
+      "ticker": "SO",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 87.75,
+      "direction": "short"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 75.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "ES",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 68.99,
+      "direction": "short"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 139.84,
+      "direction": "long"
+    },
+    {
+      "ticker": "SO",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 87.75,
+      "direction": "short"
+    },
+    {
+      "ticker": "ES",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 68.99,
+      "direction": "short"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 75.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 119.37,
+      "direction": "short"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 139.84,
+      "direction": "long"
+    },
+    {
+      "ticker": "SO",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 87.75,
+      "direction": "short"
+    },
+    {
+      "ticker": "ES",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 68.99,
+      "direction": "short"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 75.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 119.37,
+      "direction": "short"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 139.84,
+      "direction": "long"
+    },
+    {
+      "ticker": "SO",
+      "category": "versorger",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 87.75,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 119.37,
+      "direction": "short"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 75.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 139.84,
+      "direction": "long"
+    },
+    {
+      "ticker": "PEG",
+      "category": "versorger",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 72.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "SO",
+      "category": "versorger",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 87.75,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 119.37,
+      "direction": "short"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 75.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 139.84,
+      "direction": "long"
+    },
+    {
+      "ticker": "PEG",
+      "category": "versorger",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 72.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "SO",
+      "category": "versorger",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 87.75,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 119.37,
+      "direction": "short"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 75.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 139.84,
+      "direction": "long"
+    },
+    {
+      "ticker": "PEG",
+      "category": "versorger",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 72.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "SO",
+      "category": "versorger",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 87.75,
+      "direction": "short"
+    },
+    {
+      "ticker": "DUK",
+      "category": "versorger",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 119.37,
+      "direction": "short"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 75.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 139.84,
+      "direction": "long"
+    },
+    {
+      "ticker": "PEG",
+      "category": "versorger",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 72.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 17.33,
+      "direction": "long"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 177.16,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 140.56,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMX",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 22.82,
+      "direction": "short"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 27.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 17.33,
+      "direction": "long"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 177.16,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 140.56,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMX",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 22.82,
+      "direction": "short"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 27.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 17.33,
+      "direction": "long"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 177.16,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 140.56,
+      "direction": "short"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 27.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 25.17,
+      "direction": "short"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 17.33,
+      "direction": "long"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 177.16,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 140.56,
+      "direction": "short"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 27.77,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 25.17,
+      "direction": "short"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 17.33,
+      "direction": "long"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 177.16,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMX",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 22.82,
+      "direction": "short"
+    },
+    {
+      "ticker": "VZ",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 49.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 140.56,
+      "direction": "short"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 17.33,
+      "direction": "long"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 177.16,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMX",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 22.82,
+      "direction": "short"
+    },
+    {
+      "ticker": "VZ",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 49.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 140.56,
+      "direction": "short"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 17.33,
+      "direction": "long"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 177.16,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMX",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 22.82,
+      "direction": "short"
+    },
+    {
+      "ticker": "VZ",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 49.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 140.56,
+      "direction": "short"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 17.33,
+      "direction": "long"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 177.16,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMX",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 22.82,
+      "direction": "short"
+    },
+    {
+      "ticker": "VZ",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 49.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 140.56,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 461.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "PPG",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 105.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "ECL",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 271.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 127.32,
+      "direction": "short"
+    },
+    {
+      "ticker": "SHW",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 317.44,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 461.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "PPG",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 105.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "ECL",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 271.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 127.32,
+      "direction": "short"
+    },
+    {
+      "ticker": "SHW",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 317.44,
+      "direction": "short"
+    },
+    {
+      "ticker": "SHW",
+      "category": "grundstoffe",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 317.44,
+      "direction": "short"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 127.32,
+      "direction": "short"
+    },
+    {
+      "ticker": "PPG",
+      "category": "grundstoffe",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 105.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 250.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 461.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "SHW",
+      "category": "grundstoffe",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 317.44,
+      "direction": "short"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 127.32,
+      "direction": "short"
+    },
+    {
+      "ticker": "PPG",
+      "category": "grundstoffe",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 105.05,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 250.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 461.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "MLM",
+      "category": "grundstoffe",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 502.47,
+      "direction": "short"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 127.32,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 461.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 250.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "BAS.DE",
+      "category": "grundstoffe",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 52.7,
+      "direction": "long"
+    },
+    {
+      "ticker": "MLM",
+      "category": "grundstoffe",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 502.47,
+      "direction": "short"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 127.32,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 461.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 250.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "BAS.DE",
+      "category": "grundstoffe",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 52.7,
+      "direction": "long"
+    },
+    {
+      "ticker": "MLM",
+      "category": "grundstoffe",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 502.47,
+      "direction": "short"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 127.32,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 461.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 250.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "BAS.DE",
+      "category": "grundstoffe",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 52.7,
+      "direction": "long"
+    },
+    {
+      "ticker": "MLM",
+      "category": "grundstoffe",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 502.47,
+      "direction": "short"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 127.32,
+      "direction": "short"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 461.62,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 250.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "BAS.DE",
+      "category": "grundstoffe",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 52.7,
+      "direction": "long"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 134.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 59.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 24.73,
+      "direction": "short"
+    },
+    {
+      "ticker": "MAA",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 124.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.14,
+      "direction": "short"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 134.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 59.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 24.73,
+      "direction": "short"
+    },
+    {
+      "ticker": "MAA",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 124.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.14,
+      "direction": "short"
+    },
+    {
+      "ticker": "MAA",
+      "category": "immobilien",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 124.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 24.73,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.14,
+      "direction": "short"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 59.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 134.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "MAA",
+      "category": "immobilien",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 124.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 24.73,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.14,
+      "direction": "short"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 59.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 134.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 24.73,
+      "direction": "short"
+    },
+    {
+      "ticker": "MAA",
+      "category": "immobilien",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 124.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.14,
+      "direction": "short"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 134.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 59.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 24.73,
+      "direction": "short"
+    },
+    {
+      "ticker": "MAA",
+      "category": "immobilien",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 124.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.14,
+      "direction": "short"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 134.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 59.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 24.73,
+      "direction": "short"
+    },
+    {
+      "ticker": "MAA",
+      "category": "immobilien",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 124.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.14,
+      "direction": "short"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 134.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 59.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 24.73,
+      "direction": "short"
+    },
+    {
+      "ticker": "MAA",
+      "category": "immobilien",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 124.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 35.14,
+      "direction": "short"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 134.41,
+      "direction": "short"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 59.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "ADBE",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 248.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "TSM",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 428.03,
+      "direction": "long"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "ADBE",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 248.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "TSM",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 428.03,
+      "direction": "long"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "AVGO",
+      "category": "ki",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 360.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "ADBE",
+      "category": "ki",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 248.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "AVGO",
+      "category": "ki",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 360.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "ADBE",
+      "category": "ki",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 248.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "TSM",
+      "category": "ki",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 428.03,
+      "direction": "long"
+    },
+    {
+      "ticker": "IBM",
+      "category": "ki",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 234.02,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "TSM",
+      "category": "ki",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 428.03,
+      "direction": "long"
+    },
+    {
+      "ticker": "IBM",
+      "category": "ki",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 234.02,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "TSM",
+      "category": "ki",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 428.03,
+      "direction": "long"
+    },
+    {
+      "ticker": "IBM",
+      "category": "ki",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 234.02,
+      "direction": "short"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 503.6,
+      "direction": "long"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 644.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 332.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "TSM",
+      "category": "ki",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 428.03,
+      "direction": "long"
+    },
+    {
+      "ticker": "IBM",
+      "category": "ki",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 234.02,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 130.51,
+      "direction": "short"
+    },
+    {
+      "ticker": "NET",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 311.17,
+      "direction": "long"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 45.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "QLYS",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 161.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 171.11,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 130.51,
+      "direction": "short"
+    },
+    {
+      "ticker": "NET",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 311.17,
+      "direction": "long"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 45.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "QLYS",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 161.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 171.11,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 130.51,
+      "direction": "short"
+    },
+    {
+      "ticker": "QLYS",
+      "category": "cybersecurity",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 161.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "NET",
+      "category": "cybersecurity",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 311.17,
+      "direction": "long"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 171.11,
+      "direction": "long"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 45.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 130.51,
+      "direction": "short"
+    },
+    {
+      "ticker": "QLYS",
+      "category": "cybersecurity",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 161.57,
+      "direction": "short"
+    },
+    {
+      "ticker": "NET",
+      "category": "cybersecurity",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 311.17,
+      "direction": "long"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 171.11,
+      "direction": "long"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 45.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "GEN",
+      "category": "cybersecurity",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 29.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 45.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 130.51,
+      "direction": "short"
+    },
+    {
+      "ticker": "NET",
+      "category": "cybersecurity",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 311.17,
+      "direction": "long"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 171.11,
+      "direction": "long"
+    },
+    {
+      "ticker": "GEN",
+      "category": "cybersecurity",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 29.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 45.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 130.51,
+      "direction": "short"
+    },
+    {
+      "ticker": "NET",
+      "category": "cybersecurity",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 311.17,
+      "direction": "long"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 171.11,
+      "direction": "long"
+    },
+    {
+      "ticker": "GEN",
+      "category": "cybersecurity",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 29.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 45.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 130.51,
+      "direction": "short"
+    },
+    {
+      "ticker": "NET",
+      "category": "cybersecurity",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 311.17,
+      "direction": "long"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 171.11,
+      "direction": "long"
+    },
+    {
+      "ticker": "GEN",
+      "category": "cybersecurity",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 29.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 45.5,
+      "direction": "long"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 130.51,
+      "direction": "short"
+    },
+    {
+      "ticker": "NET",
+      "category": "cybersecurity",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 311.17,
+      "direction": "long"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 171.11,
+      "direction": "long"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 11.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 122.11,
+      "direction": "short"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 5.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-11",
+      "entry_price": 10.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 11.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 122.11,
+      "direction": "short"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 5.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-11",
+      "entry_price": 10.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 5.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 10.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 11.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 5,
+      "entry_date": "2026-09-11",
+      "entry_price": 122.11,
+      "direction": "short"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 5.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 10.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 11.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 10,
+      "entry_date": "2026-09-11",
+      "entry_price": 122.11,
+      "direction": "short"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 11.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 10.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 5.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 15,
+      "entry_date": "2026-09-11",
+      "entry_price": 122.11,
+      "direction": "short"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 11.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 10.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 5.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 20,
+      "entry_date": "2026-09-11",
+      "entry_price": 122.11,
+      "direction": "short"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 11.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 10.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 5.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 25,
+      "entry_date": "2026-09-11",
+      "entry_price": 122.11,
+      "direction": "short"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 11.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 10.34,
+      "direction": "short"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 5.18,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 30,
+      "entry_date": "2026-09-11",
+      "entry_price": 122.11,
       "direction": "short"
     }
   ],
@@ -22952,6 +26221,1869 @@
       "realized_return_pct": -0.23,
       "correct": true,
       "evaluated_date": "2026-09-10"
+    },
+    {
+      "ticker": "NVDA",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 230.36,
+      "exit_price": 218.36,
+      "realized_return_pct": -5.21,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 616.77,
+      "exit_price": 644.38,
+      "realized_return_pct": 4.48,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 168.74,
+      "exit_price": 176.88,
+      "realized_return_pct": 4.82,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AAPL",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 319.97,
+      "exit_price": 326.57,
+      "realized_return_pct": 2.06,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ORCL",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 158.78,
+      "exit_price": 152.94,
+      "realized_return_pct": -3.68,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "JNJ",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 275.23,
+      "exit_price": 266.35,
+      "realized_return_pct": -3.23,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "GILD",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 151.0,
+      "exit_price": 144.81,
+      "realized_return_pct": -4.1,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ELV",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 407.5,
+      "exit_price": 416.54,
+      "realized_return_pct": 2.22,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "MRNA",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 145.55,
+      "exit_price": 136.62,
+      "realized_return_pct": -6.14,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "REGN",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 827.72,
+      "exit_price": 793.26,
+      "realized_return_pct": -4.16,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 89.97,
+      "exit_price": 89.45,
+      "realized_return_pct": -0.58,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 137.72,
+      "exit_price": 138.5,
+      "realized_return_pct": 0.57,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 35.57,
+      "exit_price": 35.04,
+      "realized_return_pct": -1.49,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "TFC",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 51.65,
+      "exit_price": 50.33,
+      "realized_return_pct": -2.56,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 450.6,
+      "exit_price": 437.1,
+      "realized_return_pct": -3.0,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "GM",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 87.76,
+      "exit_price": 86.12,
+      "realized_return_pct": -1.87,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "F",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 14.62,
+      "exit_price": 13.88,
+      "realized_return_pct": -5.06,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "YUM",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 150.71,
+      "exit_price": 143.89,
+      "realized_return_pct": -4.53,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "TSLA",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 354.08,
+      "exit_price": 363.56,
+      "realized_return_pct": 2.68,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ABNB",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 181.94,
+      "exit_price": 167.65,
+      "realized_return_pct": -7.85,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PG",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 146.44,
+      "exit_price": 142.97,
+      "realized_return_pct": -2.37,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "KR",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 58.59,
+      "exit_price": 56.95,
+      "realized_return_pct": -2.8,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ADM",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 84.61,
+      "exit_price": 86.91,
+      "realized_return_pct": 2.72,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "EL",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 103.86,
+      "exit_price": 96.47,
+      "realized_return_pct": -7.12,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "KO",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 88.07,
+      "exit_price": 87.83,
+      "realized_return_pct": -0.27,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "DE",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 693.53,
+      "exit_price": 677.94,
+      "realized_return_pct": -2.25,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "UPS",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 102.29,
+      "exit_price": 99.97,
+      "realized_return_pct": -2.27,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "EMR",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 152.82,
+      "exit_price": 148.37,
+      "realized_return_pct": -2.91,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CAT",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 813.94,
+      "exit_price": 805.0,
+      "realized_return_pct": -1.1,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CSX",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 49.41,
+      "exit_price": 49.04,
+      "realized_return_pct": -0.75,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 370.72,
+      "exit_price": 385.43,
+      "realized_return_pct": 3.97,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 208.6,
+      "exit_price": 212.76,
+      "realized_return_pct": 1.99,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 255.09,
+      "exit_price": 258.51,
+      "realized_return_pct": 1.34,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "HAL",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 37.07,
+      "exit_price": 36.07,
+      "realized_return_pct": -2.7,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "DVN",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 48.06,
+      "exit_price": 50.02,
+      "realized_return_pct": 4.08,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ETR",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 107.27,
+      "exit_price": 105.73,
+      "realized_return_pct": -1.44,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 140.7,
+      "exit_price": 139.84,
+      "realized_return_pct": -0.61,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PPL",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 35.11,
+      "exit_price": 34.21,
+      "realized_return_pct": -2.56,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "FE",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 46.77,
+      "exit_price": 46.25,
+      "realized_return_pct": -1.11,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AEP",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 124.5,
+      "exit_price": 123.47,
+      "realized_return_pct": -0.83,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 16.9,
+      "exit_price": 17.33,
+      "realized_return_pct": 2.54,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VZ",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 50.14,
+      "exit_price": 49.97,
+      "realized_return_pct": -0.34,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "T",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 25.68,
+      "exit_price": 25.55,
+      "realized_return_pct": -0.51,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "LUMN",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 6.77,
+      "exit_price": 6.81,
+      "realized_return_pct": 0.59,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 181.52,
+      "exit_price": 177.16,
+      "realized_return_pct": -2.4,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "BAS.DE",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 53.36,
+      "exit_price": 52.7,
+      "realized_return_pct": -1.24,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "MOS",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 25.85,
+      "exit_price": 25.4,
+      "realized_return_pct": -1.74,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CTVA",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 87.86,
+      "exit_price": 84.49,
+      "realized_return_pct": -3.84,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "NUE",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 261.07,
+      "exit_price": 255.46,
+      "realized_return_pct": -2.15,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CF",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 133.35,
+      "exit_price": 135.11,
+      "realized_return_pct": 1.32,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "KIM",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 23.6,
+      "exit_price": 23.29,
+      "realized_return_pct": -1.31,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AMT",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 175.85,
+      "exit_price": 172.98,
+      "realized_return_pct": -1.63,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ARE",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 52.65,
+      "exit_price": 49.56,
+      "realized_return_pct": -5.87,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CCI",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 75.83,
+      "exit_price": 73.87,
+      "realized_return_pct": -2.58,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "DLR",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 188.39,
+      "exit_price": 185.37,
+      "realized_return_pct": -1.6,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "NVDA",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 230.36,
+      "exit_price": 218.36,
+      "realized_return_pct": -5.21,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "TSM",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 428.91,
+      "exit_price": 428.03,
+      "realized_return_pct": -0.21,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 616.77,
+      "exit_price": 644.38,
+      "realized_return_pct": 4.48,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ORCL",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 158.78,
+      "exit_price": 152.94,
+      "realized_return_pct": -3.68,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "DELL",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 524.14,
+      "exit_price": 506.62,
+      "realized_return_pct": -3.34,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "GEN",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 30.65,
+      "exit_price": 29.97,
+      "realized_return_pct": -2.22,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 46.09,
+      "exit_price": 45.5,
+      "realized_return_pct": -1.28,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CHKP",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 137.05,
+      "exit_price": 130.51,
+      "realized_return_pct": -4.77,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 170.6,
+      "exit_price": 171.11,
+      "realized_return_pct": 0.3,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CRWD",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 213.1,
+      "exit_price": 208.86,
+      "realized_return_pct": -1.99,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "F",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 14.62,
+      "exit_price": 13.88,
+      "realized_return_pct": -5.06,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "GM",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 87.76,
+      "exit_price": 86.12,
+      "realized_return_pct": -1.87,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "BLNK",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 0.59,
+      "exit_price": 0.54,
+      "realized_return_pct": -8.81,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "STLA",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 5.56,
+      "exit_price": 5.28,
+      "realized_return_pct": -5.04,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CHPT",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 9.89,
+      "exit_price": 8.93,
+      "realized_return_pct": -9.71,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "MSFT",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 499.7,
+      "exit_price": 492.44,
+      "realized_return_pct": -1.45,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "MS",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 217.72,
+      "exit_price": 212.66,
+      "realized_return_pct": -2.32,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "INTC",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 105.04,
+      "exit_price": 100.32,
+      "realized_return_pct": -4.49,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AMD",
+      "category": "technologie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 508.44,
+      "exit_price": 503.6,
+      "realized_return_pct": -0.95,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "UNH",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 401.7,
+      "exit_price": 388.28,
+      "realized_return_pct": -3.34,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PFE",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 27.93,
+      "exit_price": 27.65,
+      "realized_return_pct": -1.0,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "BAC",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 62.78,
+      "exit_price": 62.56,
+      "realized_return_pct": -0.35,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AMZN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 257.05,
+      "exit_price": 251.89,
+      "realized_return_pct": -2.01,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "EBAY",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 103.07,
+      "exit_price": 105.03,
+      "realized_return_pct": 1.9,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "MO",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 68.31,
+      "exit_price": 68.79,
+      "realized_return_pct": 0.7,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "TGT",
+      "category": "basiskonsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 163.1,
+      "exit_price": 155.73,
+      "realized_return_pct": -4.52,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ETN",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 427.27,
+      "exit_price": 409.15,
+      "realized_return_pct": -4.24,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 397.35,
+      "exit_price": 392.42,
+      "realized_return_pct": -1.24,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "OXY",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 60.68,
+      "exit_price": 61.16,
+      "realized_return_pct": 0.79,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ED",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 108.68,
+      "exit_price": 106.73,
+      "realized_return_pct": -1.79,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "D",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 66.57,
+      "exit_price": 65.05,
+      "realized_return_pct": -2.28,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ES",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 71.95,
+      "exit_price": 68.99,
+      "realized_return_pct": -4.11,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "IFF",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 85.57,
+      "exit_price": 84.05,
+      "realized_return_pct": -1.78,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "WELL",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 239.26,
+      "exit_price": 235.71,
+      "realized_return_pct": -1.48,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 508.44,
+      "exit_price": 503.6,
+      "realized_return_pct": -0.95,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "QLYS",
+      "category": "cybersecurity",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 170.84,
+      "exit_price": 161.57,
+      "realized_return_pct": -5.43,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 12.52,
+      "exit_price": 11.65,
+      "realized_return_pct": -6.95,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PLUG",
+      "category": "e_mobility",
+      "horizon_days": 3,
+      "entry_date": "2026-09-08",
+      "entry_price": 2.29,
+      "exit_price": 2.11,
+      "realized_return_pct": -7.86,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 330.65,
+      "direction": "short",
+      "exit_price": 332.6,
+      "realized_return_pct": 0.59,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 176.4,
+      "direction": "long",
+      "exit_price": 176.88,
+      "realized_return_pct": 0.27,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "META",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 653.69,
+      "direction": "long",
+      "exit_price": 644.38,
+      "realized_return_pct": -1.42,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AMD",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 521.1,
+      "direction": "long",
+      "exit_price": 503.6,
+      "realized_return_pct": -3.36,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "INTU",
+      "category": "technologie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 313.94,
+      "direction": "short",
+      "exit_price": 312.77,
+      "realized_return_pct": -0.37,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ISRG",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 353.24,
+      "direction": "short",
+      "exit_price": 360.46,
+      "realized_return_pct": 2.04,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 275.39,
+      "direction": "short",
+      "exit_price": 270.01,
+      "realized_return_pct": -1.95,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "BSX",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 44.96,
+      "direction": "short",
+      "exit_price": 43.1,
+      "realized_return_pct": -4.14,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ABBV",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 250.91,
+      "direction": "short",
+      "exit_price": 255.0,
+      "realized_return_pct": 1.63,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "LLY",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 1124.21,
+      "direction": "short",
+      "exit_price": 1123.0,
+      "realized_return_pct": -0.11,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AXP",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 321.8,
+      "direction": "short",
+      "exit_price": 320.71,
+      "realized_return_pct": -0.34,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "C",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 137.8,
+      "direction": "long",
+      "exit_price": 138.5,
+      "realized_return_pct": 0.51,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "WFC",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 89.67,
+      "direction": "long",
+      "exit_price": 89.45,
+      "realized_return_pct": -0.25,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 35.75,
+      "direction": "long",
+      "exit_price": 35.04,
+      "realized_return_pct": -1.99,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "SPGI",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 418.36,
+      "direction": "short",
+      "exit_price": 410.42,
+      "realized_return_pct": -1.9,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "MCD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 253.48,
+      "direction": "short",
+      "exit_price": 253.05,
+      "realized_return_pct": -0.17,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "TJX",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 126.12,
+      "direction": "short",
+      "exit_price": 126.42,
+      "realized_return_pct": 0.24,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "HD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 310.45,
+      "direction": "short",
+      "exit_price": 305.69,
+      "realized_return_pct": -1.53,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "LEN",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 80.76,
+      "direction": "short",
+      "exit_price": 77.9,
+      "realized_return_pct": -3.54,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "NKE",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 37.35,
+      "direction": "short",
+      "exit_price": 36.62,
+      "realized_return_pct": -1.95,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PEP",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 136.69,
+      "direction": "short",
+      "exit_price": 136.65,
+      "realized_return_pct": -0.03,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 902.6,
+      "direction": "short",
+      "exit_price": 902.38,
+      "realized_return_pct": -0.02,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 89.62,
+      "direction": "short",
+      "exit_price": 88.77,
+      "realized_return_pct": -0.95,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "KMB",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 98.7,
+      "direction": "short",
+      "exit_price": 98.48,
+      "realized_return_pct": -0.22,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "KR",
+      "category": "basiskonsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 56.44,
+      "direction": "short",
+      "exit_price": 56.95,
+      "realized_return_pct": 0.9,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ITW",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 263.99,
+      "direction": "short",
+      "exit_price": 265.2,
+      "realized_return_pct": 0.46,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "WM",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 216.44,
+      "direction": "short",
+      "exit_price": 214.77,
+      "realized_return_pct": -0.77,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "UPS",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 99.22,
+      "direction": "short",
+      "exit_price": 99.97,
+      "realized_return_pct": 0.76,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 206.42,
+      "direction": "short",
+      "exit_price": 204.8,
+      "realized_return_pct": -0.78,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "HON",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 204.93,
+      "direction": "short",
+      "exit_price": 202.18,
+      "realized_return_pct": -1.34,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CVX",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 213.81,
+      "direction": "long",
+      "exit_price": 212.76,
+      "realized_return_pct": -0.49,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VLO",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 388.95,
+      "direction": "long",
+      "exit_price": 385.43,
+      "realized_return_pct": -0.91,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 399.44,
+      "direction": "long",
+      "exit_price": 392.42,
+      "realized_return_pct": -1.76,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PSX",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 260.78,
+      "direction": "long",
+      "exit_price": 258.51,
+      "realized_return_pct": -0.87,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "HAL",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 37.13,
+      "direction": "long",
+      "exit_price": 36.07,
+      "realized_return_pct": -2.85,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "XEL",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 76.19,
+      "direction": "short",
+      "exit_price": 75.41,
+      "realized_return_pct": -1.02,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AWK",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 140.33,
+      "direction": "long",
+      "exit_price": 139.84,
+      "realized_return_pct": -0.35,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ATO",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 166.59,
+      "direction": "short",
+      "exit_price": 164.81,
+      "realized_return_pct": -1.07,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "FE",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 46.21,
+      "direction": "short",
+      "exit_price": 46.25,
+      "realized_return_pct": 0.09,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "NEE",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 82.65,
+      "direction": "short",
+      "exit_price": 82.44,
+      "realized_return_pct": -0.25,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VOD",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 17.13,
+      "direction": "long",
+      "exit_price": 17.33,
+      "realized_return_pct": 1.17,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "TMUS",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 177.34,
+      "direction": "short",
+      "exit_price": 177.16,
+      "realized_return_pct": -0.1,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 24.59,
+      "direction": "short",
+      "exit_price": 25.17,
+      "realized_return_pct": 2.36,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 133.89,
+      "direction": "short",
+      "exit_price": 140.56,
+      "realized_return_pct": 4.98,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VZ",
+      "category": "telekommunikation",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 49.74,
+      "direction": "long",
+      "exit_price": 49.97,
+      "realized_return_pct": 0.46,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "LIN",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 466.65,
+      "direction": "short",
+      "exit_price": 461.62,
+      "realized_return_pct": -1.08,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "SHW",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 320.64,
+      "direction": "short",
+      "exit_price": 317.44,
+      "realized_return_pct": -1.0,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "DD",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 127.92,
+      "direction": "short",
+      "exit_price": 127.32,
+      "realized_return_pct": -0.47,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PPG",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 107.16,
+      "direction": "short",
+      "exit_price": 105.05,
+      "realized_return_pct": -1.97,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 249.89,
+      "direction": "short",
+      "exit_price": 250.6,
+      "realized_return_pct": 0.28,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PLD",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 135.66,
+      "direction": "short",
+      "exit_price": 134.41,
+      "realized_return_pct": -0.92,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "EXR",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 135.63,
+      "direction": "short",
+      "exit_price": 136.45,
+      "realized_return_pct": 0.6,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VICI",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 25.21,
+      "direction": "short",
+      "exit_price": 24.73,
+      "realized_return_pct": -1.9,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "O",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 60.11,
+      "direction": "short",
+      "exit_price": 59.57,
+      "realized_return_pct": -0.9,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "PSA",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 294.6,
+      "direction": "short",
+      "exit_price": 294.6,
+      "realized_return_pct": 0.0,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "GOOGL",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 330.65,
+      "direction": "short",
+      "exit_price": 332.6,
+      "realized_return_pct": 0.59,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "TSM",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 435.36,
+      "direction": "long",
+      "exit_price": 428.03,
+      "realized_return_pct": -1.68,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "META",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 653.69,
+      "direction": "long",
+      "exit_price": 644.38,
+      "realized_return_pct": -1.42,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AMD",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 521.1,
+      "direction": "long",
+      "exit_price": 503.6,
+      "realized_return_pct": -3.36,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "AVGO",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 364.38,
+      "direction": "short",
+      "exit_price": 360.83,
+      "realized_return_pct": -0.97,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "VRNS",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 46.09,
+      "direction": "long",
+      "exit_price": 45.5,
+      "realized_return_pct": -1.28,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "OKTA",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 172.74,
+      "direction": "long",
+      "exit_price": 171.11,
+      "realized_return_pct": -0.94,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "FTNT",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 157.22,
+      "direction": "short",
+      "exit_price": 158.85,
+      "realized_return_pct": 1.04,
+      "correct": false,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ZS",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 166.1,
+      "direction": "short",
+      "exit_price": 163.48,
+      "realized_return_pct": -1.58,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "GEN",
+      "category": "cybersecurity",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 29.76,
+      "direction": "long",
+      "exit_price": 29.97,
+      "realized_return_pct": 0.71,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "NIO",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 3.7,
+      "direction": "short",
+      "exit_price": 3.58,
+      "realized_return_pct": -3.24,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "LI",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 11.91,
+      "direction": "short",
+      "exit_price": 11.65,
+      "realized_return_pct": -2.18,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "XPEV",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 10.57,
+      "direction": "short",
+      "exit_price": 10.34,
+      "realized_return_pct": -2.18,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "ALB",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 125.91,
+      "direction": "short",
+      "exit_price": 122.11,
+      "realized_return_pct": -3.02,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
+    },
+    {
+      "ticker": "QS",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-10",
+      "entry_price": 5.22,
+      "direction": "short",
+      "exit_price": 5.18,
+      "realized_return_pct": -0.77,
+      "correct": true,
+      "evaluated_date": "2026-09-11"
     }
   ]
 }

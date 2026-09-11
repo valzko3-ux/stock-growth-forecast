@@ -1,37 +1,31 @@
 {
-  "generated_at": "2026-09-10T05:33:13.031322Z",
+  "generated_at": "2026-09-11T05:32:51.371000Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
-      "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
-      "published": "Thu, 10 Sep 2026 03:00:00 GMT",
+      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+      "link": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+      "published": "Thu, 10 Sep 2026 22:54:00 GMT",
       "categories": [
-        "Industrie"
-      ],
-      "winners": [],
-      "defensive": [
-        {
-          "ticker": "WM",
-          "name": "Waste Management"
-        },
-        {
-          "ticker": "ITW",
-          "name": "Illinois Tool Works"
-        }
-      ]
-    },
-    {
-      "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
-      "link": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
-      "published": "Wed, 09 Sep 2026 22:51:00 GMT",
-      "categories": [
-        "Basiskonsum"
+        "Basiskonsum",
+        "Energie"
       ],
       "winners": [
         {
           "ticker": "ADM",
           "name": "Archer-Daniels-Midland"
+        },
+        {
+          "ticker": "DVN",
+          "name": "Devon Energy"
+        },
+        {
+          "ticker": "VLO",
+          "name": "Valero Energy"
+        },
+        {
+          "ticker": "PSX",
+          "name": "Phillips 66"
         }
       ],
       "defensive": [
@@ -42,92 +36,32 @@
         {
           "ticker": "CLX",
           "name": "Clorox"
-        }
-      ]
-    },
-    {
-      "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-      "published": "Wed, 09 Sep 2026 20:36:00 GMT",
-      "categories": [
-        "Finanzen"
-      ],
-      "winners": [
-        {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
         },
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        },
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "AXP",
-          "name": "American Express"
-        },
-        {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
-        }
-      ]
-    },
-    {
-      "title": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
-      "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-      "published": "Wed, 09 Sep 2026 20:27:00 GMT",
-      "categories": [
-        "Energie"
-      ],
-      "winners": [
-        {
-          "ticker": "VLO",
-          "name": "Valero Energy"
-        },
-        {
-          "ticker": "MPC",
-          "name": "Marathon Petroleum"
-        },
-        {
-          "ticker": "PSX",
-          "name": "Phillips 66"
-        }
-      ],
-      "defensive": [
         {
           "ticker": "CVX",
           "name": "Chevron"
-        },
-        {
-          "ticker": "MPC",
-          "name": "Marathon Petroleum"
         }
       ]
     },
     {
-      "title": "Exclusive-China’s AI chipmakers raise prices as high-bandwidth memory shortage bites",
-      "link": "https://www.investing.com/news/stock-market-news/exclusivechinas-ai-chipmakers-raise-prices-as-highbandwidth-memory-shortage-bites-4894950",
-      "published": "2026-09-10 05:12:27",
+      "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
+      "link": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+      "published": "Thu, 10 Sep 2026 22:25:00 GMT",
       "categories": [
-        "Künstliche Intelligenz"
+        "Technologie"
       ],
       "winners": [
         {
+          "ticker": "QCOM",
+          "name": "Qualcomm"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        },
+        {
           "ticker": "META",
           "name": "Meta Platforms"
-        },
-        {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
-        },
-        {
-          "ticker": "AMD",
-          "name": "AMD"
         }
       ],
       "defensive": [
@@ -136,30 +70,58 @@
           "name": "Alphabet"
         },
         {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
+          "ticker": "AAPL",
+          "name": "Apple"
         }
       ]
     },
     {
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-      "published": "Wed, 29 Jul 2026 18:00:00 GMT",
+      "title": "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
+      "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+      "published": "Thu, 10 Sep 2026 20:40:00 GMT",
+      "categories": [
+        "Technologie"
+      ],
+      "winners": [
+        {
+          "ticker": "QCOM",
+          "name": "Qualcomm"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        }
+      ]
+    },
+    {
+      "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
+      "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "published": "Thu, 10 Sep 2026 20:24:00 GMT",
       "categories": [
         "Finanzen"
       ],
       "winners": [
         {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
-        },
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        },
-        {
           "ticker": "C",
           "name": "Citigroup"
+        },
+        {
+          "ticker": "DBK.DE",
+          "name": "Deutsche Bank"
         }
       ],
       "defensive": [
@@ -168,40 +130,27 @@
           "name": "American Express"
         },
         {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
+          "ticker": "BLK",
+          "name": "BlackRock"
         }
       ]
     },
     {
-      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-      "published": "Thu, 9 Jul 2026 19:00:00 GMT",
+      "title": "White House copper tariff plan stalls amid affordability concerns, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/white-house-copper-tariff-plan-stalls-amid-affordability-concerns-sources-say-4895361",
+      "published": "2026-09-11 04:42:32",
       "categories": [
-        "Finanzen"
+        "Industrie"
       ],
-      "winners": [
-        {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
-        },
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        },
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        }
-      ],
+      "winners": [],
       "defensive": [
         {
-          "ticker": "AXP",
-          "name": "American Express"
+          "ticker": "WM",
+          "name": "Waste Management"
         },
         {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
+          "ticker": "UPS",
+          "name": "UPS"
         }
       ]
     }
