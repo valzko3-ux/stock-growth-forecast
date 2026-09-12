@@ -1,120 +1,19 @@
 {
-  "generated_at": "2026-09-11T05:32:51.371000Z",
+  "generated_at": "2026-09-12T05:31:57.099804Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
-      "link": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
-      "published": "Thu, 10 Sep 2026 22:54:00 GMT",
-      "categories": [
-        "Basiskonsum",
-        "Energie"
-      ],
-      "winners": [
-        {
-          "ticker": "ADM",
-          "name": "Archer-Daniels-Midland"
-        },
-        {
-          "ticker": "DVN",
-          "name": "Devon Energy"
-        },
-        {
-          "ticker": "VLO",
-          "name": "Valero Energy"
-        },
-        {
-          "ticker": "PSX",
-          "name": "Phillips 66"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "COST",
-          "name": "Costco"
-        },
-        {
-          "ticker": "CLX",
-          "name": "Clorox"
-        },
-        {
-          "ticker": "CVX",
-          "name": "Chevron"
-        }
-      ]
-    },
-    {
-      "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
-      "link": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
-      "published": "Thu, 10 Sep 2026 22:25:00 GMT",
-      "categories": [
-        "Technologie"
-      ],
-      "winners": [
-        {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
-        },
-        {
-          "ticker": "AAPL",
-          "name": "Apple"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
-        },
-        {
-          "ticker": "AAPL",
-          "name": "Apple"
-        }
-      ]
-    },
-    {
-      "title": "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
-      "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
-      "published": "Thu, 10 Sep 2026 20:40:00 GMT",
-      "categories": [
-        "Technologie"
-      ],
-      "winners": [
-        {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
-        },
-        {
-          "ticker": "AAPL",
-          "name": "Apple"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
-        },
-        {
-          "ticker": "AAPL",
-          "name": "Apple"
-        }
-      ]
-    },
-    {
-      "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
-      "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-      "published": "Thu, 10 Sep 2026 20:24:00 GMT",
+      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "published": "Fri, 11 Sep 2026 23:54:00 GMT",
       "categories": [
         "Finanzen"
       ],
       "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
         {
           "ticker": "C",
           "name": "Citigroup"
@@ -130,27 +29,104 @@
           "name": "American Express"
         },
         {
-          "ticker": "BLK",
-          "name": "BlackRock"
+          "ticker": "WFC",
+          "name": "Wells Fargo"
         }
       ]
     },
     {
-      "title": "White House copper tariff plan stalls amid affordability concerns, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/white-house-copper-tariff-plan-stalls-amid-affordability-concerns-sources-say-4895361",
-      "published": "2026-09-11 04:42:32",
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+      "link": "https://www.investing.com/news/stock-market-news/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-wsj-reports-4898535",
+      "published": "2026-09-12 01:36:27",
       "categories": [
-        "Industrie"
+        "Künstliche Intelligenz"
       ],
-      "winners": [],
-      "defensive": [
+      "winners": [
         {
-          "ticker": "WM",
-          "name": "Waste Management"
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
         },
         {
-          "ticker": "UPS",
-          "name": "UPS"
+          "ticker": "AMD",
+          "name": "AMD"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ]
+    },
+    {
+      "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivenvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say-4898552",
+      "published": "2026-09-12 00:06:47",
+      "categories": [
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "AMD",
+          "name": "AMD"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ]
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "published": "Wed, 29 Jul 2026 18:00:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "DBK.DE",
+          "name": "Deutsche Bank"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
         }
       ]
     }
