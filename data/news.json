@@ -1,43 +1,11 @@
 {
-  "generated_at": "2026-09-12T05:31:57.099804Z",
+  "generated_at": "2026-09-13T05:31:47.312839Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
-      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-      "published": "Fri, 11 Sep 2026 23:54:00 GMT",
-      "categories": [
-        "Finanzen"
-      ],
-      "winners": [
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        },
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        },
-        {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "AXP",
-          "name": "American Express"
-        },
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-      "link": "https://www.investing.com/news/stock-market-news/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-wsj-reports-4898535",
-      "published": "2026-09-12 01:36:27",
+      "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+      "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+      "published": "Sat, 12 Sep 2026 21:50:00 GMT",
       "categories": [
         "Künstliche Intelligenz"
       ],
@@ -67,9 +35,93 @@
       ]
     },
     {
-      "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/exclusivenvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say-4898552",
-      "published": "2026-09-12 00:06:47",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Sat, 12 Sep 2026 16:01:00 GMT",
+      "categories": [
+        "Gesundheit"
+      ],
+      "winners": [
+        {
+          "ticker": "ELV",
+          "name": "Elevance Health"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "ABT",
+          "name": "Abbott"
+        },
+        {
+          "ticker": "ELV",
+          "name": "Elevance Health"
+        }
+      ]
+    },
+    {
+      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "published": "Fri, 11 Sep 2026 23:54:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI’s Altman rules out 2026 IPO as AI safety takes priority - report",
+      "link": "https://www.investing.com/news/stock-market-news/openais-altman-rules-out-2026-ipo-as-ai-safety-takes-priority--report-4898691",
+      "published": "2026-09-12 21:30:42",
+      "categories": [
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "AMD",
+          "name": "AMD"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+      "link": "https://www.investing.com/news/stock-market-news/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says-4898687",
+      "published": "2026-09-12 20:42:32",
       "categories": [
         "Künstliche Intelligenz"
       ],
@@ -113,10 +165,6 @@
         {
           "ticker": "C",
           "name": "Citigroup"
-        },
-        {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
         }
       ],
       "defensive": [
