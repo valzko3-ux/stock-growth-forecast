@@ -1,35 +1,11 @@
 {
-  "generated_at": "2026-09-14T05:33:13.121773Z",
+  "generated_at": "2026-09-14T13:34:20.309934Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 01:00:00 GMT",
-      "categories": [
-        "Gesundheit"
-      ],
-      "winners": [
-        {
-          "ticker": "ELV",
-          "name": "Elevance Health"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "ABT",
-          "name": "Abbott"
-        },
-        {
-          "ticker": "ELV",
-          "name": "Elevance Health"
-        }
-      ]
-    },
-    {
       "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
       "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 19:00:00 GMT",
+      "published": "Mon, 14 Sep 2026 10:35:00 GMT",
       "categories": [
         "Finanzen",
         "Energie"
@@ -44,12 +20,12 @@
           "name": "Citigroup"
         },
         {
-          "ticker": "DVN",
-          "name": "Devon Energy"
+          "ticker": "V",
+          "name": "Visa"
         },
         {
-          "ticker": "OXY",
-          "name": "Occidental Petroleum"
+          "ticker": "CVX",
+          "name": "Chevron"
         }
       ],
       "defensive": [
@@ -58,12 +34,104 @@
           "name": "American Express"
         },
         {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
+          "ticker": "V",
+          "name": "Visa"
         },
         {
           "ticker": "CVX",
           "name": "Chevron"
+        }
+      ]
+    },
+    {
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 10:15:00 GMT",
+      "categories": [
+        "Gesundheit"
+      ],
+      "winners": [
+        {
+          "ticker": "ELV",
+          "name": "Elevance Health"
+        },
+        {
+          "ticker": "ABBV",
+          "name": "AbbVie"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "ABT",
+          "name": "Abbott"
+        },
+        {
+          "ticker": "ABBV",
+          "name": "AbbVie"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft sets conduct rules for future AI models - CNBC",
+      "link": "https://www.investing.com/news/stock-market-news/microsoft-sets-conduct-rules-for-future-ai-models--cnbc-93CH-4899727",
+      "published": "2026-09-14 13:16:15",
+      "categories": [
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        },
+        {
+          "ticker": "IBM",
+          "name": "IBM"
+        },
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft"
+        },
+        {
+          "ticker": "IBM",
+          "name": "IBM"
+        }
+      ]
+    },
+    {
+      "title": "European stocks fall on AI safety warnings, Fed rate hike bets weigh on sentiment",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-slip-on-ai-safety-pause-fed-rate-bets-weigh-on-sentiment-4898834",
+      "published": "2026-09-14 13:03:25",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
         }
       ]
     },
@@ -82,6 +150,10 @@
         {
           "ticker": "C",
           "name": "Citigroup"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
         }
       ],
       "defensive": [
@@ -90,8 +162,8 @@
           "name": "American Express"
         },
         {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
+          "ticker": "V",
+          "name": "Visa"
         }
       ]
     }
