@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:31:34.730500Z",
+  "generated_at": "2026-09-14T05:33:00.206660Z",
   "horizons": [
     1,
     3,
@@ -19,7 +19,7 @@
           {
             "ticker": "QCOM",
             "name": "Qualcomm",
-            "score": 78.0,
+            "score": 79.2,
             "direction": "long",
             "forecast_pct": 1.1,
             "forecast_horizon_days": 1,
@@ -65,7 +65,7 @@
           {
             "ticker": "AAPL",
             "name": "Apple",
-            "score": 77.1,
+            "score": 78.3,
             "direction": "long",
             "forecast_pct": 1.0,
             "forecast_horizon_days": 1,
@@ -111,7 +111,7 @@
           {
             "ticker": "ADBE",
             "name": "Adobe",
-            "score": 65.7,
+            "score": 66.6,
             "direction": "short",
             "forecast_pct": -1.6,
             "forecast_horizon_days": 1,
@@ -157,7 +157,7 @@
           {
             "ticker": "AMD",
             "name": "AMD",
-            "score": 61.0,
+            "score": 61.8,
             "direction": "long",
             "forecast_pct": 1.7,
             "forecast_horizon_days": 1,
@@ -203,7 +203,7 @@
           {
             "ticker": "META",
             "name": "Meta Platforms",
-            "score": 58.9,
+            "score": 60.6,
             "direction": "long",
             "forecast_pct": 1.2,
             "forecast_horizon_days": 1,
@@ -251,9 +251,9 @@
           {
             "ticker": "QCOM",
             "name": "Qualcomm",
-            "score": 78.0,
+            "score": 79.2,
             "direction": "long",
-            "forecast_pct": 1.9,
+            "forecast_pct": 2.0,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 181.97,
@@ -297,7 +297,7 @@
           {
             "ticker": "AAPL",
             "name": "Apple",
-            "score": 77.1,
+            "score": 78.3,
             "direction": "long",
             "forecast_pct": 1.7,
             "forecast_horizon_days": 3,
@@ -343,7 +343,7 @@
           {
             "ticker": "ADBE",
             "name": "Adobe",
-            "score": 65.7,
+            "score": 66.6,
             "direction": "short",
             "forecast_pct": -2.8,
             "forecast_horizon_days": 3,
@@ -389,7 +389,7 @@
           {
             "ticker": "AMD",
             "name": "AMD",
-            "score": 61.0,
+            "score": 61.8,
             "direction": "long",
             "forecast_pct": 3.0,
             "forecast_horizon_days": 3,
@@ -435,9 +435,9 @@
           {
             "ticker": "META",
             "name": "Meta Platforms",
-            "score": 58.9,
+            "score": 60.6,
             "direction": "long",
-            "forecast_pct": 2.0,
+            "forecast_pct": 2.1,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 648.03,
@@ -1881,7 +1881,7 @@
           {
             "ticker": "ABT",
             "name": "Abbott",
-            "score": 80.0,
+            "score": 81.2,
             "direction": "short",
             "forecast_pct": -1.0,
             "forecast_horizon_days": 1,
@@ -1927,7 +1927,7 @@
           {
             "ticker": "DHR",
             "name": "Danaher",
-            "score": 73.7,
+            "score": 74.7,
             "direction": "short",
             "forecast_pct": -1.2,
             "forecast_horizon_days": 1,
@@ -1973,7 +1973,7 @@
           {
             "ticker": "ELV",
             "name": "Elevance Health",
-            "score": 72.8,
+            "score": 73.9,
             "direction": "long",
             "forecast_pct": 1.1,
             "forecast_horizon_days": 1,
@@ -2019,7 +2019,7 @@
           {
             "ticker": "BSX",
             "name": "Boston Scientific",
-            "score": 67.7,
+            "score": 68.7,
             "direction": "short",
             "forecast_pct": -1.5,
             "forecast_horizon_days": 1,
@@ -2065,7 +2065,7 @@
           {
             "ticker": "ISRG",
             "name": "Intuitive Surgical",
-            "score": 60.8,
+            "score": 62.4,
             "direction": "short",
             "forecast_pct": -1.1,
             "forecast_horizon_days": 1,
@@ -2113,7 +2113,7 @@
           {
             "ticker": "ABT",
             "name": "Abbott",
-            "score": 80.0,
+            "score": 81.2,
             "direction": "short",
             "forecast_pct": -1.7,
             "forecast_horizon_days": 3,
@@ -2159,7 +2159,7 @@
           {
             "ticker": "DHR",
             "name": "Danaher",
-            "score": 73.7,
+            "score": 74.7,
             "direction": "short",
             "forecast_pct": -2.1,
             "forecast_horizon_days": 3,
@@ -2205,7 +2205,7 @@
           {
             "ticker": "ELV",
             "name": "Elevance Health",
-            "score": 72.8,
+            "score": 73.9,
             "direction": "long",
             "forecast_pct": 2.0,
             "forecast_horizon_days": 3,
@@ -2251,9 +2251,9 @@
           {
             "ticker": "BSX",
             "name": "Boston Scientific",
-            "score": 67.7,
+            "score": 68.7,
             "direction": "short",
-            "forecast_pct": -2.6,
+            "forecast_pct": -2.7,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 42.98,
@@ -2297,7 +2297,7 @@
           {
             "ticker": "ISRG",
             "name": "Intuitive Surgical",
-            "score": 60.8,
+            "score": 62.4,
             "direction": "short",
             "forecast_pct": -1.9,
             "forecast_horizon_days": 3,
@@ -3743,7 +3743,7 @@
           {
             "ticker": "WFC",
             "name": "Wells Fargo",
-            "score": 77.2,
+            "score": 78.4,
             "direction": "long",
             "forecast_pct": 0.9,
             "forecast_horizon_days": 1,
@@ -3789,7 +3789,7 @@
           {
             "ticker": "C",
             "name": "Citigroup",
-            "score": 76.3,
+            "score": 77.6,
             "direction": "long",
             "forecast_pct": 0.9,
             "forecast_horizon_days": 1,
@@ -3835,7 +3835,7 @@
           {
             "ticker": "SPGI",
             "name": "S&P Global",
-            "score": 76.0,
+            "score": 77.0,
             "direction": "short",
             "forecast_pct": -1.2,
             "forecast_horizon_days": 1,
@@ -3881,7 +3881,7 @@
           {
             "ticker": "AXP",
             "name": "American Express",
-            "score": 69.0,
+            "score": 71.0,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -3927,9 +3927,9 @@
           {
             "ticker": "BAC",
             "name": "Bank of America",
-            "score": 51.2,
+            "score": 54.2,
             "direction": "long",
-            "forecast_pct": 0.4,
+            "forecast_pct": 0.5,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 62.69,
@@ -3975,7 +3975,7 @@
           {
             "ticker": "WFC",
             "name": "Wells Fargo",
-            "score": 77.2,
+            "score": 78.4,
             "direction": "long",
             "forecast_pct": 1.6,
             "forecast_horizon_days": 3,
@@ -4021,9 +4021,9 @@
           {
             "ticker": "C",
             "name": "Citigroup",
-            "score": 76.3,
+            "score": 77.6,
             "direction": "long",
-            "forecast_pct": 1.5,
+            "forecast_pct": 1.6,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 138.82,
@@ -4067,7 +4067,7 @@
           {
             "ticker": "SPGI",
             "name": "S&P Global",
-            "score": 76.0,
+            "score": 77.0,
             "direction": "short",
             "forecast_pct": -2.1,
             "forecast_horizon_days": 3,
@@ -4113,9 +4113,9 @@
           {
             "ticker": "AXP",
             "name": "American Express",
-            "score": 69.0,
+            "score": 71.0,
             "direction": "short",
-            "forecast_pct": -1.1,
+            "forecast_pct": -1.2,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 324.69,
@@ -4159,9 +4159,9 @@
           {
             "ticker": "BAC",
             "name": "Bank of America",
-            "score": 51.2,
+            "score": 54.2,
             "direction": "long",
-            "forecast_pct": 0.7,
+            "forecast_pct": 0.8,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 62.69,
@@ -5605,7 +5605,7 @@
           {
             "ticker": "YUM",
             "name": "Yum! Brands",
-            "score": 76.1,
+            "score": 77.2,
             "direction": "short",
             "forecast_pct": -1.2,
             "forecast_horizon_days": 1,
@@ -5651,7 +5651,7 @@
           {
             "ticker": "NKE",
             "name": "Nike",
-            "score": 74.2,
+            "score": 75.3,
             "direction": "short",
             "forecast_pct": -1.2,
             "forecast_horizon_days": 1,
@@ -5697,7 +5697,7 @@
           {
             "ticker": "LOW",
             "name": "Lowe's",
-            "score": 68.9,
+            "score": 70.8,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -5743,9 +5743,9 @@
           {
             "ticker": "MCD",
             "name": "McDonald's",
-            "score": 68.6,
+            "score": 70.6,
             "direction": "short",
-            "forecast_pct": -0.6,
+            "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 252.53,
@@ -5789,7 +5789,7 @@
           {
             "ticker": "TJX",
             "name": "TJX Companies",
-            "score": 68.1,
+            "score": 70.2,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -5837,7 +5837,7 @@
           {
             "ticker": "YUM",
             "name": "Yum! Brands",
-            "score": 76.1,
+            "score": 77.2,
             "direction": "short",
             "forecast_pct": -2.0,
             "forecast_horizon_days": 3,
@@ -5883,7 +5883,7 @@
           {
             "ticker": "NKE",
             "name": "Nike",
-            "score": 74.2,
+            "score": 75.3,
             "direction": "short",
             "forecast_pct": -2.1,
             "forecast_horizon_days": 3,
@@ -5929,7 +5929,7 @@
           {
             "ticker": "LOW",
             "name": "Lowe's",
-            "score": 68.9,
+            "score": 70.8,
             "direction": "short",
             "forecast_pct": -1.2,
             "forecast_horizon_days": 3,
@@ -5975,9 +5975,9 @@
           {
             "ticker": "MCD",
             "name": "McDonald's",
-            "score": 68.6,
+            "score": 70.6,
             "direction": "short",
-            "forecast_pct": -1.1,
+            "forecast_pct": -1.2,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 252.53,
@@ -6021,7 +6021,7 @@
           {
             "ticker": "TJX",
             "name": "TJX Companies",
-            "score": 68.1,
+            "score": 70.2,
             "direction": "short",
             "forecast_pct": -1.3,
             "forecast_horizon_days": 3,
@@ -7467,7 +7467,7 @@
           {
             "ticker": "SYY",
             "name": "Sysco",
-            "score": 83.0,
+            "score": 84.2,
             "direction": "long",
             "forecast_pct": 0.7,
             "forecast_horizon_days": 1,
@@ -7513,7 +7513,7 @@
           {
             "ticker": "CL",
             "name": "Colgate-Palmolive",
-            "score": 82.6,
+            "score": 83.9,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -7559,7 +7559,7 @@
           {
             "ticker": "PEP",
             "name": "PepsiCo",
-            "score": 82.1,
+            "score": 83.3,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -7605,7 +7605,7 @@
           {
             "ticker": "KMB",
             "name": "Kimberly-Clark",
-            "score": 80.0,
+            "score": 81.2,
             "direction": "short",
             "forecast_pct": -1.0,
             "forecast_horizon_days": 1,
@@ -7651,9 +7651,9 @@
           {
             "ticker": "GIS",
             "name": "General Mills",
-            "score": 72.5,
+            "score": 73.5,
             "direction": "short",
-            "forecast_pct": -1.3,
+            "forecast_pct": -1.4,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 35.85,
@@ -7699,7 +7699,7 @@
           {
             "ticker": "SYY",
             "name": "Sysco",
-            "score": 83.0,
+            "score": 84.2,
             "direction": "long",
             "forecast_pct": 1.2,
             "forecast_horizon_days": 3,
@@ -7745,7 +7745,7 @@
           {
             "ticker": "CL",
             "name": "Colgate-Palmolive",
-            "score": 82.6,
+            "score": 83.9,
             "direction": "short",
             "forecast_pct": -1.3,
             "forecast_horizon_days": 3,
@@ -7791,9 +7791,9 @@
           {
             "ticker": "PEP",
             "name": "PepsiCo",
-            "score": 82.1,
+            "score": 83.3,
             "direction": "short",
-            "forecast_pct": -1.2,
+            "forecast_pct": -1.3,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 136.32,
@@ -7837,9 +7837,9 @@
           {
             "ticker": "KMB",
             "name": "Kimberly-Clark",
-            "score": 80.0,
+            "score": 81.2,
             "direction": "short",
-            "forecast_pct": -1.7,
+            "forecast_pct": -1.8,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 98.15,
@@ -7883,9 +7883,9 @@
           {
             "ticker": "GIS",
             "name": "General Mills",
-            "score": 72.5,
+            "score": 73.5,
             "direction": "short",
-            "forecast_pct": -2.3,
+            "forecast_pct": -2.4,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 35.85,
@@ -9329,7 +9329,7 @@
           {
             "ticker": "WM",
             "name": "Waste Management",
-            "score": 82.8,
+            "score": 84.2,
             "direction": "short",
             "forecast_pct": -0.6,
             "forecast_horizon_days": 1,
@@ -9375,7 +9375,7 @@
           {
             "ticker": "UPS",
             "name": "UPS",
-            "score": 70.4,
+            "score": 72.4,
             "direction": "short",
             "forecast_pct": -0.6,
             "forecast_horizon_days": 1,
@@ -9421,7 +9421,7 @@
           {
             "ticker": "HON",
             "name": "Honeywell",
-            "score": 68.5,
+            "score": 70.5,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -9467,7 +9467,7 @@
           {
             "ticker": "ETN",
             "name": "Eaton",
-            "score": 67.9,
+            "score": 68.9,
             "direction": "long",
             "forecast_pct": 1.4,
             "forecast_horizon_days": 1,
@@ -9513,7 +9513,7 @@
           {
             "ticker": "BA",
             "name": "Boeing",
-            "score": 67.0,
+            "score": 68.8,
             "direction": "short",
             "forecast_pct": -0.8,
             "forecast_horizon_days": 1,
@@ -9561,7 +9561,7 @@
           {
             "ticker": "WM",
             "name": "Waste Management",
-            "score": 82.8,
+            "score": 84.2,
             "direction": "short",
             "forecast_pct": -1.0,
             "forecast_horizon_days": 3,
@@ -9607,9 +9607,9 @@
           {
             "ticker": "UPS",
             "name": "UPS",
-            "score": 70.4,
+            "score": 72.4,
             "direction": "short",
-            "forecast_pct": -1.0,
+            "forecast_pct": -1.1,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 100.28,
@@ -9653,9 +9653,9 @@
           {
             "ticker": "HON",
             "name": "Honeywell",
-            "score": 68.5,
+            "score": 70.5,
             "direction": "short",
-            "forecast_pct": -1.2,
+            "forecast_pct": -1.3,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 202.36,
@@ -9699,7 +9699,7 @@
           {
             "ticker": "ETN",
             "name": "Eaton",
-            "score": 67.9,
+            "score": 68.9,
             "direction": "long",
             "forecast_pct": 2.4,
             "forecast_horizon_days": 3,
@@ -9745,7 +9745,7 @@
           {
             "ticker": "BA",
             "name": "Boeing",
-            "score": 67.0,
+            "score": 68.8,
             "direction": "short",
             "forecast_pct": -1.4,
             "forecast_horizon_days": 3,
@@ -11191,9 +11191,9 @@
           {
             "ticker": "OXY",
             "name": "Occidental Petroleum",
-            "score": 79.8,
+            "score": 81.1,
             "direction": "long",
-            "forecast_pct": 0.8,
+            "forecast_pct": 0.9,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 61.46,
@@ -11237,7 +11237,7 @@
           {
             "ticker": "DVN",
             "name": "Devon Energy",
-            "score": 76.9,
+            "score": 78.0,
             "direction": "long",
             "forecast_pct": 1.1,
             "forecast_horizon_days": 1,
@@ -11283,9 +11283,9 @@
           {
             "ticker": "CVX",
             "name": "Chevron",
-            "score": 67.9,
+            "score": 70.0,
             "direction": "long",
-            "forecast_pct": 0.6,
+            "forecast_pct": 0.7,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 214.06,
@@ -11329,7 +11329,7 @@
           {
             "ticker": "VLO",
             "name": "Valero Energy",
-            "score": 66.9,
+            "score": 68.9,
             "direction": "long",
             "forecast_pct": 0.8,
             "forecast_horizon_days": 1,
@@ -11375,9 +11375,9 @@
           {
             "ticker": "MPC",
             "name": "Marathon Petroleum",
-            "score": 66.2,
+            "score": 68.2,
             "direction": "long",
-            "forecast_pct": 0.7,
+            "forecast_pct": 0.8,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 395.93,
@@ -11423,7 +11423,7 @@
           {
             "ticker": "OXY",
             "name": "Occidental Petroleum",
-            "score": 79.8,
+            "score": 81.1,
             "direction": "long",
             "forecast_pct": 1.5,
             "forecast_horizon_days": 3,
@@ -11469,7 +11469,7 @@
           {
             "ticker": "DVN",
             "name": "Devon Energy",
-            "score": 76.9,
+            "score": 78.0,
             "direction": "long",
             "forecast_pct": 1.9,
             "forecast_horizon_days": 3,
@@ -11515,7 +11515,7 @@
           {
             "ticker": "CVX",
             "name": "Chevron",
-            "score": 67.9,
+            "score": 70.0,
             "direction": "long",
             "forecast_pct": 1.1,
             "forecast_horizon_days": 3,
@@ -11561,7 +11561,7 @@
           {
             "ticker": "VLO",
             "name": "Valero Energy",
-            "score": 66.9,
+            "score": 68.9,
             "direction": "long",
             "forecast_pct": 1.4,
             "forecast_horizon_days": 3,
@@ -11607,7 +11607,7 @@
           {
             "ticker": "MPC",
             "name": "Marathon Petroleum",
-            "score": 66.2,
+            "score": 68.2,
             "direction": "long",
             "forecast_pct": 1.3,
             "forecast_horizon_days": 3,
@@ -13053,7 +13053,7 @@
           {
             "ticker": "ATO",
             "name": "Atmos Energy",
-            "score": 82.9,
+            "score": 84.2,
             "direction": "short",
             "forecast_pct": -0.6,
             "forecast_horizon_days": 1,
@@ -13099,7 +13099,7 @@
           {
             "ticker": "DUK",
             "name": "Duke Energy",
-            "score": 82.8,
+            "score": 84.1,
             "direction": "short",
             "forecast_pct": -0.6,
             "forecast_horizon_days": 1,
@@ -13145,7 +13145,7 @@
           {
             "ticker": "PPL",
             "name": "PPL Corporation",
-            "score": 82.4,
+            "score": 83.7,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -13191,7 +13191,7 @@
           {
             "ticker": "ES",
             "name": "Eversource Energy",
-            "score": 82.4,
+            "score": 83.7,
             "direction": "short",
             "forecast_pct": -0.8,
             "forecast_horizon_days": 1,
@@ -13237,7 +13237,7 @@
           {
             "ticker": "SO",
             "name": "Southern Company",
-            "score": 82.0,
+            "score": 83.4,
             "direction": "short",
             "forecast_pct": -0.6,
             "forecast_horizon_days": 1,
@@ -13285,7 +13285,7 @@
           {
             "ticker": "ATO",
             "name": "Atmos Energy",
-            "score": 82.9,
+            "score": 84.2,
             "direction": "short",
             "forecast_pct": -1.1,
             "forecast_horizon_days": 3,
@@ -13331,9 +13331,9 @@
           {
             "ticker": "DUK",
             "name": "Duke Energy",
-            "score": 82.8,
+            "score": 84.1,
             "direction": "short",
-            "forecast_pct": -1.0,
+            "forecast_pct": -1.1,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 119.42,
@@ -13377,7 +13377,7 @@
           {
             "ticker": "PPL",
             "name": "PPL Corporation",
-            "score": 82.4,
+            "score": 83.7,
             "direction": "short",
             "forecast_pct": -1.3,
             "forecast_horizon_days": 3,
@@ -13423,7 +13423,7 @@
           {
             "ticker": "ES",
             "name": "Eversource Energy",
-            "score": 82.4,
+            "score": 83.7,
             "direction": "short",
             "forecast_pct": -1.3,
             "forecast_horizon_days": 3,
@@ -13469,7 +13469,7 @@
           {
             "ticker": "SO",
             "name": "Southern Company",
-            "score": 82.0,
+            "score": 83.4,
             "direction": "short",
             "forecast_pct": -1.0,
             "forecast_horizon_days": 3,
@@ -14915,7 +14915,7 @@
           {
             "ticker": "VOD",
             "name": "Vodafone",
-            "score": 80.6,
+            "score": 81.9,
             "direction": "long",
             "forecast_pct": 0.8,
             "forecast_horizon_days": 1,
@@ -14961,7 +14961,7 @@
           {
             "ticker": "VZ",
             "name": "Verizon",
-            "score": 51.8,
+            "score": 54.8,
             "direction": "long",
             "forecast_pct": 0.4,
             "forecast_horizon_days": 1,
@@ -15007,9 +15007,9 @@
           {
             "ticker": "AMX",
             "name": "America Movil",
-            "score": 51.1,
+            "score": 54.2,
             "direction": "short",
-            "forecast_pct": -0.3,
+            "forecast_pct": -0.4,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 22.83,
@@ -15053,7 +15053,7 @@
           {
             "ticker": "T",
             "name": "AT&T",
-            "score": 50.1,
+            "score": 53.0,
             "direction": "long",
             "forecast_pct": 0.5,
             "forecast_horizon_days": 1,
@@ -15099,9 +15099,9 @@
           {
             "ticker": "DTE.DE",
             "name": "Deutsche Telekom",
-            "score": 49.9,
+            "score": 52.7,
             "direction": "long",
-            "forecast_pct": 0.5,
+            "forecast_pct": 0.6,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 28.59,
@@ -15147,9 +15147,9 @@
           {
             "ticker": "VOD",
             "name": "Vodafone",
-            "score": 80.6,
+            "score": 81.9,
             "direction": "long",
-            "forecast_pct": 1.4,
+            "forecast_pct": 1.5,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 17.4,
@@ -15193,7 +15193,7 @@
           {
             "ticker": "VZ",
             "name": "Verizon",
-            "score": 51.8,
+            "score": 54.8,
             "direction": "long",
             "forecast_pct": 0.7,
             "forecast_horizon_days": 3,
@@ -15239,7 +15239,7 @@
           {
             "ticker": "AMX",
             "name": "America Movil",
-            "score": 51.1,
+            "score": 54.2,
             "direction": "short",
             "forecast_pct": -0.6,
             "forecast_horizon_days": 3,
@@ -15285,7 +15285,7 @@
           {
             "ticker": "T",
             "name": "AT&T",
-            "score": 50.1,
+            "score": 53.0,
             "direction": "long",
             "forecast_pct": 0.9,
             "forecast_horizon_days": 3,
@@ -15331,9 +15331,9 @@
           {
             "ticker": "DTE.DE",
             "name": "Deutsche Telekom",
-            "score": 49.9,
+            "score": 52.7,
             "direction": "long",
-            "forecast_pct": 0.9,
+            "forecast_pct": 1.0,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 28.59,
@@ -16777,7 +16777,7 @@
           {
             "ticker": "PPG",
             "name": "PPG Industries",
-            "score": 80.9,
+            "score": 82.1,
             "direction": "short",
             "forecast_pct": -0.9,
             "forecast_horizon_days": 1,
@@ -16823,7 +16823,7 @@
           {
             "ticker": "DOW",
             "name": "Dow Inc",
-            "score": 71.7,
+            "score": 72.7,
             "direction": "short",
             "forecast_pct": -1.3,
             "forecast_horizon_days": 1,
@@ -16869,7 +16869,7 @@
           {
             "ticker": "LIN",
             "name": "Linde",
-            "score": 69.8,
+            "score": 71.9,
             "direction": "short",
             "forecast_pct": -0.6,
             "forecast_horizon_days": 1,
@@ -16915,7 +16915,7 @@
           {
             "ticker": "DD",
             "name": "DuPont",
-            "score": 68.1,
+            "score": 70.1,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -16961,7 +16961,7 @@
           {
             "ticker": "SHW",
             "name": "Sherwin-Williams",
-            "score": 67.8,
+            "score": 69.6,
             "direction": "short",
             "forecast_pct": -0.8,
             "forecast_horizon_days": 1,
@@ -17009,9 +17009,9 @@
           {
             "ticker": "PPG",
             "name": "PPG Industries",
-            "score": 80.9,
+            "score": 82.1,
             "direction": "short",
-            "forecast_pct": -1.5,
+            "forecast_pct": -1.6,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 105.5,
@@ -17055,7 +17055,7 @@
           {
             "ticker": "DOW",
             "name": "Dow Inc",
-            "score": 71.7,
+            "score": 72.7,
             "direction": "short",
             "forecast_pct": -2.2,
             "forecast_horizon_days": 3,
@@ -17101,7 +17101,7 @@
           {
             "ticker": "LIN",
             "name": "Linde",
-            "score": 69.8,
+            "score": 71.9,
             "direction": "short",
             "forecast_pct": -1.0,
             "forecast_horizon_days": 3,
@@ -17147,7 +17147,7 @@
           {
             "ticker": "DD",
             "name": "DuPont",
-            "score": 68.1,
+            "score": 70.1,
             "direction": "short",
             "forecast_pct": -1.3,
             "forecast_horizon_days": 3,
@@ -17193,7 +17193,7 @@
           {
             "ticker": "SHW",
             "name": "Sherwin-Williams",
-            "score": 67.8,
+            "score": 69.6,
             "direction": "short",
             "forecast_pct": -1.4,
             "forecast_horizon_days": 3,
@@ -18639,7 +18639,7 @@
           {
             "ticker": "MAA",
             "name": "Mid-America Apartment",
-            "score": 82.9,
+            "score": 84.2,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -18685,7 +18685,7 @@
           {
             "ticker": "VICI",
             "name": "VICI Properties",
-            "score": 82.8,
+            "score": 84.2,
             "direction": "short",
             "forecast_pct": -0.7,
             "forecast_horizon_days": 1,
@@ -18731,7 +18731,7 @@
           {
             "ticker": "O",
             "name": "Realty Income",
-            "score": 82.4,
+            "score": 83.8,
             "direction": "short",
             "forecast_pct": -0.5,
             "forecast_horizon_days": 1,
@@ -18777,7 +18777,7 @@
           {
             "ticker": "UDR",
             "name": "UDR Inc",
-            "score": 82.0,
+            "score": 83.4,
             "direction": "short",
             "forecast_pct": -0.6,
             "forecast_horizon_days": 1,
@@ -18823,7 +18823,7 @@
           {
             "ticker": "EXR",
             "name": "Extra Space Storage",
-            "score": 70.5,
+            "score": 72.5,
             "direction": "short",
             "forecast_pct": -0.5,
             "forecast_horizon_days": 1,
@@ -18871,7 +18871,7 @@
           {
             "ticker": "MAA",
             "name": "Mid-America Apartment",
-            "score": 82.9,
+            "score": 84.2,
             "direction": "short",
             "forecast_pct": -1.2,
             "forecast_horizon_days": 3,
@@ -18917,7 +18917,7 @@
           {
             "ticker": "VICI",
             "name": "VICI Properties",
-            "score": 82.8,
+            "score": 84.2,
             "direction": "short",
             "forecast_pct": -1.2,
             "forecast_horizon_days": 3,
@@ -18963,7 +18963,7 @@
           {
             "ticker": "O",
             "name": "Realty Income",
-            "score": 82.4,
+            "score": 83.8,
             "direction": "short",
             "forecast_pct": -0.8,
             "forecast_horizon_days": 3,
@@ -19009,7 +19009,7 @@
           {
             "ticker": "UDR",
             "name": "UDR Inc",
-            "score": 82.0,
+            "score": 83.4,
             "direction": "short",
             "forecast_pct": -1.1,
             "forecast_horizon_days": 3,
@@ -19055,7 +19055,7 @@
           {
             "ticker": "EXR",
             "name": "Extra Space Storage",
-            "score": 70.5,
+            "score": 72.5,
             "direction": "short",
             "forecast_pct": -0.9,
             "forecast_horizon_days": 3,
@@ -20501,7 +20501,7 @@
           {
             "ticker": "TSM",
             "name": "Taiwan Semiconductor",
-            "score": 75.0,
+            "score": 76.1,
             "direction": "long",
             "forecast_pct": 1.1,
             "forecast_horizon_days": 1,
@@ -20547,7 +20547,7 @@
           {
             "ticker": "ADBE",
             "name": "Adobe",
-            "score": 65.7,
+            "score": 66.6,
             "direction": "short",
             "forecast_pct": -1.6,
             "forecast_horizon_days": 1,
@@ -20593,7 +20593,7 @@
           {
             "ticker": "AMD",
             "name": "AMD",
-            "score": 61.0,
+            "score": 61.8,
             "direction": "long",
             "forecast_pct": 1.7,
             "forecast_horizon_days": 1,
@@ -20639,7 +20639,7 @@
           {
             "ticker": "META",
             "name": "Meta Platforms",
-            "score": 58.9,
+            "score": 60.6,
             "direction": "long",
             "forecast_pct": 1.2,
             "forecast_horizon_days": 1,
@@ -20685,9 +20685,9 @@
           {
             "ticker": "MSFT",
             "name": "Microsoft",
-            "score": 46.8,
+            "score": 49.6,
             "direction": "long",
-            "forecast_pct": 0.5,
+            "forecast_pct": 0.6,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 495.63,
@@ -20733,7 +20733,7 @@
           {
             "ticker": "TSM",
             "name": "Taiwan Semiconductor",
-            "score": 75.0,
+            "score": 76.1,
             "direction": "long",
             "forecast_pct": 1.9,
             "forecast_horizon_days": 3,
@@ -20779,7 +20779,7 @@
           {
             "ticker": "ADBE",
             "name": "Adobe",
-            "score": 65.7,
+            "score": 66.6,
             "direction": "short",
             "forecast_pct": -2.8,
             "forecast_horizon_days": 3,
@@ -20825,7 +20825,7 @@
           {
             "ticker": "AMD",
             "name": "AMD",
-            "score": 61.0,
+            "score": 61.8,
             "direction": "long",
             "forecast_pct": 3.0,
             "forecast_horizon_days": 3,
@@ -20871,9 +20871,9 @@
           {
             "ticker": "META",
             "name": "Meta Platforms",
-            "score": 58.9,
+            "score": 60.6,
             "direction": "long",
-            "forecast_pct": 2.0,
+            "forecast_pct": 2.1,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 648.03,
@@ -20917,9 +20917,9 @@
           {
             "ticker": "MSFT",
             "name": "Microsoft",
-            "score": 46.8,
+            "score": 49.6,
             "direction": "long",
-            "forecast_pct": 0.9,
+            "forecast_pct": 1.0,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 495.63,
@@ -22363,9 +22363,9 @@
           {
             "ticker": "CHKP",
             "name": "Check Point Software",
-            "score": 70.6,
+            "score": 71.6,
             "direction": "short",
-            "forecast_pct": -1.3,
+            "forecast_pct": -1.4,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 131.64,
@@ -22407,55 +22407,9 @@
             "rank": 1
           },
           {
-            "ticker": "NET",
-            "name": "Cloudflare",
-            "score": 42.7,
-            "direction": "long",
-            "forecast_pct": 1.6,
-            "forecast_horizon_days": 1,
-            "top_deal": false,
-            "price": 306.53,
-            "rsi14": 55.5,
-            "macd_hist": 1.008,
-            "sma20": 294.1,
-            "sma50": 285.1,
-            "sma200": 224.57,
-            "ret5": 7.74,
-            "ret20": -7.35,
-            "ret60": 32.71,
-            "vol20": 72.1,
-            "reasoning": [
-              "Kurzfristige Schwäche (-7.3% / 20T), übrige Faktoren sprechen aber für eine Gegenbewegung nach oben.",
-              "RSI(14) bei 56 — neutral bis bullisch, Spielraum nach oben vorhanden.",
-              "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
-              "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
-              "Annualisierte 20-Tage-Volatilität: 72% (fließt in die Prognosegröße ein).",
-              "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 1 Tag(en)."
-            ],
-            "trade_republic_hebel": {
-              "handelbar_hebel": true,
-              "issuers_typisch": [
-                "HSBC",
-                "Société Générale",
-                "UBS",
-                "Vontobel",
-                "Citi"
-              ],
-              "produkttypen": [
-                "Turbo/Knock-Out (Call & Put)",
-                "Optionsschein (Call & Put)",
-                "Faktor-Zertifikat (Long & Short)"
-              ],
-              "konfidenz": "mittel",
-              "stand": "2026-09-09",
-              "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Für Long- wie Short-Positionen existieren bei diesen Emittenten in der Regel sowohl Call- als auch Put-Varianten. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit, WKN und Knock-Out-Schwelle direkt bei Trade Republic bzw. beim Emittenten prüfen."
-            },
-            "rank": 2
-          },
-          {
             "ticker": "VRNS",
             "name": "Varonis Systems",
-            "score": 42.4,
+            "score": 43.7,
             "direction": "long",
             "forecast_pct": 1.3,
             "forecast_horizon_days": 1,
@@ -22496,12 +22450,58 @@
               "stand": "2026-09-09",
               "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Für Long- wie Short-Positionen existieren bei diesen Emittenten in der Regel sowohl Call- als auch Put-Varianten. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit, WKN und Knock-Out-Schwelle direkt bei Trade Republic bzw. beim Emittenten prüfen."
             },
+            "rank": 2
+          },
+          {
+            "ticker": "NET",
+            "name": "Cloudflare",
+            "score": 43.3,
+            "direction": "long",
+            "forecast_pct": 1.7,
+            "forecast_horizon_days": 1,
+            "top_deal": false,
+            "price": 306.53,
+            "rsi14": 55.5,
+            "macd_hist": 1.008,
+            "sma20": 294.1,
+            "sma50": 285.1,
+            "sma200": 224.57,
+            "ret5": 7.74,
+            "ret20": -7.35,
+            "ret60": 32.71,
+            "vol20": 72.1,
+            "reasoning": [
+              "Kurzfristige Schwäche (-7.3% / 20T), übrige Faktoren sprechen aber für eine Gegenbewegung nach oben.",
+              "RSI(14) bei 56 — neutral bis bullisch, Spielraum nach oben vorhanden.",
+              "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
+              "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
+              "Annualisierte 20-Tage-Volatilität: 72% (fließt in die Prognosegröße ein).",
+              "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 1 Tag(en)."
+            ],
+            "trade_republic_hebel": {
+              "handelbar_hebel": true,
+              "issuers_typisch": [
+                "HSBC",
+                "Société Générale",
+                "UBS",
+                "Vontobel",
+                "Citi"
+              ],
+              "produkttypen": [
+                "Turbo/Knock-Out (Call & Put)",
+                "Optionsschein (Call & Put)",
+                "Faktor-Zertifikat (Long & Short)"
+              ],
+              "konfidenz": "mittel",
+              "stand": "2026-09-09",
+              "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Für Long- wie Short-Positionen existieren bei diesen Emittenten in der Regel sowohl Call- als auch Put-Varianten. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit, WKN und Knock-Out-Schwelle direkt bei Trade Republic bzw. beim Emittenten prüfen."
+            },
             "rank": 3
           },
           {
             "ticker": "QLYS",
             "name": "Qualys",
-            "score": 35.5,
+            "score": 35.3,
             "direction": "short",
             "forecast_pct": -0.9,
             "forecast_horizon_days": 1,
@@ -22545,29 +22545,29 @@
             "rank": 4
           },
           {
-            "ticker": "OKTA",
-            "name": "Okta",
-            "score": 33.0,
+            "ticker": "GEN",
+            "name": "Gen Digital",
+            "score": 34.4,
             "direction": "long",
-            "forecast_pct": 2.0,
+            "forecast_pct": 0.6,
             "forecast_horizon_days": 1,
             "top_deal": false,
-            "price": 166.5,
-            "rsi14": 58.0,
-            "macd_hist": 1.08,
-            "sma20": 155.09,
-            "sma50": 148.85,
-            "sma200": 103.65,
-            "ret5": -2.3,
-            "ret20": 7.45,
-            "ret60": 43.2,
-            "vol20": 114.2,
+            "price": 30.26,
+            "rsi14": 57.8,
+            "macd_hist": -0.112,
+            "sma20": 29.55,
+            "sma50": 28.05,
+            "sma200": 24.47,
+            "ret5": -3.42,
+            "ret20": 2.78,
+            "ret60": 23.7,
+            "vol20": 33.4,
             "reasoning": [
-              "Aufwärtstrend: +7.5% in den letzten 20 Handelstagen.",
+              "Aufwärtstrend: +2.8% in den letzten 20 Handelstagen.",
               "RSI(14) bei 58 — neutral bis bullisch, Spielraum nach oben vorhanden.",
-              "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
+              "MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.",
               "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
-              "Annualisierte 20-Tage-Volatilität: 114% (fließt in die Prognosegröße ein).",
+              "Annualisierte 20-Tage-Volatilität: 33% (fließt in die Prognosegröße ein).",
               "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 1 Tag(en)."
             ],
             "trade_republic_hebel": {
@@ -22595,9 +22595,9 @@
           {
             "ticker": "CHKP",
             "name": "Check Point Software",
-            "score": 70.6,
+            "score": 71.6,
             "direction": "short",
-            "forecast_pct": -2.3,
+            "forecast_pct": -2.4,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 131.64,
@@ -22639,9 +22639,55 @@
             "rank": 1
           },
           {
+            "ticker": "VRNS",
+            "name": "Varonis Systems",
+            "score": 43.7,
+            "direction": "long",
+            "forecast_pct": 2.3,
+            "forecast_horizon_days": 3,
+            "top_deal": false,
+            "price": 45.12,
+            "rsi14": 54.3,
+            "macd_hist": 0.203,
+            "sma20": 43.79,
+            "sma50": 44.17,
+            "sma200": 32.86,
+            "ret5": -2.99,
+            "ret20": -1.53,
+            "ret60": 33.25,
+            "vol20": 56.8,
+            "reasoning": [
+              "Kurzfristige Schwäche (-1.5% / 20T), übrige Faktoren sprechen aber für eine Gegenbewegung nach oben.",
+              "RSI(14) bei 54 — neutral bis bullisch, Spielraum nach oben vorhanden.",
+              "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
+              "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
+              "Annualisierte 20-Tage-Volatilität: 57% (fließt in die Prognosegröße ein).",
+              "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 3 Tag(en)."
+            ],
+            "trade_republic_hebel": {
+              "handelbar_hebel": true,
+              "issuers_typisch": [
+                "HSBC",
+                "Société Générale",
+                "UBS",
+                "Vontobel",
+                "Citi"
+              ],
+              "produkttypen": [
+                "Turbo/Knock-Out (Call & Put)",
+                "Optionsschein (Call & Put)",
+                "Faktor-Zertifikat (Long & Short)"
+              ],
+              "konfidenz": "mittel",
+              "stand": "2026-09-09",
+              "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Für Long- wie Short-Positionen existieren bei diesen Emittenten in der Regel sowohl Call- als auch Put-Varianten. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit, WKN und Knock-Out-Schwelle direkt bei Trade Republic bzw. beim Emittenten prüfen."
+            },
+            "rank": 2
+          },
+          {
             "ticker": "NET",
             "name": "Cloudflare",
-            "score": 42.7,
+            "score": 43.3,
             "direction": "long",
             "forecast_pct": 2.9,
             "forecast_horizon_days": 3,
@@ -22682,58 +22728,12 @@
               "stand": "2026-09-09",
               "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Für Long- wie Short-Positionen existieren bei diesen Emittenten in der Regel sowohl Call- als auch Put-Varianten. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit, WKN und Knock-Out-Schwelle direkt bei Trade Republic bzw. beim Emittenten prüfen."
             },
-            "rank": 2
-          },
-          {
-            "ticker": "VRNS",
-            "name": "Varonis Systems",
-            "score": 42.4,
-            "direction": "long",
-            "forecast_pct": 2.2,
-            "forecast_horizon_days": 3,
-            "top_deal": false,
-            "price": 45.12,
-            "rsi14": 54.3,
-            "macd_hist": 0.203,
-            "sma20": 43.79,
-            "sma50": 44.17,
-            "sma200": 32.86,
-            "ret5": -2.99,
-            "ret20": -1.53,
-            "ret60": 33.25,
-            "vol20": 56.8,
-            "reasoning": [
-              "Kurzfristige Schwäche (-1.5% / 20T), übrige Faktoren sprechen aber für eine Gegenbewegung nach oben.",
-              "RSI(14) bei 54 — neutral bis bullisch, Spielraum nach oben vorhanden.",
-              "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
-              "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
-              "Annualisierte 20-Tage-Volatilität: 57% (fließt in die Prognosegröße ein).",
-              "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 3 Tag(en)."
-            ],
-            "trade_republic_hebel": {
-              "handelbar_hebel": true,
-              "issuers_typisch": [
-                "HSBC",
-                "Société Générale",
-                "UBS",
-                "Vontobel",
-                "Citi"
-              ],
-              "produkttypen": [
-                "Turbo/Knock-Out (Call & Put)",
-                "Optionsschein (Call & Put)",
-                "Faktor-Zertifikat (Long & Short)"
-              ],
-              "konfidenz": "mittel",
-              "stand": "2026-09-09",
-              "hinweis": "Basierend auf allgemeiner Markterfahrung für diesen liquiden, bekannten Basiswert. Für Long- wie Short-Positionen existieren bei diesen Emittenten in der Regel sowohl Call- als auch Put-Varianten. Keine Live-Verifizierung — bitte vor Handel Verfügbarkeit, WKN und Knock-Out-Schwelle direkt bei Trade Republic bzw. beim Emittenten prüfen."
-            },
             "rank": 3
           },
           {
             "ticker": "QLYS",
             "name": "Qualys",
-            "score": 35.5,
+            "score": 35.3,
             "direction": "short",
             "forecast_pct": -1.6,
             "forecast_horizon_days": 3,
@@ -22777,29 +22777,29 @@
             "rank": 4
           },
           {
-            "ticker": "OKTA",
-            "name": "Okta",
-            "score": 33.0,
+            "ticker": "GEN",
+            "name": "Gen Digital",
+            "score": 34.4,
             "direction": "long",
-            "forecast_pct": 3.5,
+            "forecast_pct": 1.1,
             "forecast_horizon_days": 3,
             "top_deal": false,
-            "price": 166.5,
-            "rsi14": 58.0,
-            "macd_hist": 1.08,
-            "sma20": 155.09,
-            "sma50": 148.85,
-            "sma200": 103.65,
-            "ret5": -2.3,
-            "ret20": 7.45,
-            "ret60": 43.2,
-            "vol20": 114.2,
+            "price": 30.26,
+            "rsi14": 57.8,
+            "macd_hist": -0.112,
+            "sma20": 29.55,
+            "sma50": 28.05,
+            "sma200": 24.47,
+            "ret5": -3.42,
+            "ret20": 2.78,
+            "ret60": 23.7,
+            "vol20": 33.4,
             "reasoning": [
-              "Aufwärtstrend: +7.5% in den letzten 20 Handelstagen.",
+              "Aufwärtstrend: +2.8% in den letzten 20 Handelstagen.",
               "RSI(14) bei 58 — neutral bis bullisch, Spielraum nach oben vorhanden.",
-              "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
+              "MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.",
               "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
-              "Annualisierte 20-Tage-Volatilität: 114% (fließt in die Prognosegröße ein).",
+              "Annualisierte 20-Tage-Volatilität: 33% (fließt in die Prognosegröße ein).",
               "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 3 Tag(en)."
             ],
             "trade_republic_hebel": {
@@ -24225,7 +24225,7 @@
           {
             "ticker": "LI",
             "name": "Li Auto",
-            "score": 68.6,
+            "score": 69.6,
             "direction": "short",
             "forecast_pct": -1.3,
             "forecast_horizon_days": 1,
@@ -24271,9 +24271,9 @@
           {
             "ticker": "ALB",
             "name": "Albemarle",
-            "score": 62.3,
+            "score": 63.2,
             "direction": "short",
-            "forecast_pct": -1.6,
+            "forecast_pct": -1.7,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 117.52,
@@ -24317,7 +24317,7 @@
           {
             "ticker": "NIO",
             "name": "NIO",
-            "score": 57.7,
+            "score": 59.3,
             "direction": "short",
             "forecast_pct": -1.2,
             "forecast_horizon_days": 1,
@@ -24363,7 +24363,7 @@
           {
             "ticker": "PLUG",
             "name": "Plug Power",
-            "score": 56.2,
+            "score": 57.0,
             "direction": "short",
             "forecast_pct": -1.6,
             "forecast_horizon_days": 1,
@@ -24409,9 +24409,9 @@
           {
             "ticker": "XPEV",
             "name": "XPeng",
-            "score": 52.9,
+            "score": 54.3,
             "direction": "short",
-            "forecast_pct": -1.3,
+            "forecast_pct": -1.4,
             "forecast_horizon_days": 1,
             "top_deal": false,
             "price": 10.54,
@@ -24457,7 +24457,7 @@
           {
             "ticker": "LI",
             "name": "Li Auto",
-            "score": 68.6,
+            "score": 69.6,
             "direction": "short",
             "forecast_pct": -2.3,
             "forecast_horizon_days": 3,
@@ -24503,9 +24503,9 @@
           {
             "ticker": "ALB",
             "name": "Albemarle",
-            "score": 62.3,
+            "score": 63.2,
             "direction": "short",
-            "forecast_pct": -2.8,
+            "forecast_pct": -2.9,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 117.52,
@@ -24549,7 +24549,7 @@
           {
             "ticker": "NIO",
             "name": "NIO",
-            "score": 57.7,
+            "score": 59.3,
             "direction": "short",
             "forecast_pct": -2.1,
             "forecast_horizon_days": 3,
@@ -24595,7 +24595,7 @@
           {
             "ticker": "PLUG",
             "name": "Plug Power",
-            "score": 56.2,
+            "score": 57.0,
             "direction": "short",
             "forecast_pct": -2.8,
             "forecast_horizon_days": 3,
@@ -24641,9 +24641,9 @@
           {
             "ticker": "XPEV",
             "name": "XPeng",
-            "score": 52.9,
+            "score": 54.3,
             "direction": "short",
-            "forecast_pct": -2.3,
+            "forecast_pct": -2.4,
             "forecast_horizon_days": 3,
             "top_deal": false,
             "price": 10.54,

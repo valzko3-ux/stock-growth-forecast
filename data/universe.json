@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:31:34.730500Z",
+  "generated_at": "2026-09-14T05:33:00.206660Z",
   "horizons": [
     1,
     3,
@@ -24,7 +24,7 @@
         "1": {
           "ticker": "AAPL",
           "name": "Apple",
-          "score": 77.1,
+          "score": 78.3,
           "direction": "long",
           "forecast_pct": 1.0,
           "forecast_horizon_days": 1,
@@ -69,7 +69,7 @@
         "3": {
           "ticker": "AAPL",
           "name": "Apple",
-          "score": 77.1,
+          "score": 78.3,
           "direction": "long",
           "forecast_pct": 1.7,
           "forecast_horizon_days": 3,
@@ -396,9 +396,9 @@
         "1": {
           "ticker": "ABBV",
           "name": "AbbVie",
-          "score": 10.5,
+          "score": 11.7,
           "direction": "long",
-          "forecast_pct": 0.1,
+          "forecast_pct": 0.2,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 257.12,
@@ -441,9 +441,9 @@
         "3": {
           "ticker": "ABBV",
           "name": "AbbVie",
-          "score": 10.5,
+          "score": 11.7,
           "direction": "long",
-          "forecast_pct": 0.2,
+          "forecast_pct": 0.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 257.12,
@@ -768,7 +768,7 @@
         "1": {
           "ticker": "ABNB",
           "name": "Airbnb",
-          "score": 5.1,
+          "score": 6.2,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -813,9 +813,9 @@
         "3": {
           "ticker": "ABNB",
           "name": "Airbnb",
-          "score": 5.1,
+          "score": 6.2,
           "direction": "long",
-          "forecast_pct": 0.1,
+          "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 170.19,
@@ -1140,7 +1140,7 @@
         "1": {
           "ticker": "ABT",
           "name": "Abbott",
-          "score": 80.0,
+          "score": 81.2,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 1,
@@ -1185,7 +1185,7 @@
         "3": {
           "ticker": "ABT",
           "name": "Abbott",
-          "score": 80.0,
+          "score": 81.2,
           "direction": "short",
           "forecast_pct": -1.7,
           "forecast_horizon_days": 3,
@@ -1516,7 +1516,7 @@
         "1": {
           "ticker": "ADBE",
           "name": "Adobe",
-          "score": 65.7,
+          "score": 66.6,
           "direction": "short",
           "forecast_pct": -1.6,
           "forecast_horizon_days": 1,
@@ -1561,7 +1561,7 @@
         "3": {
           "ticker": "ADBE",
           "name": "Adobe",
-          "score": 65.7,
+          "score": 66.6,
           "direction": "short",
           "forecast_pct": -2.8,
           "forecast_horizon_days": 3,
@@ -1888,7 +1888,7 @@
         "1": {
           "ticker": "ADM",
           "name": "Archer-Daniels-Midland",
-          "score": 64.4,
+          "score": 66.2,
           "direction": "long",
           "forecast_pct": 0.9,
           "forecast_horizon_days": 1,
@@ -1933,7 +1933,7 @@
         "3": {
           "ticker": "ADM",
           "name": "Archer-Daniels-Midland",
-          "score": 64.4,
+          "score": 66.2,
           "direction": "long",
           "forecast_pct": 1.6,
           "forecast_horizon_days": 3,
@@ -2260,7 +2260,7 @@
         "1": {
           "ticker": "AEP",
           "name": "American Electric Power",
-          "score": 52.3,
+          "score": 55.2,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -2305,7 +2305,7 @@
         "3": {
           "ticker": "AEP",
           "name": "American Electric Power",
-          "score": 52.3,
+          "score": 55.2,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
@@ -2636,9 +2636,9 @@
         "1": {
           "ticker": "ALB",
           "name": "Albemarle",
-          "score": 62.3,
+          "score": 63.2,
           "direction": "short",
-          "forecast_pct": -1.6,
+          "forecast_pct": -1.7,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 117.52,
@@ -2681,9 +2681,9 @@
         "3": {
           "ticker": "ALB",
           "name": "Albemarle",
-          "score": 62.3,
+          "score": 63.2,
           "direction": "short",
-          "forecast_pct": -2.8,
+          "forecast_pct": -2.9,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 117.52,
@@ -3008,7 +3008,7 @@
         "1": {
           "ticker": "ALV.DE",
           "name": "Allianz",
-          "score": 10.4,
+          "score": 11.7,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -3053,7 +3053,7 @@
         "3": {
           "ticker": "ALV.DE",
           "name": "Allianz",
-          "score": 10.4,
+          "score": 11.7,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -3384,7 +3384,7 @@
         "1": {
           "ticker": "AMD",
           "name": "AMD",
-          "score": 61.0,
+          "score": 61.8,
           "direction": "long",
           "forecast_pct": 1.7,
           "forecast_horizon_days": 1,
@@ -3429,7 +3429,7 @@
         "3": {
           "ticker": "AMD",
           "name": "AMD",
-          "score": 61.0,
+          "score": 61.8,
           "direction": "long",
           "forecast_pct": 3.0,
           "forecast_horizon_days": 3,
@@ -3756,7 +3756,7 @@
         "1": {
           "ticker": "AMGN",
           "name": "Amgen",
-          "score": 36.5,
+          "score": 36.3,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -3801,7 +3801,7 @@
         "3": {
           "ticker": "AMGN",
           "name": "Amgen",
-          "score": 36.5,
+          "score": 36.3,
           "direction": "short",
           "forecast_pct": -1.5,
           "forecast_horizon_days": 3,
@@ -4128,7 +4128,7 @@
         "1": {
           "ticker": "AMT",
           "name": "American Tower",
-          "score": 49.5,
+          "score": 52.3,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -4173,7 +4173,7 @@
         "3": {
           "ticker": "AMT",
           "name": "American Tower",
-          "score": 49.5,
+          "score": 52.3,
           "direction": "long",
           "forecast_pct": 1.0,
           "forecast_horizon_days": 3,
@@ -4500,9 +4500,9 @@
         "1": {
           "ticker": "AMX",
           "name": "America Movil",
-          "score": 51.1,
+          "score": 54.2,
           "direction": "short",
-          "forecast_pct": -0.3,
+          "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 22.83,
@@ -4545,7 +4545,7 @@
         "3": {
           "ticker": "AMX",
           "name": "America Movil",
-          "score": 51.1,
+          "score": 54.2,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -4876,9 +4876,9 @@
         "1": {
           "ticker": "AMZN",
           "name": "Amazon",
-          "score": 9.7,
+          "score": 10.9,
           "direction": "long",
-          "forecast_pct": 0.1,
+          "forecast_pct": 0.2,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 256.78,
@@ -4921,9 +4921,9 @@
         "3": {
           "ticker": "AMZN",
           "name": "Amazon",
-          "score": 9.7,
+          "score": 10.9,
           "direction": "long",
-          "forecast_pct": 0.2,
+          "forecast_pct": 0.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 256.78,
@@ -5248,7 +5248,7 @@
         "1": {
           "ticker": "ANET",
           "name": "Arista Networks",
-          "score": 39.8,
+          "score": 42.0,
           "direction": "long",
           "forecast_pct": 1.0,
           "forecast_horizon_days": 1,
@@ -5293,9 +5293,9 @@
         "3": {
           "ticker": "ANET",
           "name": "Arista Networks",
-          "score": 39.8,
+          "score": 42.0,
           "direction": "long",
-          "forecast_pct": 1.7,
+          "forecast_pct": 1.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 199.59,
@@ -5620,7 +5620,7 @@
         "1": {
           "ticker": "APA",
           "name": "APA Corporation",
-          "score": 46.2,
+          "score": 48.7,
           "direction": "long",
           "forecast_pct": 0.8,
           "forecast_horizon_days": 1,
@@ -5665,9 +5665,9 @@
         "3": {
           "ticker": "APA",
           "name": "APA Corporation",
-          "score": 46.2,
+          "score": 48.7,
           "direction": "long",
-          "forecast_pct": 1.4,
+          "forecast_pct": 1.5,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 44.73,
@@ -5992,7 +5992,7 @@
         "1": {
           "ticker": "APD",
           "name": "Air Products",
-          "score": 42.3,
+          "score": 42.0,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -6037,7 +6037,7 @@
         "3": {
           "ticker": "APD",
           "name": "Air Products",
-          "score": 42.3,
+          "score": 42.0,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 3,
@@ -6364,7 +6364,7 @@
         "1": {
           "ticker": "ARE",
           "name": "Alexandria Real Estate",
-          "score": 8.2,
+          "score": 9.1,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 1,
@@ -6409,7 +6409,7 @@
         "3": {
           "ticker": "ARE",
           "name": "Alexandria Real Estate",
-          "score": 8.2,
+          "score": 9.1,
           "direction": "long",
           "forecast_pct": 0.4,
           "forecast_horizon_days": 3,
@@ -6736,7 +6736,7 @@
         "1": {
           "ticker": "ARM",
           "name": "Arm Holdings",
-          "score": 30.7,
+          "score": 30.4,
           "direction": "long",
           "forecast_pct": 0.9,
           "forecast_horizon_days": 1,
@@ -6781,7 +6781,7 @@
         "3": {
           "ticker": "ARM",
           "name": "Arm Holdings",
-          "score": 30.7,
+          "score": 30.4,
           "direction": "long",
           "forecast_pct": 1.5,
           "forecast_horizon_days": 3,
@@ -7108,7 +7108,7 @@
         "1": {
           "ticker": "ATO",
           "name": "Atmos Energy",
-          "score": 82.9,
+          "score": 84.2,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -7153,7 +7153,7 @@
         "3": {
           "ticker": "ATO",
           "name": "Atmos Energy",
-          "score": 82.9,
+          "score": 84.2,
           "direction": "short",
           "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
@@ -7484,7 +7484,7 @@
         "1": {
           "ticker": "AVGO",
           "name": "Broadcom",
-          "score": 33.6,
+          "score": 36.5,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -7529,9 +7529,9 @@
         "3": {
           "ticker": "AVGO",
           "name": "Broadcom",
-          "score": 33.6,
+          "score": 36.5,
           "direction": "short",
-          "forecast_pct": -1.2,
+          "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 361.99,
@@ -7856,7 +7856,7 @@
         "1": {
           "ticker": "AWK",
           "name": "American Water Works",
-          "score": 2.1,
+          "score": 0.1,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -7901,7 +7901,7 @@
         "3": {
           "ticker": "AWK",
           "name": "American Water Works",
-          "score": 2.1,
+          "score": 0.1,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
@@ -8228,7 +8228,7 @@
         "1": {
           "ticker": "AXP",
           "name": "American Express",
-          "score": 69.0,
+          "score": 71.0,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -8273,9 +8273,9 @@
         "3": {
           "ticker": "AXP",
           "name": "American Express",
-          "score": 69.0,
+          "score": 71.0,
           "direction": "short",
-          "forecast_pct": -1.1,
+          "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 324.69,
@@ -8600,7 +8600,7 @@
         "1": {
           "ticker": "BA",
           "name": "Boeing",
-          "score": 67.0,
+          "score": 68.8,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -8645,7 +8645,7 @@
         "3": {
           "ticker": "BA",
           "name": "Boeing",
-          "score": 67.0,
+          "score": 68.8,
           "direction": "short",
           "forecast_pct": -1.4,
           "forecast_horizon_days": 3,
@@ -8972,9 +8972,9 @@
         "1": {
           "ticker": "BAC",
           "name": "Bank of America",
-          "score": 51.2,
+          "score": 54.2,
           "direction": "long",
-          "forecast_pct": 0.4,
+          "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 62.69,
@@ -9017,9 +9017,9 @@
         "3": {
           "ticker": "BAC",
           "name": "Bank of America",
-          "score": 51.2,
+          "score": 54.2,
           "direction": "long",
-          "forecast_pct": 0.7,
+          "forecast_pct": 0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 62.69,
@@ -9344,9 +9344,9 @@
         "1": {
           "ticker": "BAS.DE",
           "name": "BASF",
-          "score": 1.6,
-          "direction": "short",
-          "forecast_pct": -0.0,
+          "score": 0.3,
+          "direction": "long",
+          "forecast_pct": 0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 51.83,
@@ -9360,10 +9360,10 @@
           "ret60": 6.79,
           "vol20": 20.4,
           "reasoning": [
-            "Trotz kurzfristiger Stärke (+3.3% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.",
-            "RSI(14) bei 49 — neutral bis bearisch.",
-            "MACD-Linie notiert unter der Signallinie — bearisches Momentum.",
-            "Kurs notiert unter dem SMA20 — kurzfristige Schwäche, SMA50 als nächste Unterstützung.",
+            "Aufwärtstrend: +3.3% in den letzten 20 Handelstagen.",
+            "RSI(14) bei 49 — neutral bis bullisch, Spielraum nach oben vorhanden.",
+            "MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.",
+            "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
             "Annualisierte 20-Tage-Volatilität: 20% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 1 Tag(en)."
           ],
@@ -9389,9 +9389,9 @@
         "3": {
           "ticker": "BAS.DE",
           "name": "BASF",
-          "score": 1.6,
-          "direction": "short",
-          "forecast_pct": -0.0,
+          "score": 0.3,
+          "direction": "long",
+          "forecast_pct": 0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 51.83,
@@ -9405,10 +9405,10 @@
           "ret60": 6.79,
           "vol20": 20.4,
           "reasoning": [
-            "Trotz kurzfristiger Stärke (+3.3% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.",
-            "RSI(14) bei 49 — neutral bis bearisch.",
-            "MACD-Linie notiert unter der Signallinie — bearisches Momentum.",
-            "Kurs notiert unter dem SMA20 — kurzfristige Schwäche, SMA50 als nächste Unterstützung.",
+            "Aufwärtstrend: +3.3% in den letzten 20 Handelstagen.",
+            "RSI(14) bei 49 — neutral bis bullisch, Spielraum nach oben vorhanden.",
+            "MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.",
+            "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
             "Annualisierte 20-Tage-Volatilität: 20% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 3 Tag(en)."
           ],
@@ -9716,9 +9716,9 @@
         "1": {
           "ticker": "BKNG",
           "name": "Booking Holdings",
-          "score": 61.4,
+          "score": 63.0,
           "direction": "short",
-          "forecast_pct": -1.2,
+          "forecast_pct": -1.3,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 173.92,
@@ -9761,9 +9761,9 @@
         "3": {
           "ticker": "BKNG",
           "name": "Booking Holdings",
-          "score": 61.4,
+          "score": 63.0,
           "direction": "short",
-          "forecast_pct": -2.1,
+          "forecast_pct": -2.2,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 173.92,
@@ -10088,7 +10088,7 @@
         "1": {
           "ticker": "BKR",
           "name": "Baker Hughes",
-          "score": 39.7,
+          "score": 39.5,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -10133,7 +10133,7 @@
         "3": {
           "ticker": "BKR",
           "name": "Baker Hughes",
-          "score": 39.7,
+          "score": 39.5,
           "direction": "short",
           "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
@@ -10460,7 +10460,7 @@
         "1": {
           "ticker": "BLK",
           "name": "BlackRock",
-          "score": 30.1,
+          "score": 30.5,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -10505,7 +10505,7 @@
         "3": {
           "ticker": "BLK",
           "name": "BlackRock",
-          "score": 30.1,
+          "score": 30.5,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -10832,7 +10832,7 @@
         "1": {
           "ticker": "BLNK",
           "name": "Blink Charging",
-          "score": 47.1,
+          "score": 47.6,
           "direction": "short",
           "forecast_pct": -1.8,
           "forecast_horizon_days": 1,
@@ -10877,9 +10877,9 @@
         "3": {
           "ticker": "BLNK",
           "name": "Blink Charging",
-          "score": 47.1,
+          "score": 47.6,
           "direction": "short",
-          "forecast_pct": -3.0,
+          "forecast_pct": -3.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 0.54,
@@ -11204,7 +11204,7 @@
         "1": {
           "ticker": "BMY",
           "name": "Bristol-Myers Squibb",
-          "score": 3.6,
+          "score": 1.8,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -11249,9 +11249,9 @@
         "3": {
           "ticker": "BMY",
           "name": "Bristol-Myers Squibb",
-          "score": 3.6,
+          "score": 1.8,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 63.64,
@@ -11576,7 +11576,7 @@
         "1": {
           "ticker": "BSX",
           "name": "Boston Scientific",
-          "score": 67.7,
+          "score": 68.7,
           "direction": "short",
           "forecast_pct": -1.5,
           "forecast_horizon_days": 1,
@@ -11621,9 +11621,9 @@
         "3": {
           "ticker": "BSX",
           "name": "Boston Scientific",
-          "score": 67.7,
+          "score": 68.7,
           "direction": "short",
-          "forecast_pct": -2.6,
+          "forecast_pct": -2.7,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 42.98,
@@ -11948,7 +11948,7 @@
         "1": {
           "ticker": "C",
           "name": "Citigroup",
-          "score": 76.3,
+          "score": 77.6,
           "direction": "long",
           "forecast_pct": 0.9,
           "forecast_horizon_days": 1,
@@ -11993,9 +11993,9 @@
         "3": {
           "ticker": "C",
           "name": "Citigroup",
-          "score": 76.3,
+          "score": 77.6,
           "direction": "long",
-          "forecast_pct": 1.5,
+          "forecast_pct": 1.6,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 138.82,
@@ -12320,7 +12320,7 @@
         "1": {
           "ticker": "CAT",
           "name": "Caterpillar",
-          "score": 36.9,
+          "score": 36.5,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -12365,7 +12365,7 @@
         "3": {
           "ticker": "CAT",
           "name": "Caterpillar",
-          "score": 36.9,
+          "score": 36.5,
           "direction": "long",
           "forecast_pct": 1.0,
           "forecast_horizon_days": 3,
@@ -12692,7 +12692,7 @@
         "1": {
           "ticker": "CB",
           "name": "Chubb",
-          "score": 29.8,
+          "score": 30.1,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -12737,7 +12737,7 @@
         "3": {
           "ticker": "CB",
           "name": "Chubb",
-          "score": 29.8,
+          "score": 30.1,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -13064,7 +13064,7 @@
         "1": {
           "ticker": "CCI",
           "name": "Crown Castle",
-          "score": 0.6,
+          "score": 2.5,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -13109,7 +13109,7 @@
         "3": {
           "ticker": "CCI",
           "name": "Crown Castle",
-          "score": 0.6,
+          "score": 2.5,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
@@ -13436,7 +13436,7 @@
         "1": {
           "ticker": "CCL",
           "name": "Carnival",
-          "score": 64.6,
+          "score": 66.4,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 1,
@@ -13481,9 +13481,9 @@
         "3": {
           "ticker": "CCL",
           "name": "Carnival",
-          "score": 64.6,
+          "score": 66.4,
           "direction": "short",
-          "forecast_pct": -1.7,
+          "forecast_pct": -1.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 22.75,
@@ -13808,7 +13808,7 @@
         "1": {
           "ticker": "CE",
           "name": "Celanese",
-          "score": 35.2,
+          "score": 34.9,
           "direction": "long",
           "forecast_pct": 0.7,
           "forecast_horizon_days": 1,
@@ -13853,7 +13853,7 @@
         "3": {
           "ticker": "CE",
           "name": "Celanese",
-          "score": 35.2,
+          "score": 34.9,
           "direction": "long",
           "forecast_pct": 1.2,
           "forecast_horizon_days": 3,
@@ -14180,9 +14180,9 @@
         "1": {
           "ticker": "CF",
           "name": "CF Industries",
-          "score": 56.7,
+          "score": 58.3,
           "direction": "long",
-          "forecast_pct": 1.1,
+          "forecast_pct": 1.2,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 133.07,
@@ -14225,7 +14225,7 @@
         "3": {
           "ticker": "CF",
           "name": "CF Industries",
-          "score": 56.7,
+          "score": 58.3,
           "direction": "long",
           "forecast_pct": 2.0,
           "forecast_horizon_days": 3,
@@ -14552,9 +14552,9 @@
         "1": {
           "ticker": "CHKP",
           "name": "Check Point Software",
-          "score": 70.6,
+          "score": 71.6,
           "direction": "short",
-          "forecast_pct": -1.3,
+          "forecast_pct": -1.4,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 131.64,
@@ -14597,9 +14597,9 @@
         "3": {
           "ticker": "CHKP",
           "name": "Check Point Software",
-          "score": 70.6,
+          "score": 71.6,
           "direction": "short",
-          "forecast_pct": -2.3,
+          "forecast_pct": -2.4,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 131.64,
@@ -14924,7 +14924,7 @@
         "1": {
           "ticker": "CHPT",
           "name": "ChargePoint",
-          "score": 36.8,
+          "score": 37.7,
           "direction": "long",
           "forecast_pct": 2.8,
           "forecast_horizon_days": 1,
@@ -14969,7 +14969,7 @@
         "3": {
           "ticker": "CHPT",
           "name": "ChargePoint",
-          "score": 36.8,
+          "score": 37.7,
           "direction": "long",
           "forecast_pct": 4.4,
           "forecast_horizon_days": 3,
@@ -15296,7 +15296,7 @@
         "1": {
           "ticker": "CHTR",
           "name": "Charter Communications",
-          "score": 17.9,
+          "score": 18.1,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -15341,7 +15341,7 @@
         "3": {
           "ticker": "CHTR",
           "name": "Charter Communications",
-          "score": 17.9,
+          "score": 18.1,
           "direction": "short",
           "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
@@ -15668,7 +15668,7 @@
         "1": {
           "ticker": "CL",
           "name": "Colgate-Palmolive",
-          "score": 82.6,
+          "score": 83.9,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -15713,7 +15713,7 @@
         "3": {
           "ticker": "CL",
           "name": "Colgate-Palmolive",
-          "score": 82.6,
+          "score": 83.9,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
@@ -16040,9 +16040,9 @@
         "1": {
           "ticker": "CLX",
           "name": "Clorox",
-          "score": 68.3,
+          "score": 70.3,
           "direction": "short",
-          "forecast_pct": -0.8,
+          "forecast_pct": -0.9,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 87.76,
@@ -16085,9 +16085,9 @@
         "3": {
           "ticker": "CLX",
           "name": "Clorox",
-          "score": 68.3,
+          "score": 70.3,
           "direction": "short",
-          "forecast_pct": -1.4,
+          "forecast_pct": -1.5,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 87.76,
@@ -16412,7 +16412,7 @@
         "1": {
           "ticker": "CMCSA",
           "name": "Comcast",
-          "score": 37.7,
+          "score": 37.4,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -16457,7 +16457,7 @@
         "3": {
           "ticker": "CMCSA",
           "name": "Comcast",
-          "score": 37.7,
+          "score": 37.4,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
@@ -16784,7 +16784,7 @@
         "1": {
           "ticker": "CMS",
           "name": "CMS Energy",
-          "score": 52.2,
+          "score": 55.3,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -16829,7 +16829,7 @@
         "3": {
           "ticker": "CMS",
           "name": "CMS Energy",
-          "score": 52.2,
+          "score": 55.3,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -17156,9 +17156,9 @@
         "1": {
           "ticker": "COP",
           "name": "ConocoPhillips",
-          "score": 38.5,
+          "score": 42.1,
           "direction": "long",
-          "forecast_pct": 0.4,
+          "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 137.35,
@@ -17201,9 +17201,9 @@
         "3": {
           "ticker": "COP",
           "name": "ConocoPhillips",
-          "score": 38.5,
+          "score": 42.1,
           "direction": "long",
-          "forecast_pct": 0.7,
+          "forecast_pct": 0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 137.35,
@@ -17528,7 +17528,7 @@
         "1": {
           "ticker": "COST",
           "name": "Costco",
-          "score": 68.1,
+          "score": 70.1,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -17573,7 +17573,7 @@
         "3": {
           "ticker": "COST",
           "name": "Costco",
-          "score": 68.1,
+          "score": 70.1,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
@@ -17904,9 +17904,9 @@
         "1": {
           "ticker": "CRM",
           "name": "Salesforce",
-          "score": 19.0,
+          "score": 20.8,
           "direction": "long",
-          "forecast_pct": 0.9,
+          "forecast_pct": 1.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 247.72,
@@ -17949,9 +17949,9 @@
         "3": {
           "ticker": "CRM",
           "name": "Salesforce",
-          "score": 19.0,
+          "score": 20.8,
           "direction": "long",
-          "forecast_pct": 1.5,
+          "forecast_pct": 1.7,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 247.72,
@@ -18276,7 +18276,7 @@
         "1": {
           "ticker": "CRWD",
           "name": "CrowdStrike",
-          "score": 2.7,
+          "score": 1.7,
           "direction": "short",
           "forecast_pct": -0.1,
           "forecast_horizon_days": 1,
@@ -18321,9 +18321,9 @@
         "3": {
           "ticker": "CRWD",
           "name": "CrowdStrike",
-          "score": 2.7,
+          "score": 1.7,
           "direction": "short",
-          "forecast_pct": -0.2,
+          "forecast_pct": -0.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 206.74,
@@ -18648,7 +18648,7 @@
         "1": {
           "ticker": "CSCO",
           "name": "Cisco",
-          "score": 40.5,
+          "score": 40.1,
           "direction": "long",
           "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
@@ -18693,9 +18693,9 @@
         "3": {
           "ticker": "CSCO",
           "name": "Cisco",
-          "score": 40.5,
+          "score": 40.1,
           "direction": "long",
-          "forecast_pct": 0.9,
+          "forecast_pct": 0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 112.13,
@@ -19020,7 +19020,7 @@
         "1": {
           "ticker": "CSX",
           "name": "CSX Corporation",
-          "score": 27.5,
+          "score": 27.8,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -19065,7 +19065,7 @@
         "3": {
           "ticker": "CSX",
           "name": "CSX Corporation",
-          "score": 27.5,
+          "score": 27.8,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -19392,7 +19392,7 @@
         "1": {
           "ticker": "CTVA",
           "name": "Corteva",
-          "score": 62.7,
+          "score": 64.4,
           "direction": "long",
           "forecast_pct": 0.9,
           "forecast_horizon_days": 1,
@@ -19437,9 +19437,9 @@
         "3": {
           "ticker": "CTVA",
           "name": "Corteva",
-          "score": 62.7,
+          "score": 64.4,
           "direction": "long",
-          "forecast_pct": 1.5,
+          "forecast_pct": 1.6,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 83.9,
@@ -19764,9 +19764,9 @@
         "1": {
           "ticker": "CVS",
           "name": "CVS Health",
-          "score": 11.5,
+          "score": 12.7,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.2,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 94.66,
@@ -19809,7 +19809,7 @@
         "3": {
           "ticker": "CVS",
           "name": "CVS Health",
-          "score": 11.5,
+          "score": 12.7,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 3,
@@ -20136,9 +20136,9 @@
         "1": {
           "ticker": "CVX",
           "name": "Chevron",
-          "score": 67.9,
+          "score": 70.0,
           "direction": "long",
-          "forecast_pct": 0.6,
+          "forecast_pct": 0.7,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 214.06,
@@ -20181,7 +20181,7 @@
         "3": {
           "ticker": "CVX",
           "name": "Chevron",
-          "score": 67.9,
+          "score": 70.0,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 3,
@@ -20508,7 +20508,7 @@
         "1": {
           "ticker": "D",
           "name": "Dominion Energy",
-          "score": 41.8,
+          "score": 41.6,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -20553,7 +20553,7 @@
         "3": {
           "ticker": "D",
           "name": "Dominion Energy",
-          "score": 41.8,
+          "score": 41.6,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -20880,9 +20880,9 @@
         "1": {
           "ticker": "DBK.DE",
           "name": "Deutsche Bank",
-          "score": 35.8,
+          "score": 39.3,
           "direction": "long",
-          "forecast_pct": 0.4,
+          "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 34.84,
@@ -20925,9 +20925,9 @@
         "3": {
           "ticker": "DBK.DE",
           "name": "Deutsche Bank",
-          "score": 35.8,
+          "score": 39.3,
           "direction": "long",
-          "forecast_pct": 0.7,
+          "forecast_pct": 0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 34.84,
@@ -21252,7 +21252,7 @@
         "1": {
           "ticker": "DD",
           "name": "DuPont",
-          "score": 68.1,
+          "score": 70.1,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -21297,7 +21297,7 @@
         "3": {
           "ticker": "DD",
           "name": "DuPont",
-          "score": 68.1,
+          "score": 70.1,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
@@ -21624,7 +21624,7 @@
         "1": {
           "ticker": "DDOG",
           "name": "Datadog",
-          "score": 18.7,
+          "score": 18.9,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -21669,7 +21669,7 @@
         "3": {
           "ticker": "DDOG",
           "name": "Datadog",
-          "score": 18.7,
+          "score": 18.9,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 3,
@@ -21996,7 +21996,7 @@
         "1": {
           "ticker": "DE",
           "name": "Deere & Co",
-          "score": 53.8,
+          "score": 55.4,
           "direction": "long",
           "forecast_pct": 1.2,
           "forecast_horizon_days": 1,
@@ -22041,9 +22041,9 @@
         "3": {
           "ticker": "DE",
           "name": "Deere & Co",
-          "score": 53.8,
+          "score": 55.4,
           "direction": "long",
-          "forecast_pct": 2.0,
+          "forecast_pct": 2.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 675.74,
@@ -22368,7 +22368,7 @@
         "1": {
           "ticker": "DELL",
           "name": "Dell Technologies",
-          "score": 42.5,
+          "score": 43.1,
           "direction": "long",
           "forecast_pct": 2.0,
           "forecast_horizon_days": 1,
@@ -22413,7 +22413,7 @@
         "3": {
           "ticker": "DELL",
           "name": "Dell Technologies",
-          "score": 42.5,
+          "score": 43.1,
           "direction": "long",
           "forecast_pct": 3.5,
           "forecast_horizon_days": 3,
@@ -22740,9 +22740,9 @@
         "1": {
           "ticker": "DHI",
           "name": "D.R. Horton",
-          "score": 63.4,
+          "score": 65.1,
           "direction": "short",
-          "forecast_pct": -1.0,
+          "forecast_pct": -1.1,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 137.89,
@@ -22785,7 +22785,7 @@
         "3": {
           "ticker": "DHI",
           "name": "D.R. Horton",
-          "score": 63.4,
+          "score": 65.1,
           "direction": "short",
           "forecast_pct": -1.8,
           "forecast_horizon_days": 3,
@@ -23112,7 +23112,7 @@
         "1": {
           "ticker": "DHR",
           "name": "Danaher",
-          "score": 73.7,
+          "score": 74.7,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 1,
@@ -23157,7 +23157,7 @@
         "3": {
           "ticker": "DHR",
           "name": "Danaher",
-          "score": 73.7,
+          "score": 74.7,
           "direction": "short",
           "forecast_pct": -2.1,
           "forecast_horizon_days": 3,
@@ -23484,7 +23484,7 @@
         "1": {
           "ticker": "DLR",
           "name": "Digital Realty",
-          "score": 10.3,
+          "score": 11.5,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -23529,9 +23529,9 @@
         "3": {
           "ticker": "DLR",
           "name": "Digital Realty",
-          "score": 10.3,
+          "score": 11.5,
           "direction": "long",
-          "forecast_pct": 0.2,
+          "forecast_pct": 0.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 188.58,
@@ -23856,7 +23856,7 @@
         "1": {
           "ticker": "DOW",
           "name": "Dow Inc",
-          "score": 71.7,
+          "score": 72.7,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 1,
@@ -23901,7 +23901,7 @@
         "3": {
           "ticker": "DOW",
           "name": "Dow Inc",
-          "score": 71.7,
+          "score": 72.7,
           "direction": "short",
           "forecast_pct": -2.2,
           "forecast_horizon_days": 3,
@@ -24228,7 +24228,7 @@
         "1": {
           "ticker": "DTE",
           "name": "DTE Energy",
-          "score": 53.0,
+          "score": 56.0,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -24273,7 +24273,7 @@
         "3": {
           "ticker": "DTE",
           "name": "DTE Energy",
-          "score": 53.0,
+          "score": 56.0,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 3,
@@ -24600,9 +24600,9 @@
         "1": {
           "ticker": "DTE.DE",
           "name": "Deutsche Telekom",
-          "score": 49.9,
+          "score": 52.7,
           "direction": "long",
-          "forecast_pct": 0.5,
+          "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 28.59,
@@ -24645,9 +24645,9 @@
         "3": {
           "ticker": "DTE.DE",
           "name": "Deutsche Telekom",
-          "score": 49.9,
+          "score": 52.7,
           "direction": "long",
-          "forecast_pct": 0.9,
+          "forecast_pct": 1.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 28.59,
@@ -24972,7 +24972,7 @@
         "1": {
           "ticker": "DUK",
           "name": "Duke Energy",
-          "score": 82.8,
+          "score": 84.1,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -25017,9 +25017,9 @@
         "3": {
           "ticker": "DUK",
           "name": "Duke Energy",
-          "score": 82.8,
+          "score": 84.1,
           "direction": "short",
-          "forecast_pct": -1.0,
+          "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 119.42,
@@ -25344,7 +25344,7 @@
         "1": {
           "ticker": "DVN",
           "name": "Devon Energy",
-          "score": 76.9,
+          "score": 78.0,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 1,
@@ -25389,7 +25389,7 @@
         "3": {
           "ticker": "DVN",
           "name": "Devon Energy",
-          "score": 76.9,
+          "score": 78.0,
           "direction": "long",
           "forecast_pct": 1.9,
           "forecast_horizon_days": 3,
@@ -25716,7 +25716,7 @@
         "1": {
           "ticker": "EBAY",
           "name": "eBay",
-          "score": 37.7,
+          "score": 37.4,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -25761,7 +25761,7 @@
         "3": {
           "ticker": "EBAY",
           "name": "eBay",
-          "score": 37.7,
+          "score": 37.4,
           "direction": "long",
           "forecast_pct": 1.0,
           "forecast_horizon_days": 3,
@@ -26088,7 +26088,7 @@
         "1": {
           "ticker": "ECL",
           "name": "Ecolab",
-          "score": 27.9,
+          "score": 28.2,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -26133,7 +26133,7 @@
         "3": {
           "ticker": "ECL",
           "name": "Ecolab",
-          "score": 27.9,
+          "score": 28.2,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -26460,7 +26460,7 @@
         "1": {
           "ticker": "ED",
           "name": "Consolidated Edison",
-          "score": 42.2,
+          "score": 41.9,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -26505,7 +26505,7 @@
         "3": {
           "ticker": "ED",
           "name": "Consolidated Edison",
-          "score": 42.2,
+          "score": 41.9,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -26832,9 +26832,9 @@
         "1": {
           "ticker": "EIX",
           "name": "Edison International",
-          "score": 34.8,
+          "score": 35.8,
           "direction": "short",
-          "forecast_pct": -1.8,
+          "forecast_pct": -1.9,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 56.0,
@@ -26877,9 +26877,9 @@
         "3": {
           "ticker": "EIX",
           "name": "Edison International",
-          "score": 34.8,
+          "score": 35.8,
           "direction": "short",
-          "forecast_pct": -3.2,
+          "forecast_pct": -3.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 56.0,
@@ -27204,9 +27204,9 @@
         "1": {
           "ticker": "EL",
           "name": "Estee Lauder",
-          "score": 0.1,
-          "direction": "short",
-          "forecast_pct": -0.0,
+          "score": 1.0,
+          "direction": "long",
+          "forecast_pct": 0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 97.12,
@@ -27220,10 +27220,10 @@
           "ret60": 11.27,
           "vol20": 68.3,
           "reasoning": [
-            "Trotz kurzfristiger Stärke (+11.6% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.",
-            "RSI(14) bei 52 — neutral bis bearisch.",
-            "MACD-Linie notiert unter der Signallinie — bearisches Momentum.",
-            "Kurs notiert unter dem SMA20 — kurzfristige Schwäche, SMA50 als nächste Unterstützung.",
+            "Aufwärtstrend: +11.6% in den letzten 20 Handelstagen.",
+            "RSI(14) bei 52 — neutral bis bullisch, Spielraum nach oben vorhanden.",
+            "MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.",
+            "Kurs unter wichtigen gleitenden Durchschnitten — eher antizyklische, riskantere Chance.",
             "Annualisierte 20-Tage-Volatilität: 68% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 1 Tag(en)."
           ],
@@ -27249,9 +27249,9 @@
         "3": {
           "ticker": "EL",
           "name": "Estee Lauder",
-          "score": 0.1,
-          "direction": "short",
-          "forecast_pct": -0.0,
+          "score": 1.0,
+          "direction": "long",
+          "forecast_pct": 0.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 97.12,
@@ -27265,10 +27265,10 @@
           "ret60": 11.27,
           "vol20": 68.3,
           "reasoning": [
-            "Trotz kurzfristiger Stärke (+11.6% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.",
-            "RSI(14) bei 52 — neutral bis bearisch.",
-            "MACD-Linie notiert unter der Signallinie — bearisches Momentum.",
-            "Kurs notiert unter dem SMA20 — kurzfristige Schwäche, SMA50 als nächste Unterstützung.",
+            "Aufwärtstrend: +11.6% in den letzten 20 Handelstagen.",
+            "RSI(14) bei 52 — neutral bis bullisch, Spielraum nach oben vorhanden.",
+            "MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.",
+            "Kurs unter wichtigen gleitenden Durchschnitten — eher antizyklische, riskantere Chance.",
             "Annualisierte 20-Tage-Volatilität: 68% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 3 Tag(en)."
           ],
@@ -27576,7 +27576,7 @@
         "1": {
           "ticker": "ELV",
           "name": "Elevance Health",
-          "score": 72.8,
+          "score": 73.9,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 1,
@@ -27621,7 +27621,7 @@
         "3": {
           "ticker": "ELV",
           "name": "Elevance Health",
-          "score": 72.8,
+          "score": 73.9,
           "direction": "long",
           "forecast_pct": 2.0,
           "forecast_horizon_days": 3,
@@ -27948,9 +27948,9 @@
         "1": {
           "ticker": "EMR",
           "name": "Emerson Electric",
-          "score": 10.1,
+          "score": 11.2,
           "direction": "long",
-          "forecast_pct": 0.1,
+          "forecast_pct": 0.2,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 152.19,
@@ -27993,9 +27993,9 @@
         "3": {
           "ticker": "EMR",
           "name": "Emerson Electric",
-          "score": 10.1,
+          "score": 11.2,
           "direction": "long",
-          "forecast_pct": 0.2,
+          "forecast_pct": 0.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 152.19,
@@ -28320,9 +28320,9 @@
         "1": {
           "ticker": "ENPH",
           "name": "Enphase Energy",
-          "score": 37.5,
+          "score": 39.5,
           "direction": "short",
-          "forecast_pct": -1.0,
+          "forecast_pct": -1.1,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 36.35,
@@ -28365,9 +28365,9 @@
         "3": {
           "ticker": "ENPH",
           "name": "Enphase Energy",
-          "score": 37.5,
+          "score": 39.5,
           "direction": "short",
-          "forecast_pct": -1.8,
+          "forecast_pct": -1.9,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 36.35,
@@ -28692,7 +28692,7 @@
         "1": {
           "ticker": "EOG",
           "name": "EOG Resources",
-          "score": 50.8,
+          "score": 53.5,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -28737,9 +28737,9 @@
         "3": {
           "ticker": "EOG",
           "name": "EOG Resources",
-          "score": 50.8,
+          "score": 53.5,
           "direction": "long",
-          "forecast_pct": 1.0,
+          "forecast_pct": 1.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 147.36,
@@ -29064,7 +29064,7 @@
         "1": {
           "ticker": "EQIX",
           "name": "Equinix",
-          "score": 27.5,
+          "score": 27.9,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -29109,7 +29109,7 @@
         "3": {
           "ticker": "EQIX",
           "name": "Equinix",
-          "score": 27.5,
+          "score": 27.9,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -29436,7 +29436,7 @@
         "1": {
           "ticker": "ES",
           "name": "Eversource Energy",
-          "score": 82.4,
+          "score": 83.7,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -29481,7 +29481,7 @@
         "3": {
           "ticker": "ES",
           "name": "Eversource Energy",
-          "score": 82.4,
+          "score": 83.7,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
@@ -29808,7 +29808,7 @@
         "1": {
           "ticker": "ESS",
           "name": "Essex Property Trust",
-          "score": 28.5,
+          "score": 29.0,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -29853,9 +29853,9 @@
         "3": {
           "ticker": "ESS",
           "name": "Essex Property Trust",
-          "score": 28.5,
+          "score": 29.0,
           "direction": "short",
-          "forecast_pct": -0.4,
+          "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 272.91,
@@ -30180,7 +30180,7 @@
         "1": {
           "ticker": "ETN",
           "name": "Eaton",
-          "score": 67.9,
+          "score": 68.9,
           "direction": "long",
           "forecast_pct": 1.4,
           "forecast_horizon_days": 1,
@@ -30225,7 +30225,7 @@
         "3": {
           "ticker": "ETN",
           "name": "Eaton",
-          "score": 67.9,
+          "score": 68.9,
           "direction": "long",
           "forecast_pct": 2.4,
           "forecast_horizon_days": 3,
@@ -30552,7 +30552,7 @@
         "1": {
           "ticker": "ETR",
           "name": "Entergy",
-          "score": 12.2,
+          "score": 13.6,
           "direction": "short",
           "forecast_pct": -0.1,
           "forecast_horizon_days": 1,
@@ -30597,7 +30597,7 @@
         "3": {
           "ticker": "ETR",
           "name": "Entergy",
-          "score": 12.2,
+          "score": 13.6,
           "direction": "short",
           "forecast_pct": -0.2,
           "forecast_horizon_days": 3,
@@ -30924,7 +30924,7 @@
         "1": {
           "ticker": "EXC",
           "name": "Exelon",
-          "score": 53.4,
+          "score": 56.4,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -30969,9 +30969,9 @@
         "3": {
           "ticker": "EXC",
           "name": "Exelon",
-          "score": 53.4,
+          "score": 56.4,
           "direction": "short",
-          "forecast_pct": -0.7,
+          "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 43.16,
@@ -31296,7 +31296,7 @@
         "1": {
           "ticker": "EXR",
           "name": "Extra Space Storage",
-          "score": 70.5,
+          "score": 72.5,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -31341,7 +31341,7 @@
         "3": {
           "ticker": "EXR",
           "name": "Extra Space Storage",
-          "score": 70.5,
+          "score": 72.5,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 3,
@@ -31672,7 +31672,7 @@
         "1": {
           "ticker": "F",
           "name": "Ford",
-          "score": 24.0,
+          "score": 24.2,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -31717,7 +31717,7 @@
         "3": {
           "ticker": "F",
           "name": "Ford",
-          "score": 24.0,
+          "score": 24.2,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 3,
@@ -32044,7 +32044,7 @@
         "1": {
           "ticker": "FANG",
           "name": "Diamondback Energy",
-          "score": 49.9,
+          "score": 52.6,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -32089,9 +32089,9 @@
         "3": {
           "ticker": "FANG",
           "name": "Diamondback Energy",
-          "score": 49.9,
+          "score": 52.6,
           "direction": "long",
-          "forecast_pct": 1.0,
+          "forecast_pct": 1.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 204.97,
@@ -32416,7 +32416,7 @@
         "1": {
           "ticker": "FCX",
           "name": "Freeport-McMoRan",
-          "score": 0.1,
+          "score": 1.4,
           "direction": "long",
           "forecast_pct": 0.0,
           "forecast_horizon_days": 1,
@@ -32461,9 +32461,9 @@
         "3": {
           "ticker": "FCX",
           "name": "Freeport-McMoRan",
-          "score": 0.1,
+          "score": 1.4,
           "direction": "long",
-          "forecast_pct": 0.0,
+          "forecast_pct": 0.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 71.07,
@@ -32788,7 +32788,7 @@
         "1": {
           "ticker": "FE",
           "name": "FirstEnergy",
-          "score": 53.3,
+          "score": 56.2,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -32833,9 +32833,9 @@
         "3": {
           "ticker": "FE",
           "name": "FirstEnergy",
-          "score": 53.3,
+          "score": 56.2,
           "direction": "short",
-          "forecast_pct": -0.7,
+          "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 46.13,
@@ -33160,7 +33160,7 @@
         "1": {
           "ticker": "FTNT",
           "name": "Fortinet",
-          "score": 28.7,
+          "score": 28.4,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -33205,7 +33205,7 @@
         "3": {
           "ticker": "FTNT",
           "name": "Fortinet",
-          "score": 28.7,
+          "score": 28.4,
           "direction": "short",
           "forecast_pct": -1.4,
           "forecast_horizon_days": 3,
@@ -33532,9 +33532,9 @@
         "1": {
           "ticker": "GD",
           "name": "General Dynamics",
-          "score": 29.6,
+          "score": 30.1,
           "direction": "short",
-          "forecast_pct": -0.2,
+          "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 355.9,
@@ -33577,7 +33577,7 @@
         "3": {
           "ticker": "GD",
           "name": "General Dynamics",
-          "score": 29.6,
+          "score": 30.1,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 3,
@@ -33904,9 +33904,9 @@
         "1": {
           "ticker": "GE",
           "name": "GE Aerospace",
-          "score": 26.2,
+          "score": 26.5,
           "direction": "short",
-          "forecast_pct": -0.4,
+          "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 323.66,
@@ -33949,7 +33949,7 @@
         "3": {
           "ticker": "GE",
           "name": "GE Aerospace",
-          "score": 26.2,
+          "score": 26.5,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
@@ -34276,7 +34276,7 @@
         "1": {
           "ticker": "GEN",
           "name": "Gen Digital",
-          "score": 31.3,
+          "score": 34.4,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -34321,9 +34321,9 @@
         "3": {
           "ticker": "GEN",
           "name": "Gen Digital",
-          "score": 31.3,
+          "score": 34.4,
           "direction": "long",
-          "forecast_pct": 1.0,
+          "forecast_pct": 1.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 30.26,
@@ -34648,7 +34648,7 @@
         "1": {
           "ticker": "GILD",
           "name": "Gilead Sciences",
-          "score": 2.7,
+          "score": 0.9,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -34693,9 +34693,9 @@
         "3": {
           "ticker": "GILD",
           "name": "Gilead Sciences",
-          "score": 2.7,
+          "score": 0.9,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 143.72,
@@ -35020,9 +35020,9 @@
         "1": {
           "ticker": "GIS",
           "name": "General Mills",
-          "score": 72.5,
+          "score": 73.5,
           "direction": "short",
-          "forecast_pct": -1.3,
+          "forecast_pct": -1.4,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 35.85,
@@ -35065,9 +35065,9 @@
         "3": {
           "ticker": "GIS",
           "name": "General Mills",
-          "score": 72.5,
+          "score": 73.5,
           "direction": "short",
-          "forecast_pct": -2.3,
+          "forecast_pct": -2.4,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 35.85,
@@ -35396,7 +35396,7 @@
         "1": {
           "ticker": "GM",
           "name": "General Motors",
-          "score": 9.7,
+          "score": 10.9,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -35441,9 +35441,9 @@
         "3": {
           "ticker": "GM",
           "name": "General Motors",
-          "score": 9.7,
+          "score": 10.9,
           "direction": "long",
-          "forecast_pct": 0.2,
+          "forecast_pct": 0.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 85.62,
@@ -35772,7 +35772,7 @@
         "1": {
           "ticker": "GOOGL",
           "name": "Alphabet",
-          "score": 28.7,
+          "score": 29.0,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -35817,7 +35817,7 @@
         "3": {
           "ticker": "GOOGL",
           "name": "Alphabet",
-          "score": 28.7,
+          "score": 29.0,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -36144,7 +36144,7 @@
         "1": {
           "ticker": "GS",
           "name": "Goldman Sachs",
-          "score": 37.3,
+          "score": 36.9,
           "direction": "long",
           "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
@@ -36189,7 +36189,7 @@
         "3": {
           "ticker": "GS",
           "name": "Goldman Sachs",
-          "score": 37.3,
+          "score": 36.9,
           "direction": "long",
           "forecast_pct": 0.9,
           "forecast_horizon_days": 3,
@@ -36516,7 +36516,7 @@
         "1": {
           "ticker": "HAL",
           "name": "Halliburton",
-          "score": 59.8,
+          "score": 61.4,
           "direction": "long",
           "forecast_pct": 1.0,
           "forecast_horizon_days": 1,
@@ -36561,9 +36561,9 @@
         "3": {
           "ticker": "HAL",
           "name": "Halliburton",
-          "score": 59.8,
+          "score": 61.4,
           "direction": "long",
-          "forecast_pct": 1.7,
+          "forecast_pct": 1.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 35.84,
@@ -36888,9 +36888,9 @@
         "1": {
           "ticker": "HD",
           "name": "Home Depot",
-          "score": 68.0,
+          "score": 69.9,
           "direction": "short",
-          "forecast_pct": -0.7,
+          "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 308.74,
@@ -36933,7 +36933,7 @@
         "3": {
           "ticker": "HD",
           "name": "Home Depot",
-          "score": 68.0,
+          "score": 69.9,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
@@ -37260,7 +37260,7 @@
         "1": {
           "ticker": "HON",
           "name": "Honeywell",
-          "score": 68.5,
+          "score": 70.5,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -37305,9 +37305,9 @@
         "3": {
           "ticker": "HON",
           "name": "Honeywell",
-          "score": 68.5,
+          "score": 70.5,
           "direction": "short",
-          "forecast_pct": -1.2,
+          "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 202.36,
@@ -37632,7 +37632,7 @@
         "1": {
           "ticker": "HSY",
           "name": "Hershey",
-          "score": 66.8,
+          "score": 68.7,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -37677,7 +37677,7 @@
         "3": {
           "ticker": "HSY",
           "name": "Hershey",
-          "score": 66.8,
+          "score": 68.7,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
@@ -38008,7 +38008,7 @@
         "1": {
           "ticker": "IBM",
           "name": "IBM",
-          "score": 36.9,
+          "score": 36.6,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -38053,7 +38053,7 @@
         "3": {
           "ticker": "IBM",
           "name": "IBM",
-          "score": 36.9,
+          "score": 36.6,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 3,
@@ -38380,7 +38380,7 @@
         "1": {
           "ticker": "ICE",
           "name": "Intercontinental Exchange",
-          "score": 8.4,
+          "score": 9.7,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -38425,7 +38425,7 @@
         "3": {
           "ticker": "ICE",
           "name": "Intercontinental Exchange",
-          "score": 8.4,
+          "score": 9.7,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -38752,7 +38752,7 @@
         "1": {
           "ticker": "IFF",
           "name": "International Flavors & Fragrances",
-          "score": 2.4,
+          "score": 0.5,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -38797,7 +38797,7 @@
         "3": {
           "ticker": "IFF",
           "name": "International Flavors & Fragrances",
-          "score": 2.4,
+          "score": 0.5,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
@@ -39124,7 +39124,7 @@
         "1": {
           "ticker": "INTC",
           "name": "Intel",
-          "score": 55.3,
+          "score": 56.0,
           "direction": "long",
           "forecast_pct": 1.7,
           "forecast_horizon_days": 1,
@@ -39169,7 +39169,7 @@
         "3": {
           "ticker": "INTC",
           "name": "Intel",
-          "score": 55.3,
+          "score": 56.0,
           "direction": "long",
           "forecast_pct": 3.0,
           "forecast_horizon_days": 3,
@@ -39496,7 +39496,7 @@
         "1": {
           "ticker": "INTU",
           "name": "Intuit",
-          "score": 26.4,
+          "score": 26.7,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -39541,7 +39541,7 @@
         "3": {
           "ticker": "INTU",
           "name": "Intuit",
-          "score": 26.4,
+          "score": 26.7,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 3,
@@ -39868,7 +39868,7 @@
         "1": {
           "ticker": "INVH",
           "name": "Invitation Homes",
-          "score": 40.7,
+          "score": 40.6,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -39913,7 +39913,7 @@
         "3": {
           "ticker": "INVH",
           "name": "Invitation Homes",
-          "score": 40.7,
+          "score": 40.6,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -40240,7 +40240,7 @@
         "1": {
           "ticker": "IRDM",
           "name": "Iridium Communications",
-          "score": 28.3,
+          "score": 28.6,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -40285,7 +40285,7 @@
         "3": {
           "ticker": "IRDM",
           "name": "Iridium Communications",
-          "score": 28.3,
+          "score": 28.6,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -40612,7 +40612,7 @@
         "1": {
           "ticker": "ISRG",
           "name": "Intuitive Surgical",
-          "score": 60.8,
+          "score": 62.4,
           "direction": "short",
           "forecast_pct": -1.1,
           "forecast_horizon_days": 1,
@@ -40657,7 +40657,7 @@
         "3": {
           "ticker": "ISRG",
           "name": "Intuitive Surgical",
-          "score": 60.8,
+          "score": 62.4,
           "direction": "short",
           "forecast_pct": -1.9,
           "forecast_horizon_days": 3,
@@ -40984,7 +40984,7 @@
         "1": {
           "ticker": "ITW",
           "name": "Illinois Tool Works",
-          "score": 29.6,
+          "score": 30.0,
           "direction": "short",
           "forecast_pct": -0.2,
           "forecast_horizon_days": 1,
@@ -41029,7 +41029,7 @@
         "3": {
           "ticker": "ITW",
           "name": "Illinois Tool Works",
-          "score": 29.6,
+          "score": 30.0,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 3,
@@ -41356,7 +41356,7 @@
         "1": {
           "ticker": "JNJ",
           "name": "Johnson & Johnson",
-          "score": 2.9,
+          "score": 1.0,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -41401,9 +41401,9 @@
         "3": {
           "ticker": "JNJ",
           "name": "Johnson & Johnson",
-          "score": 2.9,
+          "score": 1.0,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 265.58,
@@ -41728,7 +41728,7 @@
         "1": {
           "ticker": "JPM",
           "name": "JPMorgan Chase",
-          "score": 10.0,
+          "score": 11.3,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -41773,9 +41773,9 @@
         "3": {
           "ticker": "JPM",
           "name": "JPMorgan Chase",
-          "score": 10.0,
+          "score": 11.3,
           "direction": "long",
-          "forecast_pct": 0.1,
+          "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 356.23,
@@ -42100,7 +42100,7 @@
         "1": {
           "ticker": "KHC",
           "name": "Kraft Heinz",
-          "score": 38.5,
+          "score": 38.1,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -42145,7 +42145,7 @@
         "3": {
           "ticker": "KHC",
           "name": "Kraft Heinz",
-          "score": 38.5,
+          "score": 38.1,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 3,
@@ -42472,7 +42472,7 @@
         "1": {
           "ticker": "KIM",
           "name": "Kimco Realty",
-          "score": 40.8,
+          "score": 40.5,
           "direction": "short",
           "forecast_pct": -0.2,
           "forecast_horizon_days": 1,
@@ -42517,7 +42517,7 @@
         "3": {
           "ticker": "KIM",
           "name": "Kimco Realty",
-          "score": 40.8,
+          "score": 40.5,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 3,
@@ -42844,7 +42844,7 @@
         "1": {
           "ticker": "KMB",
           "name": "Kimberly-Clark",
-          "score": 80.0,
+          "score": 81.2,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 1,
@@ -42889,9 +42889,9 @@
         "3": {
           "ticker": "KMB",
           "name": "Kimberly-Clark",
-          "score": 80.0,
+          "score": 81.2,
           "direction": "short",
-          "forecast_pct": -1.7,
+          "forecast_pct": -1.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 98.15,
@@ -43216,7 +43216,7 @@
         "1": {
           "ticker": "KMI",
           "name": "Kinder Morgan",
-          "score": 38.7,
+          "score": 38.4,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -43261,7 +43261,7 @@
         "3": {
           "ticker": "KMI",
           "name": "Kinder Morgan",
-          "score": 38.7,
+          "score": 38.4,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 3,
@@ -43588,7 +43588,7 @@
         "1": {
           "ticker": "KO",
           "name": "Coca-Cola",
-          "score": 11.5,
+          "score": 12.8,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -43633,7 +43633,7 @@
         "3": {
           "ticker": "KO",
           "name": "Coca-Cola",
-          "score": 11.5,
+          "score": 12.8,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -43960,7 +43960,7 @@
         "1": {
           "ticker": "KR",
           "name": "Kroger",
-          "score": 38.6,
+          "score": 38.3,
           "direction": "long",
           "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
@@ -44005,7 +44005,7 @@
         "3": {
           "ticker": "KR",
           "name": "Kroger",
-          "score": 38.6,
+          "score": 38.3,
           "direction": "long",
           "forecast_pct": 0.8,
           "forecast_horizon_days": 3,
@@ -44332,9 +44332,9 @@
         "1": {
           "ticker": "LCID",
           "name": "Lucid Group",
-          "score": 47.6,
+          "score": 48.8,
           "direction": "short",
-          "forecast_pct": -1.5,
+          "forecast_pct": -1.6,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 4.22,
@@ -44377,9 +44377,9 @@
         "3": {
           "ticker": "LCID",
           "name": "Lucid Group",
-          "score": 47.6,
+          "score": 48.8,
           "direction": "short",
-          "forecast_pct": -2.6,
+          "forecast_pct": -2.7,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 4.22,
@@ -44704,9 +44704,9 @@
         "1": {
           "ticker": "LEN",
           "name": "Lennar",
-          "score": 64.1,
+          "score": 65.8,
           "direction": "short",
-          "forecast_pct": -1.0,
+          "forecast_pct": -1.1,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 79.6,
@@ -44749,9 +44749,9 @@
         "3": {
           "ticker": "LEN",
           "name": "Lennar",
-          "score": 64.1,
+          "score": 65.8,
           "direction": "short",
-          "forecast_pct": -1.8,
+          "forecast_pct": -1.9,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 79.6,
@@ -45076,7 +45076,7 @@
         "1": {
           "ticker": "LI",
           "name": "Li Auto",
-          "score": 68.6,
+          "score": 69.6,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 1,
@@ -45121,7 +45121,7 @@
         "3": {
           "ticker": "LI",
           "name": "Li Auto",
-          "score": 68.6,
+          "score": 69.6,
           "direction": "short",
           "forecast_pct": -2.3,
           "forecast_horizon_days": 3,
@@ -45448,7 +45448,7 @@
         "1": {
           "ticker": "LIN",
           "name": "Linde",
-          "score": 69.8,
+          "score": 71.9,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -45493,7 +45493,7 @@
         "3": {
           "ticker": "LIN",
           "name": "Linde",
-          "score": 69.8,
+          "score": 71.9,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 3,
@@ -45820,7 +45820,7 @@
         "1": {
           "ticker": "LLY",
           "name": "Eli Lilly",
-          "score": 26.7,
+          "score": 27.1,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -45865,9 +45865,9 @@
         "3": {
           "ticker": "LLY",
           "name": "Eli Lilly",
-          "score": 26.7,
+          "score": 27.1,
           "direction": "short",
-          "forecast_pct": -0.7,
+          "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 1115.7,
@@ -46192,9 +46192,9 @@
         "1": {
           "ticker": "LMT",
           "name": "Lockheed Martin",
-          "score": 64.2,
+          "score": 66.0,
           "direction": "short",
-          "forecast_pct": -0.9,
+          "forecast_pct": -1.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 524.19,
@@ -46237,9 +46237,9 @@
         "3": {
           "ticker": "LMT",
           "name": "Lockheed Martin",
-          "score": 64.2,
+          "score": 66.0,
           "direction": "short",
-          "forecast_pct": -1.6,
+          "forecast_pct": -1.7,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 524.19,
@@ -46564,7 +46564,7 @@
         "1": {
           "ticker": "LOW",
           "name": "Lowe's",
-          "score": 68.9,
+          "score": 70.8,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -46609,7 +46609,7 @@
         "3": {
           "ticker": "LOW",
           "name": "Lowe's",
-          "score": 68.9,
+          "score": 70.8,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
@@ -46936,7 +46936,7 @@
         "1": {
           "ticker": "LUMN",
           "name": "Lumen Technologies",
-          "score": 20.0,
+          "score": 20.3,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -46981,7 +46981,7 @@
         "3": {
           "ticker": "LUMN",
           "name": "Lumen Technologies",
-          "score": 20.0,
+          "score": 20.3,
           "direction": "long",
           "forecast_pct": 1.0,
           "forecast_horizon_days": 3,
@@ -47308,7 +47308,7 @@
         "1": {
           "ticker": "MA",
           "name": "Mastercard",
-          "score": 10.4,
+          "score": 11.6,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -47353,7 +47353,7 @@
         "3": {
           "ticker": "MA",
           "name": "Mastercard",
-          "score": 10.4,
+          "score": 11.6,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -47680,7 +47680,7 @@
         "1": {
           "ticker": "MAA",
           "name": "Mid-America Apartment",
-          "score": 82.9,
+          "score": 84.2,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -47725,7 +47725,7 @@
         "3": {
           "ticker": "MAA",
           "name": "Mid-America Apartment",
-          "score": 82.9,
+          "score": 84.2,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
@@ -48052,7 +48052,7 @@
         "1": {
           "ticker": "MAR",
           "name": "Marriott",
-          "score": 66.9,
+          "score": 68.9,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -48097,7 +48097,7 @@
         "3": {
           "ticker": "MAR",
           "name": "Marriott",
-          "score": 66.9,
+          "score": 68.9,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
@@ -48424,9 +48424,9 @@
         "1": {
           "ticker": "MCD",
           "name": "McDonald's",
-          "score": 68.6,
+          "score": 70.6,
           "direction": "short",
-          "forecast_pct": -0.6,
+          "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 252.53,
@@ -48469,9 +48469,9 @@
         "3": {
           "ticker": "MCD",
           "name": "McDonald's",
-          "score": 68.6,
+          "score": 70.6,
           "direction": "short",
-          "forecast_pct": -1.1,
+          "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 252.53,
@@ -48796,7 +48796,7 @@
         "1": {
           "ticker": "MDLZ",
           "name": "Mondelez",
-          "score": 12.0,
+          "score": 13.3,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -48841,7 +48841,7 @@
         "3": {
           "ticker": "MDLZ",
           "name": "Mondelez",
-          "score": 12.0,
+          "score": 13.3,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -49172,7 +49172,7 @@
         "1": {
           "ticker": "META",
           "name": "Meta Platforms",
-          "score": 58.9,
+          "score": 60.6,
           "direction": "long",
           "forecast_pct": 1.2,
           "forecast_horizon_days": 1,
@@ -49217,9 +49217,9 @@
         "3": {
           "ticker": "META",
           "name": "Meta Platforms",
-          "score": 58.9,
+          "score": 60.6,
           "direction": "long",
-          "forecast_pct": 2.0,
+          "forecast_pct": 2.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 648.03,
@@ -49544,7 +49544,7 @@
         "1": {
           "ticker": "MLM",
           "name": "Martin Marietta",
-          "score": 63.3,
+          "score": 65.1,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 1,
@@ -49589,9 +49589,9 @@
         "3": {
           "ticker": "MLM",
           "name": "Martin Marietta",
-          "score": 63.3,
+          "score": 65.1,
           "direction": "short",
-          "forecast_pct": -1.5,
+          "forecast_pct": -1.6,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 509.96,
@@ -49916,7 +49916,7 @@
         "1": {
           "ticker": "MMM",
           "name": "3M",
-          "score": 29.7,
+          "score": 30.1,
           "direction": "short",
           "forecast_pct": -0.2,
           "forecast_horizon_days": 1,
@@ -49961,7 +49961,7 @@
         "3": {
           "ticker": "MMM",
           "name": "3M",
-          "score": 29.7,
+          "score": 30.1,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 3,
@@ -50288,7 +50288,7 @@
         "1": {
           "ticker": "MO",
           "name": "Altria",
-          "score": 27.4,
+          "score": 27.7,
           "direction": "long",
           "forecast_pct": 0.4,
           "forecast_horizon_days": 1,
@@ -50333,7 +50333,7 @@
         "3": {
           "ticker": "MO",
           "name": "Altria",
-          "score": 27.4,
+          "score": 27.7,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 3,
@@ -50660,7 +50660,7 @@
         "1": {
           "ticker": "MOS",
           "name": "Mosaic",
-          "score": 57.2,
+          "score": 58.8,
           "direction": "long",
           "forecast_pct": 1.2,
           "forecast_horizon_days": 1,
@@ -50705,7 +50705,7 @@
         "3": {
           "ticker": "MOS",
           "name": "Mosaic",
-          "score": 57.2,
+          "score": 58.8,
           "direction": "long",
           "forecast_pct": 2.1,
           "forecast_horizon_days": 3,
@@ -51032,9 +51032,9 @@
         "1": {
           "ticker": "MPC",
           "name": "Marathon Petroleum",
-          "score": 66.2,
+          "score": 68.2,
           "direction": "long",
-          "forecast_pct": 0.7,
+          "forecast_pct": 0.8,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 395.93,
@@ -51077,7 +51077,7 @@
         "3": {
           "ticker": "MPC",
           "name": "Marathon Petroleum",
-          "score": 66.2,
+          "score": 68.2,
           "direction": "long",
           "forecast_pct": 1.3,
           "forecast_horizon_days": 3,
@@ -51404,9 +51404,9 @@
         "1": {
           "ticker": "MRK",
           "name": "Merck & Co",
-          "score": 1.9,
+          "score": 0.5,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 143.93,
@@ -51449,9 +51449,9 @@
         "3": {
           "ticker": "MRK",
           "name": "Merck & Co",
-          "score": 1.9,
+          "score": 0.5,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 143.93,
@@ -51776,7 +51776,7 @@
         "1": {
           "ticker": "MRNA",
           "name": "Moderna",
-          "score": 25.1,
+          "score": 26.8,
           "direction": "long",
           "forecast_pct": 2.8,
           "forecast_horizon_days": 1,
@@ -51821,7 +51821,7 @@
         "3": {
           "ticker": "MRNA",
           "name": "Moderna",
-          "score": 25.1,
+          "score": 26.8,
           "direction": "long",
           "forecast_pct": 4.4,
           "forecast_horizon_days": 3,
@@ -52148,7 +52148,7 @@
         "1": {
           "ticker": "MRVL",
           "name": "Marvell Technology",
-          "score": 43.5,
+          "score": 44.0,
           "direction": "long",
           "forecast_pct": 1.9,
           "forecast_horizon_days": 1,
@@ -52193,7 +52193,7 @@
         "3": {
           "ticker": "MRVL",
           "name": "Marvell Technology",
-          "score": 43.5,
+          "score": 44.0,
           "direction": "long",
           "forecast_pct": 3.3,
           "forecast_horizon_days": 3,
@@ -52520,7 +52520,7 @@
         "1": {
           "ticker": "MS",
           "name": "Morgan Stanley",
-          "score": 40.4,
+          "score": 40.0,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -52565,7 +52565,7 @@
         "3": {
           "ticker": "MS",
           "name": "Morgan Stanley",
-          "score": 40.4,
+          "score": 40.0,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
@@ -52896,9 +52896,9 @@
         "1": {
           "ticker": "MSFT",
           "name": "Microsoft",
-          "score": 46.8,
+          "score": 49.6,
           "direction": "long",
-          "forecast_pct": 0.5,
+          "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 495.63,
@@ -52941,9 +52941,9 @@
         "3": {
           "ticker": "MSFT",
           "name": "Microsoft",
-          "score": 46.8,
+          "score": 49.6,
           "direction": "long",
-          "forecast_pct": 0.9,
+          "forecast_pct": 1.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 495.63,
@@ -53268,9 +53268,9 @@
         "1": {
           "ticker": "NEE",
           "name": "NextEra Energy",
-          "score": 53.1,
+          "score": 56.1,
           "direction": "short",
-          "forecast_pct": -0.3,
+          "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 82.31,
@@ -53313,7 +53313,7 @@
         "3": {
           "ticker": "NEE",
           "name": "NextEra Energy",
-          "score": 53.1,
+          "score": 56.1,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -53640,9 +53640,9 @@
         "1": {
           "ticker": "NEM",
           "name": "Newmont",
-          "score": 29.2,
+          "score": 31.8,
           "direction": "long",
-          "forecast_pct": 0.7,
+          "forecast_pct": 0.8,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 126.81,
@@ -53685,9 +53685,9 @@
         "3": {
           "ticker": "NEM",
           "name": "Newmont",
-          "score": 29.2,
+          "score": 31.8,
           "direction": "long",
-          "forecast_pct": 1.3,
+          "forecast_pct": 1.4,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 126.81,
@@ -54012,9 +54012,9 @@
         "1": {
           "ticker": "NET",
           "name": "Cloudflare",
-          "score": 42.7,
+          "score": 43.3,
           "direction": "long",
-          "forecast_pct": 1.6,
+          "forecast_pct": 1.7,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 306.53,
@@ -54057,7 +54057,7 @@
         "3": {
           "ticker": "NET",
           "name": "Cloudflare",
-          "score": 42.7,
+          "score": 43.3,
           "direction": "long",
           "forecast_pct": 2.9,
           "forecast_horizon_days": 3,
@@ -54384,7 +54384,7 @@
         "1": {
           "ticker": "NIO",
           "name": "NIO",
-          "score": 57.7,
+          "score": 59.3,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 1,
@@ -54429,7 +54429,7 @@
         "3": {
           "ticker": "NIO",
           "name": "NIO",
-          "score": 57.7,
+          "score": 59.3,
           "direction": "short",
           "forecast_pct": -2.1,
           "forecast_horizon_days": 3,
@@ -54756,7 +54756,7 @@
         "1": {
           "ticker": "NKE",
           "name": "Nike",
-          "score": 74.2,
+          "score": 75.3,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 1,
@@ -54801,7 +54801,7 @@
         "3": {
           "ticker": "NKE",
           "name": "Nike",
-          "score": 74.2,
+          "score": 75.3,
           "direction": "short",
           "forecast_pct": -2.1,
           "forecast_horizon_days": 3,
@@ -55128,7 +55128,7 @@
         "1": {
           "ticker": "NOC",
           "name": "Northrop Grumman",
-          "score": 64.5,
+          "score": 66.3,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 1,
@@ -55173,7 +55173,7 @@
         "3": {
           "ticker": "NOC",
           "name": "Northrop Grumman",
-          "score": 64.5,
+          "score": 66.3,
           "direction": "short",
           "forecast_pct": -1.6,
           "forecast_horizon_days": 3,
@@ -55504,7 +55504,7 @@
         "1": {
           "ticker": "NOW",
           "name": "ServiceNow",
-          "score": 3.4,
+          "score": 2.2,
           "direction": "short",
           "forecast_pct": -0.1,
           "forecast_horizon_days": 1,
@@ -55549,9 +55549,9 @@
         "3": {
           "ticker": "NOW",
           "name": "ServiceNow",
-          "score": 3.4,
+          "score": 2.2,
           "direction": "short",
-          "forecast_pct": -0.2,
+          "forecast_pct": -0.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 132.53,
@@ -55876,7 +55876,7 @@
         "1": {
           "ticker": "NSC",
           "name": "Norfolk Southern",
-          "score": 39.7,
+          "score": 39.4,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -55921,7 +55921,7 @@
         "3": {
           "ticker": "NSC",
           "name": "Norfolk Southern",
-          "score": 39.7,
+          "score": 39.4,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 3,
@@ -56248,7 +56248,7 @@
         "1": {
           "ticker": "NUE",
           "name": "Nucor",
-          "score": 65.4,
+          "score": 66.4,
           "direction": "long",
           "forecast_pct": 1.3,
           "forecast_horizon_days": 1,
@@ -56293,7 +56293,7 @@
         "3": {
           "ticker": "NUE",
           "name": "Nucor",
-          "score": 65.4,
+          "score": 66.4,
           "direction": "long",
           "forecast_pct": 2.2,
           "forecast_horizon_days": 3,
@@ -56624,9 +56624,9 @@
         "1": {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "score": 3.3,
+          "score": 1.8,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 218.29,
@@ -56669,7 +56669,7 @@
         "3": {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "score": 3.3,
+          "score": 1.8,
           "direction": "short",
           "forecast_pct": -0.1,
           "forecast_horizon_days": 3,
@@ -56996,7 +56996,7 @@
         "1": {
           "ticker": "O",
           "name": "Realty Income",
-          "score": 82.4,
+          "score": 83.8,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -57041,7 +57041,7 @@
         "3": {
           "ticker": "O",
           "name": "Realty Income",
-          "score": 82.4,
+          "score": 83.8,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
@@ -57368,9 +57368,9 @@
         "1": {
           "ticker": "OKTA",
           "name": "Okta",
-          "score": 33.0,
+          "score": 34.0,
           "direction": "long",
-          "forecast_pct": 2.0,
+          "forecast_pct": 2.1,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 166.5,
@@ -57413,9 +57413,9 @@
         "3": {
           "ticker": "OKTA",
           "name": "Okta",
-          "score": 33.0,
+          "score": 34.0,
           "direction": "long",
-          "forecast_pct": 3.5,
+          "forecast_pct": 3.6,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 166.5,
@@ -57740,9 +57740,9 @@
         "1": {
           "ticker": "ON",
           "name": "ON Semiconductor",
-          "score": 0.9,
-          "direction": "long",
-          "forecast_pct": 0.0,
+          "score": 0.5,
+          "direction": "short",
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 76.14,
@@ -57756,10 +57756,10 @@
           "ret60": -35.61,
           "vol20": 47.8,
           "reasoning": [
-            "Kurzfristige Schwäche (-6.6% / 20T), übrige Faktoren sprechen aber für eine Gegenbewegung nach oben.",
-            "RSI(14) bei 49 — neutral bis bullisch, Spielraum nach oben vorhanden.",
-            "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
-            "Kurs notiert über dem SMA20 — kurzfristiges Momentum vorhanden, SMA50 als nächste Hürde.",
+            "Abwärtstrend: -6.6% in den letzten 20 Handelstagen.",
+            "RSI(14) bei 49 — neutral bis bearisch.",
+            "MACD noch nicht eindeutig bearisch — Short-Einstieg mit erhöhter Vorsicht.",
+            "Kurs über wichtigen gleitenden Durchschnitten — Short-Idee ist antizyklisch und riskanter.",
             "Annualisierte 20-Tage-Volatilität: 48% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 1 Tag(en)."
           ],
@@ -57785,9 +57785,9 @@
         "3": {
           "ticker": "ON",
           "name": "ON Semiconductor",
-          "score": 0.9,
-          "direction": "long",
-          "forecast_pct": 0.0,
+          "score": 0.5,
+          "direction": "short",
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 76.14,
@@ -57801,10 +57801,10 @@
           "ret60": -35.61,
           "vol20": 47.8,
           "reasoning": [
-            "Kurzfristige Schwäche (-6.6% / 20T), übrige Faktoren sprechen aber für eine Gegenbewegung nach oben.",
-            "RSI(14) bei 49 — neutral bis bullisch, Spielraum nach oben vorhanden.",
-            "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
-            "Kurs notiert über dem SMA20 — kurzfristiges Momentum vorhanden, SMA50 als nächste Hürde.",
+            "Abwärtstrend: -6.6% in den letzten 20 Handelstagen.",
+            "RSI(14) bei 49 — neutral bis bearisch.",
+            "MACD noch nicht eindeutig bearisch — Short-Einstieg mit erhöhter Vorsicht.",
+            "Kurs über wichtigen gleitenden Durchschnitten — Short-Idee ist antizyklisch und riskanter.",
             "Annualisierte 20-Tage-Volatilität: 48% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 3 Tag(en)."
           ],
@@ -58116,7 +58116,7 @@
         "1": {
           "ticker": "ORCL",
           "name": "Oracle",
-          "score": 18.4,
+          "score": 18.6,
           "direction": "long",
           "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
@@ -58161,7 +58161,7 @@
         "3": {
           "ticker": "ORCL",
           "name": "Oracle",
-          "score": 18.4,
+          "score": 18.6,
           "direction": "long",
           "forecast_pct": 0.8,
           "forecast_horizon_days": 3,
@@ -58488,9 +58488,9 @@
         "1": {
           "ticker": "OXY",
           "name": "Occidental Petroleum",
-          "score": 79.8,
+          "score": 81.1,
           "direction": "long",
-          "forecast_pct": 0.8,
+          "forecast_pct": 0.9,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 61.46,
@@ -58533,7 +58533,7 @@
         "3": {
           "ticker": "OXY",
           "name": "Occidental Petroleum",
-          "score": 79.8,
+          "score": 81.1,
           "direction": "long",
           "forecast_pct": 1.5,
           "forecast_horizon_days": 3,
@@ -58860,7 +58860,7 @@
         "1": {
           "ticker": "PANW",
           "name": "Palo Alto Networks",
-          "score": 17.6,
+          "score": 17.8,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -58905,7 +58905,7 @@
         "3": {
           "ticker": "PANW",
           "name": "Palo Alto Networks",
-          "score": 17.6,
+          "score": 17.8,
           "direction": "short",
           "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
@@ -59232,7 +59232,7 @@
         "1": {
           "ticker": "PEG",
           "name": "PSEG",
-          "score": 52.3,
+          "score": 55.3,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -59277,7 +59277,7 @@
         "3": {
           "ticker": "PEG",
           "name": "PSEG",
-          "score": 52.3,
+          "score": 55.3,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 3,
@@ -59604,7 +59604,7 @@
         "1": {
           "ticker": "PEP",
           "name": "PepsiCo",
-          "score": 82.1,
+          "score": 83.3,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -59649,9 +59649,9 @@
         "3": {
           "ticker": "PEP",
           "name": "PepsiCo",
-          "score": 82.1,
+          "score": 83.3,
           "direction": "short",
-          "forecast_pct": -1.2,
+          "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 136.32,
@@ -59976,7 +59976,7 @@
         "1": {
           "ticker": "PFE",
           "name": "Pfizer",
-          "score": 2.8,
+          "score": 0.9,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -60021,9 +60021,9 @@
         "3": {
           "ticker": "PFE",
           "name": "Pfizer",
-          "score": 2.8,
+          "score": 0.9,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 27.72,
@@ -60348,7 +60348,7 @@
         "1": {
           "ticker": "PG",
           "name": "Procter & Gamble",
-          "score": 29.5,
+          "score": 29.8,
           "direction": "short",
           "forecast_pct": -0.2,
           "forecast_horizon_days": 1,
@@ -60393,7 +60393,7 @@
         "3": {
           "ticker": "PG",
           "name": "Procter & Gamble",
-          "score": 29.5,
+          "score": 29.8,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 3,
@@ -60720,7 +60720,7 @@
         "1": {
           "ticker": "PH",
           "name": "Parker Hannifin",
-          "score": 28.7,
+          "score": 29.1,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -60765,7 +60765,7 @@
         "3": {
           "ticker": "PH",
           "name": "Parker Hannifin",
-          "score": 28.7,
+          "score": 29.1,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -61092,7 +61092,7 @@
         "1": {
           "ticker": "PLD",
           "name": "Prologis",
-          "score": 70.0,
+          "score": 71.9,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -61137,7 +61137,7 @@
         "3": {
           "ticker": "PLD",
           "name": "Prologis",
-          "score": 70.0,
+          "score": 71.9,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 3,
@@ -61468,7 +61468,7 @@
         "1": {
           "ticker": "PLTR",
           "name": "Palantir",
-          "score": 5.2,
+          "score": 3.8,
           "direction": "short",
           "forecast_pct": -0.1,
           "forecast_horizon_days": 1,
@@ -61513,7 +61513,7 @@
         "3": {
           "ticker": "PLTR",
           "name": "Palantir",
-          "score": 5.2,
+          "score": 3.8,
           "direction": "short",
           "forecast_pct": -0.2,
           "forecast_horizon_days": 3,
@@ -61840,7 +61840,7 @@
         "1": {
           "ticker": "PLUG",
           "name": "Plug Power",
-          "score": 56.2,
+          "score": 57.0,
           "direction": "short",
           "forecast_pct": -1.6,
           "forecast_horizon_days": 1,
@@ -61885,7 +61885,7 @@
         "3": {
           "ticker": "PLUG",
           "name": "Plug Power",
-          "score": 56.2,
+          "score": 57.0,
           "direction": "short",
           "forecast_pct": -2.8,
           "forecast_horizon_days": 3,
@@ -62212,9 +62212,9 @@
         "1": {
           "ticker": "PM",
           "name": "Philip Morris International",
-          "score": 49.9,
+          "score": 52.6,
           "direction": "long",
-          "forecast_pct": 0.6,
+          "forecast_pct": 0.7,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 191.06,
@@ -62257,9 +62257,9 @@
         "3": {
           "ticker": "PM",
           "name": "Philip Morris International",
-          "score": 49.9,
+          "score": 52.6,
           "direction": "long",
-          "forecast_pct": 1.1,
+          "forecast_pct": 1.2,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 191.06,
@@ -62584,7 +62584,7 @@
         "1": {
           "ticker": "PNC",
           "name": "PNC Financial",
-          "score": 0.4,
+          "score": 2.4,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -62629,7 +62629,7 @@
         "3": {
           "ticker": "PNC",
           "name": "PNC Financial",
-          "score": 0.4,
+          "score": 2.4,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
@@ -62956,7 +62956,7 @@
         "1": {
           "ticker": "PPG",
           "name": "PPG Industries",
-          "score": 80.9,
+          "score": 82.1,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 1,
@@ -63001,9 +63001,9 @@
         "3": {
           "ticker": "PPG",
           "name": "PPG Industries",
-          "score": 80.9,
+          "score": 82.1,
           "direction": "short",
-          "forecast_pct": -1.5,
+          "forecast_pct": -1.6,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 105.5,
@@ -63328,7 +63328,7 @@
         "1": {
           "ticker": "PPL",
           "name": "PPL Corporation",
-          "score": 82.4,
+          "score": 83.7,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -63373,7 +63373,7 @@
         "3": {
           "ticker": "PPL",
           "name": "PPL Corporation",
-          "score": 82.4,
+          "score": 83.7,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
@@ -63700,7 +63700,7 @@
         "1": {
           "ticker": "PSA",
           "name": "Public Storage",
-          "score": 29.6,
+          "score": 30.1,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -63745,7 +63745,7 @@
         "3": {
           "ticker": "PSA",
           "name": "Public Storage",
-          "score": 29.6,
+          "score": 30.1,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -64072,9 +64072,9 @@
         "1": {
           "ticker": "PSX",
           "name": "Phillips 66",
-          "score": 37.8,
+          "score": 41.4,
           "direction": "long",
-          "forecast_pct": 0.4,
+          "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 259.47,
@@ -64117,9 +64117,9 @@
         "3": {
           "ticker": "PSX",
           "name": "Phillips 66",
-          "score": 37.8,
+          "score": 41.4,
           "direction": "long",
-          "forecast_pct": 0.7,
+          "forecast_pct": 0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 259.47,
@@ -64444,7 +64444,7 @@
         "1": {
           "ticker": "PYPL",
           "name": "PayPal",
-          "score": 21.8,
+          "score": 22.0,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -64489,7 +64489,7 @@
         "3": {
           "ticker": "PYPL",
           "name": "PayPal",
-          "score": 21.8,
+          "score": 22.0,
           "direction": "short",
           "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
@@ -64816,7 +64816,7 @@
         "1": {
           "ticker": "QCOM",
           "name": "Qualcomm",
-          "score": 78.0,
+          "score": 79.2,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 1,
@@ -64861,9 +64861,9 @@
         "3": {
           "ticker": "QCOM",
           "name": "Qualcomm",
-          "score": 78.0,
+          "score": 79.2,
           "direction": "long",
-          "forecast_pct": 1.9,
+          "forecast_pct": 2.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 181.97,
@@ -65188,7 +65188,7 @@
         "1": {
           "ticker": "QLYS",
           "name": "Qualys",
-          "score": 35.5,
+          "score": 35.3,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 1,
@@ -65233,7 +65233,7 @@
         "3": {
           "ticker": "QLYS",
           "name": "Qualys",
-          "score": 35.5,
+          "score": 35.3,
           "direction": "short",
           "forecast_pct": -1.6,
           "forecast_horizon_days": 3,
@@ -65560,7 +65560,7 @@
         "1": {
           "ticker": "QS",
           "name": "QuantumScape",
-          "score": 52.5,
+          "score": 53.9,
           "direction": "short",
           "forecast_pct": -1.4,
           "forecast_horizon_days": 1,
@@ -65605,7 +65605,7 @@
         "3": {
           "ticker": "QS",
           "name": "QuantumScape",
-          "score": 52.5,
+          "score": 53.9,
           "direction": "short",
           "forecast_pct": -2.4,
           "forecast_horizon_days": 3,
@@ -65932,7 +65932,7 @@
         "1": {
           "ticker": "RCL",
           "name": "Royal Caribbean",
-          "score": 66.2,
+          "score": 68.2,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -65977,7 +65977,7 @@
         "3": {
           "ticker": "RCL",
           "name": "Royal Caribbean",
-          "score": 66.2,
+          "score": 68.2,
           "direction": "short",
           "forecast_pct": -1.4,
           "forecast_horizon_days": 3,
@@ -66304,9 +66304,9 @@
         "1": {
           "ticker": "REGN",
           "name": "Regeneron",
-          "score": 4.8,
+          "score": 3.0,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 781.49,
@@ -66349,7 +66349,7 @@
         "3": {
           "ticker": "REGN",
           "name": "Regeneron",
-          "score": 4.8,
+          "score": 3.0,
           "direction": "short",
           "forecast_pct": -0.1,
           "forecast_horizon_days": 3,
@@ -66676,9 +66676,9 @@
         "1": {
           "ticker": "RIVN",
           "name": "Rivian",
-          "score": 1.2,
-          "direction": "long",
-          "forecast_pct": 0.0,
+          "score": 0.2,
+          "direction": "short",
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 16.03,
@@ -66692,10 +66692,10 @@
           "ret60": 0.63,
           "vol20": 46.4,
           "reasoning": [
-            "Aufwärtstrend: +1.3% in den letzten 20 Handelstagen.",
-            "RSI(14) bei 50 — neutral bis bullisch, Spielraum nach oben vorhanden.",
-            "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
-            "Kurs notiert über dem SMA20 — kurzfristiges Momentum vorhanden, SMA50 als nächste Hürde.",
+            "Trotz kurzfristiger Stärke (+1.3% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.",
+            "RSI(14) bei 50 — neutral bis bearisch.",
+            "MACD noch nicht eindeutig bearisch — Short-Einstieg mit erhöhter Vorsicht.",
+            "Kurs über wichtigen gleitenden Durchschnitten — Short-Idee ist antizyklisch und riskanter.",
             "Annualisierte 20-Tage-Volatilität: 46% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 1 Tag(en)."
           ],
@@ -66721,9 +66721,9 @@
         "3": {
           "ticker": "RIVN",
           "name": "Rivian",
-          "score": 1.2,
-          "direction": "long",
-          "forecast_pct": 0.1,
+          "score": 0.2,
+          "direction": "short",
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 16.03,
@@ -66737,10 +66737,10 @@
           "ret60": 0.63,
           "vol20": 46.4,
           "reasoning": [
-            "Aufwärtstrend: +1.3% in den letzten 20 Handelstagen.",
-            "RSI(14) bei 50 — neutral bis bullisch, Spielraum nach oben vorhanden.",
-            "MACD-Linie notiert über der Signallinie — bullisches Momentum.",
-            "Kurs notiert über dem SMA20 — kurzfristiges Momentum vorhanden, SMA50 als nächste Hürde.",
+            "Trotz kurzfristiger Stärke (+1.3% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.",
+            "RSI(14) bei 50 — neutral bis bearisch.",
+            "MACD noch nicht eindeutig bearisch — Short-Einstieg mit erhöhter Vorsicht.",
+            "Kurs über wichtigen gleitenden Durchschnitten — Short-Idee ist antizyklisch und riskanter.",
             "Annualisierte 20-Tage-Volatilität: 46% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 3 Tag(en)."
           ],
@@ -67048,7 +67048,7 @@
         "1": {
           "ticker": "ROST",
           "name": "Ross Stores",
-          "score": 26.3,
+          "score": 26.6,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -67093,7 +67093,7 @@
         "3": {
           "ticker": "ROST",
           "name": "Ross Stores",
-          "score": 26.3,
+          "score": 26.6,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 3,
@@ -67420,7 +67420,7 @@
         "1": {
           "ticker": "RPD",
           "name": "Rapid7",
-          "score": 18.3,
+          "score": 18.5,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -67465,7 +67465,7 @@
         "3": {
           "ticker": "RPD",
           "name": "Rapid7",
-          "score": 18.3,
+          "score": 18.5,
           "direction": "short",
           "forecast_pct": -1.4,
           "forecast_horizon_days": 3,
@@ -67792,7 +67792,7 @@
         "1": {
           "ticker": "RTX",
           "name": "RTX Corporation",
-          "score": 28.2,
+          "score": 28.6,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -67837,9 +67837,9 @@
         "3": {
           "ticker": "RTX",
           "name": "RTX Corporation",
-          "score": 28.2,
+          "score": 28.6,
           "direction": "short",
-          "forecast_pct": -0.5,
+          "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 197.68,
@@ -68164,7 +68164,7 @@
         "1": {
           "ticker": "S",
           "name": "SentinelOne",
-          "score": 19.3,
+          "score": 19.5,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -68209,7 +68209,7 @@
         "3": {
           "ticker": "S",
           "name": "SentinelOne",
-          "score": 19.3,
+          "score": 19.5,
           "direction": "short",
           "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
@@ -68536,7 +68536,7 @@
         "1": {
           "ticker": "SAP.DE",
           "name": "SAP",
-          "score": 2.7,
+          "score": 1.0,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -68581,9 +68581,9 @@
         "3": {
           "ticker": "SAP.DE",
           "name": "SAP",
-          "score": 2.7,
+          "score": 1.0,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 177.26,
@@ -68908,7 +68908,7 @@
         "1": {
           "ticker": "SBUX",
           "name": "Starbucks",
-          "score": 42.0,
+          "score": 41.7,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -68953,9 +68953,9 @@
         "3": {
           "ticker": "SBUX",
           "name": "Starbucks",
-          "score": 42.0,
+          "score": 41.7,
           "direction": "short",
-          "forecast_pct": -0.9,
+          "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 98.74,
@@ -69280,7 +69280,7 @@
         "1": {
           "ticker": "SCHW",
           "name": "Charles Schwab",
-          "score": 9.3,
+          "score": 10.5,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -69325,7 +69325,7 @@
         "3": {
           "ticker": "SCHW",
           "name": "Charles Schwab",
-          "score": 9.3,
+          "score": 10.5,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -69652,7 +69652,7 @@
         "1": {
           "ticker": "SHW",
           "name": "Sherwin-Williams",
-          "score": 67.8,
+          "score": 69.6,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -69697,7 +69697,7 @@
         "3": {
           "ticker": "SHW",
           "name": "Sherwin-Williams",
-          "score": 67.8,
+          "score": 69.6,
           "direction": "short",
           "forecast_pct": -1.4,
           "forecast_horizon_days": 3,
@@ -70024,7 +70024,7 @@
         "1": {
           "ticker": "SIE.DE",
           "name": "Siemens",
-          "score": 27.8,
+          "score": 28.1,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 1,
@@ -70069,7 +70069,7 @@
         "3": {
           "ticker": "SIE.DE",
           "name": "Siemens",
-          "score": 27.8,
+          "score": 28.1,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -70396,9 +70396,9 @@
         "1": {
           "ticker": "SLB",
           "name": "Schlumberger",
-          "score": 32.8,
+          "score": 35.8,
           "direction": "long",
-          "forecast_pct": 0.6,
+          "forecast_pct": 0.7,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 56.06,
@@ -70441,9 +70441,9 @@
         "3": {
           "ticker": "SLB",
           "name": "Schlumberger",
-          "score": 32.8,
+          "score": 35.8,
           "direction": "long",
-          "forecast_pct": 1.1,
+          "forecast_pct": 1.2,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 56.06,
@@ -70768,7 +70768,7 @@
         "1": {
           "ticker": "SMCI",
           "name": "Super Micro Computer",
-          "score": 32.8,
+          "score": 34.5,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 1,
@@ -70813,9 +70813,9 @@
         "3": {
           "ticker": "SMCI",
           "name": "Super Micro Computer",
-          "score": 32.8,
+          "score": 34.5,
           "direction": "long",
-          "forecast_pct": 1.9,
+          "forecast_pct": 2.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 40.1,
@@ -71140,7 +71140,7 @@
         "1": {
           "ticker": "SNOW",
           "name": "Snowflake",
-          "score": 17.0,
+          "score": 18.9,
           "direction": "long",
           "forecast_pct": 0.7,
           "forecast_horizon_days": 1,
@@ -71185,9 +71185,9 @@
         "3": {
           "ticker": "SNOW",
           "name": "Snowflake",
-          "score": 17.0,
+          "score": 18.9,
           "direction": "long",
-          "forecast_pct": 1.1,
+          "forecast_pct": 1.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 328.99,
@@ -71512,7 +71512,7 @@
         "1": {
           "ticker": "SO",
           "name": "Southern Company",
-          "score": 82.0,
+          "score": 83.4,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -71557,7 +71557,7 @@
         "3": {
           "ticker": "SO",
           "name": "Southern Company",
-          "score": 82.0,
+          "score": 83.4,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 3,
@@ -71884,7 +71884,7 @@
         "1": {
           "ticker": "SPG",
           "name": "Simon Property Group",
-          "score": 28.6,
+          "score": 29.1,
           "direction": "short",
           "forecast_pct": -0.2,
           "forecast_horizon_days": 1,
@@ -71929,7 +71929,7 @@
         "3": {
           "ticker": "SPG",
           "name": "Simon Property Group",
-          "score": 28.6,
+          "score": 29.1,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 3,
@@ -72256,7 +72256,7 @@
         "1": {
           "ticker": "SPGI",
           "name": "S&P Global",
-          "score": 76.0,
+          "score": 77.0,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 1,
@@ -72301,7 +72301,7 @@
         "3": {
           "ticker": "SPGI",
           "name": "S&P Global",
-          "score": 76.0,
+          "score": 77.0,
           "direction": "short",
           "forecast_pct": -2.1,
           "forecast_horizon_days": 3,
@@ -72628,7 +72628,7 @@
         "1": {
           "ticker": "SRE",
           "name": "Sempra",
-          "score": 46.5,
+          "score": 49.0,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
@@ -72673,9 +72673,9 @@
         "3": {
           "ticker": "SRE",
           "name": "Sempra",
-          "score": 46.5,
+          "score": 49.0,
           "direction": "short",
-          "forecast_pct": -1.3,
+          "forecast_pct": -1.4,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 83.34,
@@ -73000,7 +73000,7 @@
         "1": {
           "ticker": "STLA",
           "name": "Stellantis",
-          "score": 0.0,
+          "score": 1.5,
           "direction": "short",
           "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
@@ -73045,9 +73045,9 @@
         "3": {
           "ticker": "STLA",
           "name": "Stellantis",
-          "score": 0.0,
+          "score": 1.5,
           "direction": "short",
-          "forecast_pct": -0.0,
+          "forecast_pct": -0.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 5.4,
@@ -73372,7 +73372,7 @@
         "1": {
           "ticker": "STLD",
           "name": "Steel Dynamics",
-          "score": 27.7,
+          "score": 27.5,
           "direction": "long",
           "forecast_pct": 0.7,
           "forecast_horizon_days": 1,
@@ -73417,7 +73417,7 @@
         "3": {
           "ticker": "STLD",
           "name": "Steel Dynamics",
-          "score": 27.7,
+          "score": 27.5,
           "direction": "long",
           "forecast_pct": 1.2,
           "forecast_horizon_days": 3,
@@ -73744,9 +73744,9 @@
         "1": {
           "ticker": "STZ",
           "name": "Constellation Brands",
-          "score": 60.4,
+          "score": 62.0,
           "direction": "short",
-          "forecast_pct": -1.1,
+          "forecast_pct": -1.2,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 122.45,
@@ -73789,7 +73789,7 @@
         "3": {
           "ticker": "STZ",
           "name": "Constellation Brands",
-          "score": 60.4,
+          "score": 62.0,
           "direction": "short",
           "forecast_pct": -2.0,
           "forecast_horizon_days": 3,
@@ -74116,7 +74116,7 @@
         "1": {
           "ticker": "SYK",
           "name": "Stryker",
-          "score": 59.6,
+          "score": 61.2,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 1,
@@ -74161,9 +74161,9 @@
         "3": {
           "ticker": "SYK",
           "name": "Stryker",
-          "score": 59.6,
+          "score": 61.2,
           "direction": "short",
-          "forecast_pct": -2.2,
+          "forecast_pct": -2.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 275.56,
@@ -74488,7 +74488,7 @@
         "1": {
           "ticker": "SYY",
           "name": "Sysco",
-          "score": 83.0,
+          "score": 84.2,
           "direction": "long",
           "forecast_pct": 0.7,
           "forecast_horizon_days": 1,
@@ -74533,7 +74533,7 @@
         "3": {
           "ticker": "SYY",
           "name": "Sysco",
-          "score": 83.0,
+          "score": 84.2,
           "direction": "long",
           "forecast_pct": 1.2,
           "forecast_horizon_days": 3,
@@ -74860,7 +74860,7 @@
         "1": {
           "ticker": "T",
           "name": "AT&T",
-          "score": 50.1,
+          "score": 53.0,
           "direction": "long",
           "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
@@ -74905,7 +74905,7 @@
         "3": {
           "ticker": "T",
           "name": "AT&T",
-          "score": 50.1,
+          "score": 53.0,
           "direction": "long",
           "forecast_pct": 0.9,
           "forecast_horizon_days": 3,
@@ -75232,7 +75232,7 @@
         "1": {
           "ticker": "TENB",
           "name": "Tenable",
-          "score": 26.7,
+          "score": 26.5,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 1,
@@ -75277,7 +75277,7 @@
         "3": {
           "ticker": "TENB",
           "name": "Tenable",
-          "score": 26.7,
+          "score": 26.5,
           "direction": "short",
           "forecast_pct": -1.7,
           "forecast_horizon_days": 3,
@@ -75604,7 +75604,7 @@
         "1": {
           "ticker": "TFC",
           "name": "Truist Financial",
-          "score": 29.5,
+          "score": 29.8,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -75649,7 +75649,7 @@
         "3": {
           "ticker": "TFC",
           "name": "Truist Financial",
-          "score": 29.5,
+          "score": 29.8,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 3,
@@ -75976,9 +75976,9 @@
         "1": {
           "ticker": "TGT",
           "name": "Target",
-          "score": 3.0,
+          "score": 1.4,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 155.83,
@@ -76021,9 +76021,9 @@
         "3": {
           "ticker": "TGT",
           "name": "Target",
-          "score": 3.0,
+          "score": 1.4,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 155.83,
@@ -76348,7 +76348,7 @@
         "1": {
           "ticker": "TJX",
           "name": "TJX Companies",
-          "score": 68.1,
+          "score": 70.2,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -76393,7 +76393,7 @@
         "3": {
           "ticker": "TJX",
           "name": "TJX Companies",
-          "score": 68.1,
+          "score": 70.2,
           "direction": "short",
           "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
@@ -76720,7 +76720,7 @@
         "1": {
           "ticker": "TMO",
           "name": "Thermo Fisher",
-          "score": 9.9,
+          "score": 11.1,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -76765,9 +76765,9 @@
         "3": {
           "ticker": "TMO",
           "name": "Thermo Fisher",
-          "score": 9.9,
+          "score": 11.1,
           "direction": "long",
-          "forecast_pct": 0.2,
+          "forecast_pct": 0.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 609.82,
@@ -77092,7 +77092,7 @@
         "1": {
           "ticker": "TMUS",
           "name": "T-Mobile US",
-          "score": 8.6,
+          "score": 9.8,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -77137,7 +77137,7 @@
         "3": {
           "ticker": "TMUS",
           "name": "T-Mobile US",
-          "score": 8.6,
+          "score": 9.8,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -77464,7 +77464,7 @@
         "1": {
           "ticker": "TRGP",
           "name": "Targa Resources",
-          "score": 0.3,
+          "score": 2.0,
           "direction": "long",
           "forecast_pct": 0.0,
           "forecast_horizon_days": 1,
@@ -77509,9 +77509,9 @@
         "3": {
           "ticker": "TRGP",
           "name": "Targa Resources",
-          "score": 0.3,
+          "score": 2.0,
           "direction": "long",
-          "forecast_pct": 0.0,
+          "forecast_pct": 0.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 290.25,
@@ -77840,7 +77840,7 @@
         "1": {
           "ticker": "TSLA",
           "name": "Tesla",
-          "score": 19.5,
+          "score": 19.8,
           "direction": "long",
           "forecast_pct": 0.5,
           "forecast_horizon_days": 1,
@@ -77885,7 +77885,7 @@
         "3": {
           "ticker": "TSLA",
           "name": "Tesla",
-          "score": 19.5,
+          "score": 19.8,
           "direction": "long",
           "forecast_pct": 0.9,
           "forecast_horizon_days": 3,
@@ -78212,7 +78212,7 @@
         "1": {
           "ticker": "TSM",
           "name": "Taiwan Semiconductor",
-          "score": 75.0,
+          "score": 76.1,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 1,
@@ -78257,7 +78257,7 @@
         "3": {
           "ticker": "TSM",
           "name": "Taiwan Semiconductor",
-          "score": 75.0,
+          "score": 76.1,
           "direction": "long",
           "forecast_pct": 1.9,
           "forecast_horizon_days": 3,
@@ -78584,7 +78584,7 @@
         "1": {
           "ticker": "TXN",
           "name": "Texas Instruments",
-          "score": 38.7,
+          "score": 38.3,
           "direction": "long",
           "forecast_pct": 0.6,
           "forecast_horizon_days": 1,
@@ -78629,7 +78629,7 @@
         "3": {
           "ticker": "TXN",
           "name": "Texas Instruments",
-          "score": 38.7,
+          "score": 38.3,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 3,
@@ -78956,7 +78956,7 @@
         "1": {
           "ticker": "UDR",
           "name": "UDR Inc",
-          "score": 82.0,
+          "score": 83.4,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -79001,7 +79001,7 @@
         "3": {
           "ticker": "UDR",
           "name": "UDR Inc",
-          "score": 82.0,
+          "score": 83.4,
           "direction": "short",
           "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
@@ -79328,7 +79328,7 @@
         "1": {
           "ticker": "UNH",
           "name": "UnitedHealth",
-          "score": 41.6,
+          "score": 41.3,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
@@ -79373,7 +79373,7 @@
         "3": {
           "ticker": "UNH",
           "name": "UnitedHealth",
-          "score": 41.6,
+          "score": 41.3,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
@@ -79700,7 +79700,7 @@
         "1": {
           "ticker": "UNP",
           "name": "Union Pacific",
-          "score": 27.5,
+          "score": 27.9,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -79745,7 +79745,7 @@
         "3": {
           "ticker": "UNP",
           "name": "Union Pacific",
-          "score": 27.5,
+          "score": 27.9,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -80072,7 +80072,7 @@
         "1": {
           "ticker": "UPS",
           "name": "UPS",
-          "score": 70.4,
+          "score": 72.4,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -80117,9 +80117,9 @@
         "3": {
           "ticker": "UPS",
           "name": "UPS",
-          "score": 70.4,
+          "score": 72.4,
           "direction": "short",
-          "forecast_pct": -1.0,
+          "forecast_pct": -1.1,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 100.28,
@@ -80444,7 +80444,7 @@
         "1": {
           "ticker": "USB",
           "name": "US Bancorp",
-          "score": 9.8,
+          "score": 11.1,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -80489,7 +80489,7 @@
         "3": {
           "ticker": "USB",
           "name": "US Bancorp",
-          "score": 9.8,
+          "score": 11.1,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -80816,7 +80816,7 @@
         "1": {
           "ticker": "V",
           "name": "Visa",
-          "score": 10.4,
+          "score": 11.6,
           "direction": "long",
           "forecast_pct": 0.1,
           "forecast_horizon_days": 1,
@@ -80861,7 +80861,7 @@
         "3": {
           "ticker": "V",
           "name": "Visa",
-          "score": 10.4,
+          "score": 11.6,
           "direction": "long",
           "forecast_pct": 0.2,
           "forecast_horizon_days": 3,
@@ -81188,7 +81188,7 @@
         "1": {
           "ticker": "VICI",
           "name": "VICI Properties",
-          "score": 82.8,
+          "score": 84.2,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -81233,7 +81233,7 @@
         "3": {
           "ticker": "VICI",
           "name": "VICI Properties",
-          "score": 82.8,
+          "score": 84.2,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
@@ -81560,7 +81560,7 @@
         "1": {
           "ticker": "VLO",
           "name": "Valero Energy",
-          "score": 66.9,
+          "score": 68.9,
           "direction": "long",
           "forecast_pct": 0.8,
           "forecast_horizon_days": 1,
@@ -81605,7 +81605,7 @@
         "3": {
           "ticker": "VLO",
           "name": "Valero Energy",
-          "score": 66.9,
+          "score": 68.9,
           "direction": "long",
           "forecast_pct": 1.4,
           "forecast_horizon_days": 3,
@@ -81932,7 +81932,7 @@
         "1": {
           "ticker": "VMC",
           "name": "Vulcan Materials",
-          "score": 64.1,
+          "score": 65.9,
           "direction": "short",
           "forecast_pct": -0.9,
           "forecast_horizon_days": 1,
@@ -81977,7 +81977,7 @@
         "3": {
           "ticker": "VMC",
           "name": "Vulcan Materials",
-          "score": 64.1,
+          "score": 65.9,
           "direction": "short",
           "forecast_pct": -1.6,
           "forecast_horizon_days": 3,
@@ -82304,7 +82304,7 @@
         "1": {
           "ticker": "VOD",
           "name": "Vodafone",
-          "score": 80.6,
+          "score": 81.9,
           "direction": "long",
           "forecast_pct": 0.8,
           "forecast_horizon_days": 1,
@@ -82349,9 +82349,9 @@
         "3": {
           "ticker": "VOD",
           "name": "Vodafone",
-          "score": 80.6,
+          "score": 81.9,
           "direction": "long",
-          "forecast_pct": 1.4,
+          "forecast_pct": 1.5,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 17.4,
@@ -82676,7 +82676,7 @@
         "1": {
           "ticker": "VRNS",
           "name": "Varonis Systems",
-          "score": 42.4,
+          "score": 43.7,
           "direction": "long",
           "forecast_pct": 1.3,
           "forecast_horizon_days": 1,
@@ -82721,9 +82721,9 @@
         "3": {
           "ticker": "VRNS",
           "name": "Varonis Systems",
-          "score": 42.4,
+          "score": 43.7,
           "direction": "long",
-          "forecast_pct": 2.2,
+          "forecast_pct": 2.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 45.12,
@@ -83048,9 +83048,9 @@
         "1": {
           "ticker": "VRTX",
           "name": "Vertex Pharmaceuticals",
-          "score": 4.0,
+          "score": 2.2,
           "direction": "short",
-          "forecast_pct": -0.1,
+          "forecast_pct": -0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 515.44,
@@ -83093,7 +83093,7 @@
         "3": {
           "ticker": "VRTX",
           "name": "Vertex Pharmaceuticals",
-          "score": 4.0,
+          "score": 2.2,
           "direction": "short",
           "forecast_pct": -0.1,
           "forecast_horizon_days": 3,
@@ -83420,7 +83420,7 @@
         "1": {
           "ticker": "VTR",
           "name": "Ventas",
-          "score": 29.2,
+          "score": 29.6,
           "direction": "short",
           "forecast_pct": -0.2,
           "forecast_horizon_days": 1,
@@ -83465,7 +83465,7 @@
         "3": {
           "ticker": "VTR",
           "name": "Ventas",
-          "score": 29.2,
+          "score": 29.6,
           "direction": "short",
           "forecast_pct": -0.4,
           "forecast_horizon_days": 3,
@@ -83792,7 +83792,7 @@
         "1": {
           "ticker": "VZ",
           "name": "Verizon",
-          "score": 51.8,
+          "score": 54.8,
           "direction": "long",
           "forecast_pct": 0.4,
           "forecast_horizon_days": 1,
@@ -83837,7 +83837,7 @@
         "3": {
           "ticker": "VZ",
           "name": "Verizon",
-          "score": 51.8,
+          "score": 54.8,
           "direction": "long",
           "forecast_pct": 0.7,
           "forecast_horizon_days": 3,
@@ -84164,9 +84164,9 @@
         "1": {
           "ticker": "WEC",
           "name": "WEC Energy Group",
-          "score": 52.8,
+          "score": 55.8,
           "direction": "short",
-          "forecast_pct": -0.4,
+          "forecast_pct": -0.5,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 105.33,
@@ -84209,7 +84209,7 @@
         "3": {
           "ticker": "WEC",
           "name": "WEC Energy Group",
-          "score": 52.8,
+          "score": 55.8,
           "direction": "short",
           "forecast_pct": -0.8,
           "forecast_horizon_days": 3,
@@ -84536,7 +84536,7 @@
         "1": {
           "ticker": "WELL",
           "name": "Welltower",
-          "score": 42.7,
+          "score": 42.3,
           "direction": "short",
           "forecast_pct": -0.3,
           "forecast_horizon_days": 1,
@@ -84581,7 +84581,7 @@
         "3": {
           "ticker": "WELL",
           "name": "Welltower",
-          "score": 42.7,
+          "score": 42.3,
           "direction": "short",
           "forecast_pct": -0.5,
           "forecast_horizon_days": 3,
@@ -84908,7 +84908,7 @@
         "1": {
           "ticker": "WFC",
           "name": "Wells Fargo",
-          "score": 77.2,
+          "score": 78.4,
           "direction": "long",
           "forecast_pct": 0.9,
           "forecast_horizon_days": 1,
@@ -84953,7 +84953,7 @@
         "3": {
           "ticker": "WFC",
           "name": "Wells Fargo",
-          "score": 77.2,
+          "score": 78.4,
           "direction": "long",
           "forecast_pct": 1.6,
           "forecast_horizon_days": 3,
@@ -85280,7 +85280,7 @@
         "1": {
           "ticker": "WM",
           "name": "Waste Management",
-          "score": 82.8,
+          "score": 84.2,
           "direction": "short",
           "forecast_pct": -0.6,
           "forecast_horizon_days": 1,
@@ -85325,7 +85325,7 @@
         "3": {
           "ticker": "WM",
           "name": "Waste Management",
-          "score": 82.8,
+          "score": 84.2,
           "direction": "short",
           "forecast_pct": -1.0,
           "forecast_horizon_days": 3,
@@ -85652,9 +85652,9 @@
         "1": {
           "ticker": "WMB",
           "name": "Williams Companies",
-          "score": 0.9,
-          "direction": "short",
-          "forecast_pct": -0.0,
+          "score": 0.8,
+          "direction": "long",
+          "forecast_pct": 0.0,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 72.85,
@@ -85668,10 +85668,10 @@
           "ret60": 2.66,
           "vol20": 32.1,
           "reasoning": [
-            "Trotz kurzfristiger Stärke (+0.5% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.",
-            "RSI(14) bei 49 — neutral bis bearisch.",
-            "MACD-Linie notiert unter der Signallinie — bearisches Momentum.",
-            "Kurs notiert unter dem SMA20 — kurzfristige Schwäche, SMA50 als nächste Unterstützung.",
+            "Aufwärtstrend: +0.5% in den letzten 20 Handelstagen.",
+            "RSI(14) bei 49 — neutral bis bullisch, Spielraum nach oben vorhanden.",
+            "MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.",
+            "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
             "Annualisierte 20-Tage-Volatilität: 32% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 1 Tag(en)."
           ],
@@ -85697,9 +85697,9 @@
         "3": {
           "ticker": "WMB",
           "name": "Williams Companies",
-          "score": 0.9,
-          "direction": "short",
-          "forecast_pct": -0.0,
+          "score": 0.8,
+          "direction": "long",
+          "forecast_pct": 0.0,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 72.85,
@@ -85713,10 +85713,10 @@
           "ret60": 2.66,
           "vol20": 32.1,
           "reasoning": [
-            "Trotz kurzfristiger Stärke (+0.5% / 20T) deuten die übrigen Faktoren auf eine Abwärtsbewegung hin.",
-            "RSI(14) bei 49 — neutral bis bearisch.",
-            "MACD-Linie notiert unter der Signallinie — bearisches Momentum.",
-            "Kurs notiert unter dem SMA20 — kurzfristige Schwäche, SMA50 als nächste Unterstützung.",
+            "Aufwärtstrend: +0.5% in den letzten 20 Handelstagen.",
+            "RSI(14) bei 49 — neutral bis bullisch, Spielraum nach oben vorhanden.",
+            "MACD noch nicht eindeutig bullisch — Einstieg mit erhöhter Vorsicht.",
+            "Kurs notiert über SMA50 und SMA200 — intakter mittelfristiger Aufwärtstrend (Widerstand: bisheriges Hoch).",
             "Annualisierte 20-Tage-Volatilität: 32% (fließt in die Prognosegröße ein).",
             "Konviktion & Prognose gewichtet aus Momentum, RSI/MACD und Trend für einen Zeithorizont von 3 Tag(en)."
           ],
@@ -86024,9 +86024,9 @@
         "1": {
           "ticker": "WMT",
           "name": "Walmart",
-          "score": 34.2,
+          "score": 37.0,
           "direction": "short",
-          "forecast_pct": -0.7,
+          "forecast_pct": -0.8,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 107.15,
@@ -86069,9 +86069,9 @@
         "3": {
           "ticker": "WMT",
           "name": "Walmart",
-          "score": 34.2,
+          "score": 37.0,
           "direction": "short",
-          "forecast_pct": -1.2,
+          "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 107.15,
@@ -86396,7 +86396,7 @@
         "1": {
           "ticker": "XEL",
           "name": "Xcel Energy",
-          "score": 81.9,
+          "score": 83.1,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -86441,9 +86441,9 @@
         "3": {
           "ticker": "XEL",
           "name": "Xcel Energy",
-          "score": 81.9,
+          "score": 83.1,
           "direction": "short",
-          "forecast_pct": -1.2,
+          "forecast_pct": -1.3,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 75.5,
@@ -86768,9 +86768,9 @@
         "1": {
           "ticker": "XOM",
           "name": "ExxonMobil",
-          "score": 49.9,
+          "score": 52.7,
           "direction": "long",
-          "forecast_pct": 0.6,
+          "forecast_pct": 0.7,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 165.99,
@@ -86813,7 +86813,7 @@
         "3": {
           "ticker": "XOM",
           "name": "ExxonMobil",
-          "score": 49.9,
+          "score": 52.7,
           "direction": "long",
           "forecast_pct": 1.1,
           "forecast_horizon_days": 3,
@@ -87140,9 +87140,9 @@
         "1": {
           "ticker": "XPEV",
           "name": "XPeng",
-          "score": 52.9,
+          "score": 54.3,
           "direction": "short",
-          "forecast_pct": -1.3,
+          "forecast_pct": -1.4,
           "forecast_horizon_days": 1,
           "top_deal": false,
           "price": 10.54,
@@ -87185,9 +87185,9 @@
         "3": {
           "ticker": "XPEV",
           "name": "XPeng",
-          "score": 52.9,
+          "score": 54.3,
           "direction": "short",
-          "forecast_pct": -2.3,
+          "forecast_pct": -2.4,
           "forecast_horizon_days": 3,
           "top_deal": false,
           "price": 10.54,
@@ -87512,7 +87512,7 @@
         "1": {
           "ticker": "YUM",
           "name": "Yum! Brands",
-          "score": 76.1,
+          "score": 77.2,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 1,
@@ -87557,7 +87557,7 @@
         "3": {
           "ticker": "YUM",
           "name": "Yum! Brands",
-          "score": 76.1,
+          "score": 77.2,
           "direction": "short",
           "forecast_pct": -2.0,
           "forecast_horizon_days": 3,
@@ -87884,7 +87884,7 @@
         "1": {
           "ticker": "ZS",
           "name": "Zscaler",
-          "score": 21.8,
+          "score": 21.9,
           "direction": "short",
           "forecast_pct": -0.7,
           "forecast_horizon_days": 1,
@@ -87929,7 +87929,7 @@
         "3": {
           "ticker": "ZS",
           "name": "Zscaler",
-          "score": 21.8,
+          "score": 21.9,
           "direction": "short",
           "forecast_pct": -1.2,
           "forecast_horizon_days": 3,
