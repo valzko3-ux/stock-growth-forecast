@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T05:34:30.560406Z",
+  "last_updated": "2026-09-15T13:26:59.728387Z",
   "overall_hit_rate": 0.294,
   "total_evaluated": 1553,
   "per_category": {
@@ -68,9 +68,9 @@
       "stability": 0.234
     },
     "medium": {
-      "momentum": 0.18,
+      "momentum": 0.14,
       "technical": 0.25,
-      "trend": 0.37,
+      "trend": 0.41,
       "stability": 0.2
     },
     "long": {
@@ -270,6 +270,18 @@
         "momentum": 0.18,
         "technical": 0.25,
         "trend": 0.37,
+        "stability": 0.2
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "bucket": "medium",
+      "hit_rate": 0.425,
+      "reason": "Trefferquote medium-Horizont niedrig (42%) -> Momentum-Gewicht gesenkt, Trend-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.14,
+        "technical": 0.25,
+        "trend": 0.41,
         "stability": 0.2
       }
     }
@@ -33898,6 +33910,102 @@
       "entry_date": "2026-09-15",
       "entry_price": 5.2,
       "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-15",
+      "entry_price": 446.4,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-15",
+      "entry_price": 446.4,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-15",
+      "entry_price": 446.4,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-15",
+      "entry_price": 446.4,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-15",
+      "entry_price": 446.4,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-15",
+      "entry_price": 446.4,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-15",
+      "entry_price": 446.4,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-15",
+      "entry_price": 446.4,
+      "direction": "long"
+    },
+    {
+      "ticker": "HD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 5,
+      "entry_date": "2026-09-15",
+      "entry_price": 310.87,
+      "direction": "short"
+    },
+    {
+      "ticker": "HD",
+      "category": "zyklischer_konsum",
+      "horizon_days": 10,
+      "entry_date": "2026-09-15",
+      "entry_price": 310.87,
+      "direction": "short"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 5,
+      "entry_date": "2026-09-15",
+      "entry_price": 28.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 10,
+      "entry_date": "2026-09-15",
+      "entry_price": 28.97,
+      "direction": "long"
     }
   ],
   "evaluated_history": [
