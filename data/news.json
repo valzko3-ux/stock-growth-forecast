@@ -1,11 +1,148 @@
 {
-  "generated_at": "2026-09-14T13:34:20.309934Z",
+  "generated_at": "2026-09-15T05:34:43.228547Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 10:35:00 GMT",
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:31:00 GMT",
+      "categories": [
+        "Energie"
+      ],
+      "winners": [
+        {
+          "ticker": "OXY",
+          "name": "Occidental Petroleum"
+        },
+        {
+          "ticker": "VLO",
+          "name": "Valero Energy"
+        },
+        {
+          "ticker": "CVX",
+          "name": "Chevron"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "CVX",
+          "name": "Chevron"
+        },
+        {
+          "ticker": "OXY",
+          "name": "Occidental Petroleum"
+        }
+      ]
+    },
+    {
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "categories": [
+        "Technologie"
+      ],
+      "winners": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        }
+      ]
+    },
+    {
+      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
+      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "categories": [
+        "Technologie"
+      ],
+      "winners": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        }
+      ]
+    },
+    {
+      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:56:00 GMT",
+      "categories": [
+        "Technologie",
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        },
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        },
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft"
+        }
+      ]
+    },
+    {
+      "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:47:00 GMT",
       "categories": [
         "Finanzen",
         "Energie"
@@ -24,8 +161,8 @@
           "name": "Visa"
         },
         {
-          "ticker": "CVX",
-          "name": "Chevron"
+          "ticker": "OXY",
+          "name": "Occidental Petroleum"
         }
       ],
       "defensive": [
@@ -40,98 +177,6 @@
         {
           "ticker": "CVX",
           "name": "Chevron"
-        }
-      ]
-    },
-    {
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 10:15:00 GMT",
-      "categories": [
-        "Gesundheit"
-      ],
-      "winners": [
-        {
-          "ticker": "ELV",
-          "name": "Elevance Health"
-        },
-        {
-          "ticker": "ABBV",
-          "name": "AbbVie"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "ABT",
-          "name": "Abbott"
-        },
-        {
-          "ticker": "ABBV",
-          "name": "AbbVie"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft sets conduct rules for future AI models - CNBC",
-      "link": "https://www.investing.com/news/stock-market-news/microsoft-sets-conduct-rules-for-future-ai-models--cnbc-93CH-4899727",
-      "published": "2026-09-14 13:16:15",
-      "categories": [
-        "Künstliche Intelligenz"
-      ],
-      "winners": [
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        },
-        {
-          "ticker": "IBM",
-          "name": "IBM"
-        },
-        {
-          "ticker": "MSFT",
-          "name": "Microsoft"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "MSFT",
-          "name": "Microsoft"
-        },
-        {
-          "ticker": "IBM",
-          "name": "IBM"
-        }
-      ]
-    },
-    {
-      "title": "European stocks fall on AI safety warnings, Fed rate hike bets weigh on sentiment",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-slip-on-ai-safety-pause-fed-rate-bets-weigh-on-sentiment-4898834",
-      "published": "2026-09-14 13:03:25",
-      "categories": [
-        "Finanzen"
-      ],
-      "winners": [
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        },
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        },
-        {
-          "ticker": "V",
-          "name": "Visa"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "AXP",
-          "name": "American Express"
-        },
-        {
-          "ticker": "V",
-          "name": "Visa"
         }
       ]
     },
