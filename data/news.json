@@ -1,11 +1,126 @@
 {
-  "generated_at": "2026-09-16T05:33:51.192755Z",
+  "generated_at": "2026-09-16T13:28:33.514936Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
-      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 23:09:00 GMT",
+      "title": "Retail sales surged toward the end of summer. The U.S. economy has plenty of momentum.",
+      "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 13:22:00 GMT",
+      "categories": [
+        "Zyklischer Konsum"
+      ],
+      "winners": [],
+      "defensive": [
+        {
+          "ticker": "LOW",
+          "name": "Lowe's"
+        },
+        {
+          "ticker": "TJX",
+          "name": "TJX Companies"
+        }
+      ]
+    },
+    {
+      "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
+      "link": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 13:03:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ]
+    },
+    {
+      "title": "Why a strategist who previously thought inflation was contained now sees potential for aggressive Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/why-a-strategist-who-previously-thought-inflation-was-contained-now-sees-potential-for-aggressive-fed-rate-hikes-33ecaf04?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 13:01:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ]
+    },
+    {
+      "title": "Traders are betting Trump may soon turn on Fed chair Kevin Warsh as interest-rate hikes loom",
+      "link": "https://www.marketwatch.com/story/traders-are-betting-trump-may-soon-turn-on-fed-chair-kevin-warsh-as-interest-rate-hikes-loom-b0dfff2a?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 12:53:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ]
+    },
+    {
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 12:31:00 GMT",
       "categories": [
         "Gesundheit"
       ],
@@ -31,98 +146,94 @@
       ]
     },
     {
-      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:40:00 GMT",
+      "title": "Sling Therapeutics raises $123m for  thyroid eye disease drug trial",
+      "link": "https://www.investing.com/news/stock-market-news/sling-therapeutics-raises-123m-for--thyroid-eye-disease-drug-trial-93CH-4903816",
+      "published": "2026-09-16 13:09:45",
       "categories": [
-        "Technologie"
+        "Gesundheit"
       ],
       "winners": [
         {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
+          "ticker": "ELV",
+          "name": "Elevance Health"
         },
+        {
+          "ticker": "ABBV",
+          "name": "AbbVie"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "ABT",
+          "name": "Abbott"
+        },
+        {
+          "ticker": "ABBV",
+          "name": "AbbVie"
+        }
+      ]
+    },
+    {
+      "title": "CoreWeave stock rises on Nvidia Vera Rubin cluster deployment",
+      "link": "https://www.investing.com/news/stock-market-news/coreweave-stock-rises-on-nvidia-vera-rubin-cluster-deployment-93CH-4903815",
+      "published": "2026-09-16 13:09:20",
+      "categories": [
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
         {
           "ticker": "META",
           "name": "Meta Platforms"
         },
         {
-          "ticker": "AAPL",
-          "name": "Apple"
+          "ticker": "AMD",
+          "name": "AMD"
+        },
+        {
+          "ticker": "IBM",
+          "name": "IBM"
         }
       ],
       "defensive": [
         {
-          "ticker": "AAPL",
-          "name": "Apple"
+          "ticker": "IBM",
+          "name": "IBM"
         },
         {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
+          "ticker": "META",
+          "name": "Meta Platforms"
         }
       ]
     },
     {
-      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:47:00 GMT",
+      "title": "FTSE 100 today: Stocks gain as mining rally continues and oil prices ease",
+      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-miners-rally-beijing-presses-usiran-talk-4903000",
+      "published": "2026-09-16 12:56:21",
       "categories": [
-        "Finanzen"
+        "Energie"
       ],
       "winners": [
         {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
+          "ticker": "CVX",
+          "name": "Chevron"
         },
         {
-          "ticker": "C",
-          "name": "Citigroup"
+          "ticker": "MPC",
+          "name": "Marathon Petroleum"
         },
         {
-          "ticker": "V",
-          "name": "Visa"
+          "ticker": "OXY",
+          "name": "Occidental Petroleum"
         }
       ],
       "defensive": [
         {
-          "ticker": "AXP",
-          "name": "American Express"
+          "ticker": "CVX",
+          "name": "Chevron"
         },
         {
-          "ticker": "V",
-          "name": "Visa"
-        }
-      ]
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-      "published": "Wed, 29 Jul 2026 18:00:00 GMT",
-      "categories": [
-        "Finanzen"
-      ],
-      "winners": [
-        {
-          "ticker": "WFC",
-          "name": "Wells Fargo"
-        },
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        },
-        {
-          "ticker": "V",
-          "name": "Visa"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "AXP",
-          "name": "American Express"
-        },
-        {
-          "ticker": "V",
-          "name": "Visa"
+          "ticker": "OXY",
+          "name": "Occidental Petroleum"
         }
       ]
     }

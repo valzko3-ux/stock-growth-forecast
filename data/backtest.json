@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T05:33:38.069845Z",
+  "last_updated": "2026-09-16T13:28:20.722747Z",
   "overall_hit_rate": 0.326,
   "total_evaluated": 1764,
   "per_category": {
@@ -62,9 +62,9 @@
   },
   "weights": {
     "short": {
-      "momentum": 0.136,
+      "momentum": 0.176,
       "technical": 0.229,
-      "trend": 0.401,
+      "trend": 0.361,
       "stability": 0.234
     },
     "medium": {
@@ -294,6 +294,18 @@
         "momentum": 0.136,
         "technical": 0.229,
         "trend": 0.401,
+        "stability": 0.234
+      }
+    },
+    {
+      "date": "2026-09-16",
+      "bucket": "short",
+      "hit_rate": 0.725,
+      "reason": "Trefferquote short-Horizont hoch (72%) -> Momentum-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.176,
+        "technical": 0.229,
+        "trend": 0.361,
         "stability": 0.234
       }
     }
@@ -36810,6 +36822,118 @@
       "entry_date": "2026-09-16",
       "entry_price": 5.05,
       "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-16",
+      "entry_price": 447.3,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-16",
+      "entry_price": 447.3,
+      "direction": "long"
+    },
+    {
+      "ticker": "TJX",
+      "category": "zyklischer_konsum",
+      "horizon_days": 1,
+      "entry_date": "2026-09-16",
+      "entry_price": 124.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "TJX",
+      "category": "zyklischer_konsum",
+      "horizon_days": 3,
+      "entry_date": "2026-09-16",
+      "entry_price": 124.6,
+      "direction": "short"
+    },
+    {
+      "ticker": "BKR",
+      "category": "energie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-16",
+      "entry_price": 56.72,
+      "direction": "short"
+    },
+    {
+      "ticker": "BKR",
+      "category": "energie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-16",
+      "entry_price": 56.72,
+      "direction": "short"
+    },
+    {
+      "ticker": "ES",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-16",
+      "entry_price": 67.21,
+      "direction": "short"
+    },
+    {
+      "ticker": "ES",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-16",
+      "entry_price": 67.21,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 1,
+      "entry_date": "2026-09-16",
+      "entry_price": 249.2,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 3,
+      "entry_date": "2026-09-16",
+      "entry_price": 249.2,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-16",
+      "entry_price": 34.91,
+      "direction": "short"
+    },
+    {
+      "ticker": "UDR",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-16",
+      "entry_price": 34.91,
+      "direction": "short"
+    },
+    {
+      "ticker": "IBM",
+      "category": "ki",
+      "horizon_days": 1,
+      "entry_date": "2026-09-16",
+      "entry_price": 248.37,
+      "direction": "long"
+    },
+    {
+      "ticker": "IBM",
+      "category": "ki",
+      "horizon_days": 3,
+      "entry_date": "2026-09-16",
+      "entry_price": 248.37,
+      "direction": "long"
     }
   ],
   "evaluated_history": [
