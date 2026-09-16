@@ -1,36 +1,128 @@
 {
-  "generated_at": "2026-09-15T13:27:12.382091Z",
+  "generated_at": "2026-09-16T05:33:51.192755Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "U.S. stock futures largely flat amid a slight rise in oil prices, surging yields",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-slowing-ai-development-fed-anticipation-4900683",
-      "published": "2026-09-15 12:58:45",
+      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 23:09:00 GMT",
       "categories": [
-        "Energie"
+        "Gesundheit"
       ],
       "winners": [
         {
-          "ticker": "OXY",
-          "name": "Occidental Petroleum"
+          "ticker": "ELV",
+          "name": "Elevance Health"
         },
         {
-          "ticker": "CVX",
-          "name": "Chevron"
-        },
-        {
-          "ticker": "VLO",
-          "name": "Valero Energy"
+          "ticker": "ABBV",
+          "name": "AbbVie"
         }
       ],
       "defensive": [
         {
-          "ticker": "CVX",
-          "name": "Chevron"
+          "ticker": "ABT",
+          "name": "Abbott"
         },
         {
-          "ticker": "OXY",
-          "name": "Occidental Petroleum"
+          "ticker": "ABBV",
+          "name": "AbbVie"
+        }
+      ]
+    },
+    {
+      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:40:00 GMT",
+      "categories": [
+        "Technologie"
+      ],
+      "winners": [
+        {
+          "ticker": "QCOM",
+          "name": "Qualcomm"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple"
+        },
+        {
+          "ticker": "QCOM",
+          "name": "Qualcomm"
+        }
+      ]
+    },
+    {
+      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 20:47:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ]
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "published": "Wed, 29 Jul 2026 18:00:00 GMT",
+      "categories": [
+        "Finanzen"
+      ],
+      "winners": [
+        {
+          "ticker": "WFC",
+          "name": "Wells Fargo"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "AXP",
+          "name": "American Express"
+        },
+        {
+          "ticker": "V",
+          "name": "Visa"
         }
       ]
     }
