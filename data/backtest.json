@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T05:33:18.247556Z",
+  "last_updated": "2026-09-17T13:27:10.808559Z",
   "overall_hit_rate": 0.355,
   "total_evaluated": 2000,
   "per_category": {
@@ -62,10 +62,10 @@
   },
   "weights": {
     "short": {
-      "momentum": 0.136,
-      "technical": 0.229,
-      "trend": 0.401,
-      "stability": 0.234
+      "momentum": 0.1,
+      "technical": 0.228,
+      "trend": 0.439,
+      "stability": 0.233
     },
     "medium": {
       "momentum": 0.14,
@@ -319,6 +319,18 @@
         "technical": 0.229,
         "trend": 0.401,
         "stability": 0.234
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "bucket": "short",
+      "hit_rate": 0.425,
+      "reason": "Trefferquote short-Horizont niedrig (42%) -> Momentum-Gewicht gesenkt, Trend-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.1,
+        "technical": 0.228,
+        "trend": 0.439,
+        "stability": 0.233
       }
     }
   ],
@@ -38997,6 +39009,118 @@
       "ticker": "STLA",
       "category": "e_mobility",
       "horizon_days": 30,
+      "entry_date": "2026-09-17",
+      "entry_price": 4.92,
+      "direction": "short"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-17",
+      "entry_price": 284.76,
+      "direction": "short"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-17",
+      "entry_price": 284.76,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-17",
+      "entry_price": 450.9,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-17",
+      "entry_price": 450.9,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-17",
+      "entry_price": 450.9,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-17",
+      "entry_price": 450.9,
+      "direction": "long"
+    },
+    {
+      "ticker": "ED",
+      "category": "versorger",
+      "horizon_days": 1,
+      "entry_date": "2026-09-17",
+      "entry_price": 105.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "ED",
+      "category": "versorger",
+      "horizon_days": 3,
+      "entry_date": "2026-09-17",
+      "entry_price": 105.42,
+      "direction": "short"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-17",
+      "entry_price": 28.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-17",
+      "entry_price": 28.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-17",
+      "entry_price": 28.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "DTE.DE",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-17",
+      "entry_price": 28.91,
+      "direction": "long"
+    },
+    {
+      "ticker": "STLA",
+      "category": "e_mobility",
+      "horizon_days": 1,
+      "entry_date": "2026-09-17",
+      "entry_price": 4.92,
+      "direction": "short"
+    },
+    {
+      "ticker": "STLA",
+      "category": "e_mobility",
+      "horizon_days": 3,
       "entry_date": "2026-09-17",
       "entry_price": 4.92,
       "direction": "short"

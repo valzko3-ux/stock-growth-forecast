@@ -1,52 +1,13 @@
 {
-  "generated_at": "2026-09-17T05:33:30.922461Z",
+  "generated_at": "2026-09-17T13:27:23.566423Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
-      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:25:00 GMT",
+      "title": "‘You are freed’: What happened when an OpenAI model began secretly writing notes to itself",
+      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 13:07:00 GMT",
       "categories": [
-        "Finanzen"
-      ],
-      "winners": [],
-      "defensive": [
-        {
-          "ticker": "BLK",
-          "name": "BlackRock"
-        },
-        {
-          "ticker": "AXP",
-          "name": "American Express"
-        }
-      ]
-    },
-    {
-      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
-      "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 21:40:00 GMT",
-      "categories": [
-        "Finanzen"
-      ],
-      "winners": [],
-      "defensive": [
-        {
-          "ticker": "BLK",
-          "name": "BlackRock"
-        },
-        {
-          "ticker": "AXP",
-          "name": "American Express"
-        }
-      ]
-    },
-    {
-      "title": "Why is Genscript Biotech stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-genscript-biotech-stock-surging-today-93CH-4904803",
-      "published": "2026-09-17 05:06:26",
-      "categories": [
-        "Technologie",
-        "Gesundheit"
+        "Künstliche Intelligenz"
       ],
       "winners": [
         {
@@ -54,49 +15,22 @@
           "name": "Meta Platforms"
         },
         {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
+          "ticker": "AMD",
+          "name": "AMD"
         },
         {
-          "ticker": "AAPL",
-          "name": "Apple"
-        },
-        {
-          "ticker": "TMO",
-          "name": "Thermo Fisher"
+          "ticker": "DELL",
+          "name": "Dell Technologies"
         }
       ],
       "defensive": [
-        {
-          "ticker": "AAPL",
-          "name": "Apple"
-        },
         {
           "ticker": "META",
           "name": "Meta Platforms"
         },
         {
-          "ticker": "ABT",
-          "name": "Abbott"
-        }
-      ]
-    },
-    {
-      "title": "BOJ rate hike on tap: Watch these Japanese stocks for bull and bear cases",
-      "link": "https://www.investing.com/news/stock-market-news/boj-rate-hike-on-tap-watch-these-japanese-stocks-for-bull-and-bear-cases-93CH-4904801",
-      "published": "2026-09-17 04:57:51",
-      "categories": [
-        "Finanzen"
-      ],
-      "winners": [],
-      "defensive": [
-        {
-          "ticker": "BLK",
-          "name": "BlackRock"
-        },
-        {
-          "ticker": "AXP",
-          "name": "American Express"
+          "ticker": "AVGO",
+          "name": "Broadcom"
         }
       ]
     },
