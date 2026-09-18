@@ -1,36 +1,68 @@
 {
-  "generated_at": "2026-09-17T13:27:23.566423Z",
+  "generated_at": "2026-09-18T05:32:12.240363Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "‘You are freed’: What happened when an OpenAI model began secretly writing notes to itself",
-      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 13:07:00 GMT",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
       "categories": [
-        "Künstliche Intelligenz"
+        "Technologie"
       ],
       "winners": [
         {
-          "ticker": "META",
-          "name": "Meta Platforms"
+          "ticker": "QCOM",
+          "name": "Qualcomm"
         },
         {
-          "ticker": "AMD",
-          "name": "AMD"
+          "ticker": "AAPL",
+          "name": "Apple"
         },
         {
-          "ticker": "DELL",
-          "name": "Dell Technologies"
+          "ticker": "GOOGL",
+          "name": "Alphabet"
         }
       ],
       "defensive": [
         {
-          "ticker": "META",
-          "name": "Meta Platforms"
+          "ticker": "AAPL",
+          "name": "Apple"
         },
         {
-          "ticker": "AVGO",
-          "name": "Broadcom"
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        }
+      ]
+    },
+    {
+      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 18:46:00 GMT",
+      "categories": [
+        "Cybersecurity"
+      ],
+      "winners": [
+        {
+          "ticker": "VRNS",
+          "name": "Varonis Systems"
+        },
+        {
+          "ticker": "FTNT",
+          "name": "Fortinet"
+        },
+        {
+          "ticker": "CRWD",
+          "name": "CrowdStrike"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "VRNS",
+          "name": "Varonis Systems"
+        },
+        {
+          "ticker": "FTNT",
+          "name": "Fortinet"
         }
       ]
     },
@@ -41,11 +73,16 @@
       "categories": [
         "Finanzen"
       ],
-      "winners": [],
+      "winners": [
+        {
+          "ticker": "ALV.DE",
+          "name": "Allianz"
+        }
+      ],
       "defensive": [
         {
-          "ticker": "BLK",
-          "name": "BlackRock"
+          "ticker": "ALV.DE",
+          "name": "Allianz"
         },
         {
           "ticker": "AXP",
@@ -60,11 +97,16 @@
       "categories": [
         "Finanzen"
       ],
-      "winners": [],
+      "winners": [
+        {
+          "ticker": "ALV.DE",
+          "name": "Allianz"
+        }
+      ],
       "defensive": [
         {
-          "ticker": "BLK",
-          "name": "BlackRock"
+          "ticker": "ALV.DE",
+          "name": "Allianz"
         },
         {
           "ticker": "AXP",
