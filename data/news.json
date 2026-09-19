@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-18T05:32:12.240363Z",
+  "generated_at": "2026-09-19T05:31:35.045381Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 21:14:00 GMT",
       "categories": [
         "Technologie"
       ],
       "winners": [
         {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
         },
         {
           "ticker": "AAPL",
           "name": "Apple"
-        },
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
         }
       ],
       "defensive": [
@@ -35,34 +35,34 @@
       ]
     },
     {
-      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
-      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 18:46:00 GMT",
+      "title": "Exclusive-Anthropic considers releasing new AI model ahead of IPO, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say-4908007",
+      "published": "2026-09-19 00:06:27",
       "categories": [
-        "Cybersecurity"
+        "Künstliche Intelligenz"
       ],
       "winners": [
         {
-          "ticker": "VRNS",
-          "name": "Varonis Systems"
+          "ticker": "GOOGL",
+          "name": "Alphabet"
         },
         {
-          "ticker": "FTNT",
-          "name": "Fortinet"
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
         },
         {
-          "ticker": "CRWD",
-          "name": "CrowdStrike"
+          "ticker": "META",
+          "name": "Meta Platforms"
         }
       ],
       "defensive": [
         {
-          "ticker": "VRNS",
-          "name": "Varonis Systems"
+          "ticker": "GOOGL",
+          "name": "Alphabet"
         },
         {
-          "ticker": "FTNT",
-          "name": "Fortinet"
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
         }
       ]
     },
