@@ -1,71 +1,7 @@
 {
-  "generated_at": "2026-09-19T05:31:35.045381Z",
+  "generated_at": "2026-09-20T05:32:21.689709Z",
   "horizon_used": 5,
   "items": [
-    {
-      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
-      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 21:14:00 GMT",
-      "categories": [
-        "Technologie"
-      ],
-      "winners": [
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        },
-        {
-          "ticker": "AAPL",
-          "name": "Apple"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "AAPL",
-          "name": "Apple"
-        },
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
-        }
-      ]
-    },
-    {
-      "title": "Exclusive-Anthropic considers releasing new AI model ahead of IPO, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say-4908007",
-      "published": "2026-09-19 00:06:27",
-      "categories": [
-        "Künstliche Intelligenz"
-      ],
-      "winners": [
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
-        },
-        {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
-        },
-        {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
-        }
-      ]
-    },
     {
       "title": "Federal Reserve issues FOMC statement",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
@@ -73,20 +9,15 @@
       "categories": [
         "Finanzen"
       ],
-      "winners": [
-        {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
-        }
-      ],
+      "winners": [],
       "defensive": [
-        {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
-        },
         {
           "ticker": "AXP",
           "name": "American Express"
+        },
+        {
+          "ticker": "TFC",
+          "name": "Truist Financial"
         }
       ]
     },
@@ -97,20 +28,15 @@
       "categories": [
         "Finanzen"
       ],
-      "winners": [
-        {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
-        }
-      ],
+      "winners": [],
       "defensive": [
-        {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
-        },
         {
           "ticker": "AXP",
           "name": "American Express"
+        },
+        {
+          "ticker": "TFC",
+          "name": "Truist Financial"
         }
       ]
     }
