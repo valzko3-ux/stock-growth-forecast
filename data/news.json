@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T05:32:21.689709Z",
+  "generated_at": "2026-09-21T05:33:55.750344Z",
   "horizon_used": 5,
   "items": [
     {
@@ -9,15 +9,20 @@
       "categories": [
         "Finanzen"
       ],
-      "winners": [],
+      "winners": [
+        {
+          "ticker": "ALV.DE",
+          "name": "Allianz"
+        }
+      ],
       "defensive": [
+        {
+          "ticker": "ALV.DE",
+          "name": "Allianz"
+        },
         {
           "ticker": "AXP",
           "name": "American Express"
-        },
-        {
-          "ticker": "TFC",
-          "name": "Truist Financial"
         }
       ]
     },
@@ -28,15 +33,20 @@
       "categories": [
         "Finanzen"
       ],
-      "winners": [],
+      "winners": [
+        {
+          "ticker": "ALV.DE",
+          "name": "Allianz"
+        }
+      ],
       "defensive": [
+        {
+          "ticker": "ALV.DE",
+          "name": "Allianz"
+        },
         {
           "ticker": "AXP",
           "name": "American Express"
-        },
-        {
-          "ticker": "TFC",
-          "name": "Truist Financial"
         }
       ]
     }
