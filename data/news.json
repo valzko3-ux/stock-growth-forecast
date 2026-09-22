@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-09-21T05:33:55.750344Z",
+  "generated_at": "2026-09-22T05:33:05.362395Z",
   "horizon_used": 5,
   "items": [
+    {
+      "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
+      "link": "https://www.investing.com/news/stock-market-news/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip-4909839",
+      "published": "2026-09-22 04:54:51",
+      "categories": [
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet"
+        },
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        }
+      ]
+    },
     {
       "title": "Federal Reserve issues FOMC statement",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
@@ -11,18 +43,18 @@
       ],
       "winners": [
         {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
+          "ticker": "C",
+          "name": "Citigroup"
         }
       ],
       "defensive": [
         {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
-        },
-        {
           "ticker": "AXP",
           "name": "American Express"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
         }
       ]
     },
@@ -35,18 +67,18 @@
       ],
       "winners": [
         {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
+          "ticker": "C",
+          "name": "Citigroup"
         }
       ],
       "defensive": [
         {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
-        },
-        {
           "ticker": "AXP",
           "name": "American Express"
+        },
+        {
+          "ticker": "C",
+          "name": "Citigroup"
         }
       ]
     }
