@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T05:32:52.697877Z",
+  "last_updated": "2026-09-22T13:26:10.641971Z",
   "overall_hit_rate": 0.457,
   "total_evaluated": 2000,
   "per_category": {
@@ -74,9 +74,9 @@
       "stability": 0.2
     },
     "long": {
-      "momentum": 0.26,
+      "momentum": 0.22,
       "technical": 0.15,
-      "trend": 0.39,
+      "trend": 0.43,
       "stability": 0.2
     }
   },
@@ -378,6 +378,18 @@
         "momentum": 0.26,
         "technical": 0.15,
         "trend": 0.39,
+        "stability": 0.2
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "bucket": "long",
+      "hit_rate": 0.375,
+      "reason": "Trefferquote long-Horizont niedrig (38%) -> Momentum-Gewicht gesenkt, Trend-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.22,
+        "technical": 0.15,
+        "trend": 0.43,
         "stability": 0.2
       }
     }
@@ -49043,6 +49055,198 @@
       "horizon_days": 30,
       "entry_date": "2026-09-22",
       "entry_price": 34.76,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-22",
+      "entry_price": 437.0,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-22",
+      "entry_price": 437.0,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-22",
+      "entry_price": 437.0,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-22",
+      "entry_price": 437.0,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 15,
+      "entry_date": "2026-09-22",
+      "entry_price": 33.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 20,
+      "entry_date": "2026-09-22",
+      "entry_price": 33.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 25,
+      "entry_date": "2026-09-22",
+      "entry_price": 33.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 30,
+      "entry_date": "2026-09-22",
+      "entry_price": 33.42,
+      "direction": "long"
+    },
+    {
+      "ticker": "SIE.DE",
+      "category": "industrie",
+      "horizon_days": 1,
+      "entry_date": "2026-09-22",
+      "entry_price": 275.65,
+      "direction": "long"
+    },
+    {
+      "ticker": "SIE.DE",
+      "category": "industrie",
+      "horizon_days": 3,
+      "entry_date": "2026-09-22",
+      "entry_price": 275.65,
+      "direction": "long"
+    },
+    {
+      "ticker": "SIE.DE",
+      "category": "industrie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-22",
+      "entry_price": 275.65,
+      "direction": "long"
+    },
+    {
+      "ticker": "SIE.DE",
+      "category": "industrie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-22",
+      "entry_price": 275.65,
+      "direction": "long"
+    },
+    {
+      "ticker": "SIE.DE",
+      "category": "industrie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-22",
+      "entry_price": 275.65,
+      "direction": "long"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-22",
+      "entry_price": 201.15,
+      "direction": "short"
+    },
+    {
+      "ticker": "SIE.DE",
+      "category": "industrie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-22",
+      "entry_price": 275.65,
+      "direction": "long"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-22",
+      "entry_price": 201.15,
+      "direction": "short"
+    },
+    {
+      "ticker": "SIE.DE",
+      "category": "industrie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-22",
+      "entry_price": 275.65,
+      "direction": "long"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-22",
+      "entry_price": 201.15,
+      "direction": "short"
+    },
+    {
+      "ticker": "SIE.DE",
+      "category": "industrie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-22",
+      "entry_price": 275.65,
+      "direction": "long"
+    },
+    {
+      "ticker": "BA",
+      "category": "industrie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-22",
+      "entry_price": 201.15,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-22",
+      "entry_price": 22.93,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-22",
+      "entry_price": 22.93,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-22",
+      "entry_price": 22.93,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-22",
+      "entry_price": 22.93,
       "direction": "short"
     }
   ],

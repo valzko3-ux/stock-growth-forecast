@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T05:33:05.362395Z",
+  "generated_at": "2026-09-22T13:26:23.401944Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
-      "link": "https://www.investing.com/news/stock-market-news/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip-4909839",
-      "published": "2026-09-22 04:54:51",
+      "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
+      "link": "https://www.investing.com/news/stock-market-news/with-new-macs-apple-aims-to-take-on-microsoft-nvidia-in-a-rush-to-lower-ai-costs-4910955",
+      "published": "2026-09-22 13:06:27",
       "categories": [
         "Künstliche Intelligenz"
       ],
@@ -49,12 +49,12 @@
       ],
       "defensive": [
         {
-          "ticker": "AXP",
-          "name": "American Express"
+          "ticker": "ALV.DE",
+          "name": "Allianz"
         },
         {
-          "ticker": "C",
-          "name": "Citigroup"
+          "ticker": "AXP",
+          "name": "American Express"
         }
       ]
     },
@@ -73,12 +73,12 @@
       ],
       "defensive": [
         {
-          "ticker": "AXP",
-          "name": "American Express"
+          "ticker": "ALV.DE",
+          "name": "Allianz"
         },
         {
-          "ticker": "C",
-          "name": "Citigroup"
+          "ticker": "AXP",
+          "name": "American Express"
         }
       ]
     }
