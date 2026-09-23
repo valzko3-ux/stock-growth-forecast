@@ -1,100 +1,102 @@
 {
-  "generated_at": "2026-09-23T05:33:05.712521Z",
+  "generated_at": "2026-09-23T13:27:53.198639Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-      "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 21:26:00 GMT",
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 12:58:00 GMT",
       "categories": [
-        "Künstliche Intelligenz"
+        "Gesundheit"
       ],
       "winners": [
         {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
+          "ticker": "TMO",
+          "name": "Thermo Fisher"
         },
         {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
+          "ticker": "ABBV",
+          "name": "AbbVie"
         },
         {
-          "ticker": "META",
-          "name": "Meta Platforms"
+          "ticker": "DHR",
+          "name": "Danaher"
         }
       ],
       "defensive": [
         {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
+          "ticker": "ABT",
+          "name": "Abbott"
         },
         {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
+          "ticker": "ABBV",
+          "name": "AbbVie"
         }
       ]
     },
     {
-      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
-      "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 20:54:00 GMT",
+      "title": "Gold prices drop amid stronger dollar, higher-for-longer rate outlook",
+      "link": "https://www.investing.com/news/stock-market-news/gold-rises-as-oil-slide-eases-fed-hike-fears-iran-talks-stay-in-focus-4911978",
+      "published": "2026-09-23 12:55:19",
       "categories": [
-        "Künstliche Intelligenz"
+        "Grundstoffe"
       ],
-      "winners": [
-        {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
-        },
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        }
-      ],
+      "winners": [],
       "defensive": [
         {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
+          "ticker": "LIN",
+          "name": "Linde"
         },
         {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
+          "ticker": "APD",
+          "name": "Air Products"
         }
       ]
     },
     {
-      "title": "Nvidia-backed Nscale downplayed ByteDance ties ahead of U.S. IPO, FT reports",
-      "link": "https://www.investing.com/news/stock-market-news/nvidiabacked-nscale-downplayed-bytedance-ties-ahead-of-us-ipo-ft-reports-93CH-4912068",
-      "published": "2026-09-23 04:50:55",
+      "title": "Geely turns to 4-minute EV charging, AI in battle with BYD",
+      "link": "https://www.investing.com/news/stock-market-news/geely-turns-to-4minute-ev-charging-ai-in-battle-with-byd-4912979",
+      "published": "2026-09-23 12:54:29",
       "categories": [
-        "Künstliche Intelligenz"
+        "E-Mobility"
+      ],
+      "winners": [],
+      "defensive": [
+        {
+          "ticker": "RIVN",
+          "name": "Rivian"
+        },
+        {
+          "ticker": "F",
+          "name": "Ford"
+        }
+      ]
+    },
+    {
+      "title": "Morgan Stanley employee leaks Asia deal pipeline document - Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-employee-leaks-asia-deal-pipeline-document--bloomberg-93CH-4913080",
+      "published": "2026-09-23 12:51:39",
+      "categories": [
+        "Energie"
       ],
       "winners": [
         {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
+          "ticker": "KMI",
+          "name": "Kinder Morgan"
         },
         {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
+          "ticker": "VLO",
+          "name": "Valero Energy"
         }
       ],
       "defensive": [
         {
-          "ticker": "GOOGL",
-          "name": "Alphabet"
+          "ticker": "KMI",
+          "name": "Kinder Morgan"
         },
         {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor"
+          "ticker": "BKR",
+          "name": "Baker Hughes"
         }
       ]
     },
@@ -105,20 +107,15 @@
       "categories": [
         "Finanzen"
       ],
-      "winners": [
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        }
-      ],
+      "winners": [],
       "defensive": [
         {
           "ticker": "AXP",
           "name": "American Express"
         },
         {
-          "ticker": "C",
-          "name": "Citigroup"
+          "ticker": "ALV.DE",
+          "name": "Allianz"
         }
       ]
     },
@@ -129,20 +126,15 @@
       "categories": [
         "Finanzen"
       ],
-      "winners": [
-        {
-          "ticker": "C",
-          "name": "Citigroup"
-        }
-      ],
+      "winners": [],
       "defensive": [
         {
           "ticker": "AXP",
           "name": "American Express"
         },
         {
-          "ticker": "C",
-          "name": "Citigroup"
+          "ticker": "ALV.DE",
+          "name": "Allianz"
         }
       ]
     }

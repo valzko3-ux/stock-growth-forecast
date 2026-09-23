@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T05:32:52.831405Z",
+  "last_updated": "2026-09-23T13:27:40.531161Z",
   "overall_hit_rate": 0.438,
   "total_evaluated": 2000,
   "per_category": {
@@ -63,20 +63,20 @@
   "weights": {
     "short": {
       "momentum": 0.096,
-      "technical": 0.192,
-      "trend": 0.515,
-      "stability": 0.197
+      "technical": 0.184,
+      "trend": 0.532,
+      "stability": 0.189
     },
     "medium": {
-      "momentum": 0.18,
+      "momentum": 0.22,
       "technical": 0.25,
-      "trend": 0.37,
+      "trend": 0.33,
       "stability": 0.2
     },
     "long": {
-      "momentum": 0.18,
+      "momentum": 0.14,
       "technical": 0.15,
-      "trend": 0.47,
+      "trend": 0.51,
       "stability": 0.2
     }
   },
@@ -426,6 +426,42 @@
         "momentum": 0.18,
         "technical": 0.15,
         "trend": 0.47,
+        "stability": 0.2
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "bucket": "short",
+      "hit_rate": 0.0,
+      "reason": "Trefferquote short-Horizont niedrig (0%) -> Momentum-Gewicht gesenkt, Trend-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.096,
+        "technical": 0.184,
+        "trend": 0.532,
+        "stability": 0.189
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "bucket": "medium",
+      "hit_rate": 0.625,
+      "reason": "Trefferquote medium-Horizont hoch (62%) -> Momentum-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.22,
+        "technical": 0.25,
+        "trend": 0.33,
+        "stability": 0.2
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "bucket": "long",
+      "hit_rate": 0.425,
+      "reason": "Trefferquote long-Horizont niedrig (42%) -> Momentum-Gewicht gesenkt, Trend-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.14,
+        "technical": 0.15,
+        "trend": 0.51,
         "stability": 0.2
       }
     }
@@ -50905,6 +50941,262 @@
       "horizon_days": 30,
       "entry_date": "2026-09-23",
       "entry_price": 34.76,
+      "direction": "short"
+    },
+    {
+      "ticker": "GILD",
+      "category": "gesundheit",
+      "horizon_days": 1,
+      "entry_date": "2026-09-23",
+      "entry_price": 150.56,
+      "direction": "long"
+    },
+    {
+      "ticker": "GILD",
+      "category": "gesundheit",
+      "horizon_days": 3,
+      "entry_date": "2026-09-23",
+      "entry_price": 150.56,
+      "direction": "long"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 1,
+      "entry_date": "2026-09-23",
+      "entry_price": 415.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 3,
+      "entry_date": "2026-09-23",
+      "entry_price": 415.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-23",
+      "entry_price": 415.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-23",
+      "entry_price": 31.7,
+      "direction": "short"
+    },
+    {
+      "ticker": "ALV.DE",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-23",
+      "entry_price": 415.8,
+      "direction": "short"
+    },
+    {
+      "ticker": "DBK.DE",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-23",
+      "entry_price": 31.7,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-23",
+      "entry_price": 898.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-23",
+      "entry_price": 898.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-23",
+      "entry_price": 898.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "COST",
+      "category": "basiskonsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-23",
+      "entry_price": 898.48,
+      "direction": "short"
+    },
+    {
+      "ticker": "GE",
+      "category": "industrie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-23",
+      "entry_price": 319.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "GE",
+      "category": "industrie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-23",
+      "entry_price": 319.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "GE",
+      "category": "industrie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-23",
+      "entry_price": 319.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "GE",
+      "category": "industrie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-23",
+      "entry_price": 319.01,
+      "direction": "short"
+    },
+    {
+      "ticker": "FANG",
+      "category": "energie",
+      "horizon_days": 5,
+      "entry_date": "2026-09-23",
+      "entry_price": 189.27,
+      "direction": "short"
+    },
+    {
+      "ticker": "FANG",
+      "category": "energie",
+      "horizon_days": 10,
+      "entry_date": "2026-09-23",
+      "entry_price": 189.27,
+      "direction": "short"
+    },
+    {
+      "ticker": "BKR",
+      "category": "energie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-23",
+      "entry_price": 57.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "BKR",
+      "category": "energie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-23",
+      "entry_price": 57.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "BKR",
+      "category": "energie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-23",
+      "entry_price": 57.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "BKR",
+      "category": "energie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-23",
+      "entry_price": 57.83,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-23",
+      "entry_price": 22.93,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-23",
+      "entry_price": 22.93,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-23",
+      "entry_price": 22.93,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMCSA",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-23",
+      "entry_price": 22.93,
+      "direction": "short"
+    },
+    {
+      "ticker": "INVH",
+      "category": "immobilien",
+      "horizon_days": 1,
+      "entry_date": "2026-09-23",
+      "entry_price": 27.08,
+      "direction": "short"
+    },
+    {
+      "ticker": "INVH",
+      "category": "immobilien",
+      "horizon_days": 3,
+      "entry_date": "2026-09-23",
+      "entry_price": 27.08,
+      "direction": "short"
+    },
+    {
+      "ticker": "CCI",
+      "category": "immobilien",
+      "horizon_days": 15,
+      "entry_date": "2026-09-23",
+      "entry_price": 73.22,
+      "direction": "short"
+    },
+    {
+      "ticker": "CCI",
+      "category": "immobilien",
+      "horizon_days": 20,
+      "entry_date": "2026-09-23",
+      "entry_price": 73.22,
+      "direction": "short"
+    },
+    {
+      "ticker": "CCI",
+      "category": "immobilien",
+      "horizon_days": 25,
+      "entry_date": "2026-09-23",
+      "entry_price": 73.22,
+      "direction": "short"
+    },
+    {
+      "ticker": "CCI",
+      "category": "immobilien",
+      "horizon_days": 30,
+      "entry_date": "2026-09-23",
+      "entry_price": 73.22,
       "direction": "short"
     }
   ],
