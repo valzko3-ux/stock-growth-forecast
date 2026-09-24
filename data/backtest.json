@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T05:33:02.633325Z",
+  "last_updated": "2026-09-24T13:27:33.055597Z",
   "overall_hit_rate": 0.459,
   "total_evaluated": 2000,
   "per_category": {
@@ -68,15 +68,15 @@
       "stability": 0.189
     },
     "medium": {
-      "momentum": 0.26,
+      "momentum": 0.3,
       "technical": 0.25,
-      "trend": 0.29,
+      "trend": 0.25,
       "stability": 0.2
     },
     "long": {
-      "momentum": 0.18,
+      "momentum": 0.22,
       "technical": 0.15,
-      "trend": 0.47,
+      "trend": 0.43,
       "stability": 0.2
     }
   },
@@ -486,6 +486,30 @@
         "momentum": 0.18,
         "technical": 0.15,
         "trend": 0.47,
+        "stability": 0.2
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "bucket": "medium",
+      "hit_rate": 0.65,
+      "reason": "Trefferquote medium-Horizont hoch (65%) -> Momentum-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.3,
+        "technical": 0.25,
+        "trend": 0.25,
+        "stability": 0.2
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "bucket": "long",
+      "hit_rate": 0.825,
+      "reason": "Trefferquote long-Horizont hoch (82%) -> Momentum-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.22,
+        "technical": 0.15,
+        "trend": 0.43,
         "stability": 0.2
       }
     }
@@ -52255,6 +52279,262 @@
       "horizon_days": 30,
       "entry_date": "2026-09-24",
       "entry_price": 10.29,
+      "direction": "short"
+    },
+    {
+      "ticker": "SAP.DE",
+      "category": "technologie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-24",
+      "entry_price": 184.72,
+      "direction": "long"
+    },
+    {
+      "ticker": "SAP.DE",
+      "category": "technologie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-24",
+      "entry_price": 184.72,
+      "direction": "long"
+    },
+    {
+      "ticker": "SAP.DE",
+      "category": "technologie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-24",
+      "entry_price": 184.72,
+      "direction": "long"
+    },
+    {
+      "ticker": "SAP.DE",
+      "category": "technologie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-24",
+      "entry_price": 184.72,
+      "direction": "long"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 5,
+      "entry_date": "2026-09-24",
+      "entry_price": 273.4,
+      "direction": "short"
+    },
+    {
+      "ticker": "SYK",
+      "category": "gesundheit",
+      "horizon_days": 10,
+      "entry_date": "2026-09-24",
+      "entry_price": 273.4,
+      "direction": "short"
+    },
+    {
+      "ticker": "MRK",
+      "category": "gesundheit",
+      "horizon_days": 15,
+      "entry_date": "2026-09-24",
+      "entry_price": 148.08,
+      "direction": "long"
+    },
+    {
+      "ticker": "MRK",
+      "category": "gesundheit",
+      "horizon_days": 20,
+      "entry_date": "2026-09-24",
+      "entry_price": 148.08,
+      "direction": "long"
+    },
+    {
+      "ticker": "MRK",
+      "category": "gesundheit",
+      "horizon_days": 25,
+      "entry_date": "2026-09-24",
+      "entry_price": 148.08,
+      "direction": "long"
+    },
+    {
+      "ticker": "MRK",
+      "category": "gesundheit",
+      "horizon_days": 30,
+      "entry_date": "2026-09-24",
+      "entry_price": 148.08,
+      "direction": "long"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 15,
+      "entry_date": "2026-09-24",
+      "entry_price": 83.94,
+      "direction": "short"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 20,
+      "entry_date": "2026-09-24",
+      "entry_price": 83.94,
+      "direction": "short"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 25,
+      "entry_date": "2026-09-24",
+      "entry_price": 83.94,
+      "direction": "short"
+    },
+    {
+      "ticker": "CLX",
+      "category": "basiskonsum",
+      "horizon_days": 30,
+      "entry_date": "2026-09-24",
+      "entry_price": 83.94,
+      "direction": "short"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-24",
+      "entry_price": 388.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-24",
+      "entry_price": 388.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-24",
+      "entry_price": 388.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-24",
+      "entry_price": 388.38,
+      "direction": "long"
+    },
+    {
+      "ticker": "PEG",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-24",
+      "entry_price": 67.31,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMS",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-24",
+      "entry_price": 63.15,
+      "direction": "short"
+    },
+    {
+      "ticker": "PEG",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-24",
+      "entry_price": 67.31,
+      "direction": "short"
+    },
+    {
+      "ticker": "CMS",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-24",
+      "entry_price": 63.15,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 5,
+      "entry_date": "2026-09-24",
+      "entry_price": 116.61,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 10,
+      "entry_date": "2026-09-24",
+      "entry_price": 116.61,
+      "direction": "short"
+    },
+    {
+      "ticker": "LUMN",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-24",
+      "entry_price": 6.13,
+      "direction": "short"
+    },
+    {
+      "ticker": "LUMN",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-24",
+      "entry_price": 6.13,
+      "direction": "short"
+    },
+    {
+      "ticker": "LUMN",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-24",
+      "entry_price": 6.13,
+      "direction": "short"
+    },
+    {
+      "ticker": "LUMN",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-24",
+      "entry_price": 6.13,
+      "direction": "short"
+    },
+    {
+      "ticker": "DOW",
+      "category": "grundstoffe",
+      "horizon_days": 15,
+      "entry_date": "2026-09-24",
+      "entry_price": 28.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "DOW",
+      "category": "grundstoffe",
+      "horizon_days": 20,
+      "entry_date": "2026-09-24",
+      "entry_price": 28.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "DOW",
+      "category": "grundstoffe",
+      "horizon_days": 25,
+      "entry_date": "2026-09-24",
+      "entry_price": 28.65,
+      "direction": "short"
+    },
+    {
+      "ticker": "DOW",
+      "category": "grundstoffe",
+      "horizon_days": 30,
+      "entry_date": "2026-09-24",
+      "entry_price": 28.65,
       "direction": "short"
     }
   ],
