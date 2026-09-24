@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T13:27:53.198639Z",
+  "generated_at": "2026-09-24T05:33:15.738189Z",
   "horizon_used": 5,
   "items": [
     {
       "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
       "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 12:58:00 GMT",
+      "published": "Wed, 23 Sep 2026 21:59:00 GMT",
       "categories": [
         "Gesundheit"
       ],
@@ -15,12 +15,12 @@
           "name": "Thermo Fisher"
         },
         {
-          "ticker": "ABBV",
-          "name": "AbbVie"
-        },
-        {
           "ticker": "DHR",
           "name": "Danaher"
+        },
+        {
+          "ticker": "ABBV",
+          "name": "AbbVie"
         }
       ],
       "defensive": [
@@ -35,68 +35,98 @@
       ]
     },
     {
-      "title": "Gold prices drop amid stronger dollar, higher-for-longer rate outlook",
-      "link": "https://www.investing.com/news/stock-market-news/gold-rises-as-oil-slide-eases-fed-hike-fears-iran-talks-stay-in-focus-4911978",
-      "published": "2026-09-23 12:55:19",
+      "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
+      "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:27:00 GMT",
       "categories": [
-        "Grundstoffe"
-      ],
-      "winners": [],
-      "defensive": [
-        {
-          "ticker": "LIN",
-          "name": "Linde"
-        },
-        {
-          "ticker": "APD",
-          "name": "Air Products"
-        }
-      ]
-    },
-    {
-      "title": "Geely turns to 4-minute EV charging, AI in battle with BYD",
-      "link": "https://www.investing.com/news/stock-market-news/geely-turns-to-4minute-ev-charging-ai-in-battle-with-byd-4912979",
-      "published": "2026-09-23 12:54:29",
-      "categories": [
-        "E-Mobility"
-      ],
-      "winners": [],
-      "defensive": [
-        {
-          "ticker": "RIVN",
-          "name": "Rivian"
-        },
-        {
-          "ticker": "F",
-          "name": "Ford"
-        }
-      ]
-    },
-    {
-      "title": "Morgan Stanley employee leaks Asia deal pipeline document - Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-employee-leaks-asia-deal-pipeline-document--bloomberg-93CH-4913080",
-      "published": "2026-09-23 12:51:39",
-      "categories": [
-        "Energie"
+        "Künstliche Intelligenz"
       ],
       "winners": [
         {
-          "ticker": "KMI",
-          "name": "Kinder Morgan"
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
         },
         {
-          "ticker": "VLO",
-          "name": "Valero Energy"
+          "ticker": "META",
+          "name": "Meta Platforms"
+        },
+        {
+          "ticker": "AMD",
+          "name": "AMD"
         }
       ],
       "defensive": [
         {
-          "ticker": "KMI",
-          "name": "Kinder Morgan"
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
         },
         {
-          "ticker": "BKR",
-          "name": "Baker Hughes"
+          "ticker": "ANET",
+          "name": "Arista Networks"
+        }
+      ]
+    },
+    {
+      "title": "Australia says OpenAI agent hacked government website, checks for more breaches",
+      "link": "https://www.investing.com/news/stock-market-news/australia-pm-albanese-says-openai-agent-breached-government-website-in-june-4914110",
+      "published": "2026-09-24 04:24:22",
+      "categories": [
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        },
+        {
+          "ticker": "AMD",
+          "name": "AMD"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "ANET",
+          "name": "Arista Networks"
+        }
+      ]
+    },
+    {
+      "title": "Google nears release of Gemini 4 AI model, DeepMind head tells The Information",
+      "link": "https://www.investing.com/news/stock-market-news/google-nears-release-of-gemini-4-ai-model-deepmind-head-tells-the-information-93CH-4914393",
+      "published": "2026-09-24 03:31:17",
+      "categories": [
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        },
+        {
+          "ticker": "AMD",
+          "name": "AMD"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor"
+        },
+        {
+          "ticker": "ANET",
+          "name": "Arista Networks"
         }
       ]
     },
@@ -114,8 +144,8 @@
           "name": "American Express"
         },
         {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
+          "ticker": "PNC",
+          "name": "PNC Financial"
         }
       ]
     },
@@ -133,8 +163,8 @@
           "name": "American Express"
         },
         {
-          "ticker": "ALV.DE",
-          "name": "Allianz"
+          "ticker": "PNC",
+          "name": "PNC Financial"
         }
       ]
     }
