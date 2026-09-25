@@ -1,74 +1,23 @@
 {
-  "generated_at": "2026-09-25T05:33:03.762452Z",
+  "generated_at": "2026-09-25T13:32:38.721060Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "The S&P 500’s newest tech stock is now its best performer",
-      "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 23:26:00 GMT",
+      "title": "Why is Atlas Energy stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-atlas-energy-stock-surging-today-93CH-4917580",
+      "published": "2026-09-25 13:03:38",
       "categories": [
-        "Technologie"
-      ],
-      "winners": [
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        },
-        {
-          "ticker": "AMD",
-          "name": "AMD"
-        },
-        {
-          "ticker": "PLTR",
-          "name": "Palantir"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "INTU",
-          "name": "Intuit"
-        },
-        {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
-        }
-      ]
-    },
-    {
-      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
-      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 22:03:00 GMT",
-      "categories": [
-        "Immobilien"
+        "Energie"
       ],
       "winners": [],
       "defensive": [
         {
-          "ticker": "VICI",
-          "name": "VICI Properties"
+          "ticker": "TRGP",
+          "name": "Targa Resources"
         },
         {
-          "ticker": "EXR",
-          "name": "Extra Space Storage"
-        }
-      ]
-    },
-    {
-      "title": "Japanese bank stocks rise tracking yield surge, rate hike bets",
-      "link": "https://www.investing.com/news/stock-market-news/japanese-bank-stocks-rise-tracking-yield-surge-rate-hike-bets-4916599",
-      "published": "2026-09-25 04:44:06",
-      "categories": [
-        "Finanzen"
-      ],
-      "winners": [],
-      "defensive": [
-        {
-          "ticker": "PNC",
-          "name": "PNC Financial"
-        },
-        {
-          "ticker": "AXP",
-          "name": "American Express"
+          "ticker": "WMB",
+          "name": "Williams Companies"
         }
       ]
     },
