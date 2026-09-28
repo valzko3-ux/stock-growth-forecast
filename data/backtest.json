@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T05:35:59.583146Z",
+  "last_updated": "2026-09-28T13:29:24.691478Z",
   "overall_hit_rate": 0.524,
   "total_evaluated": 2000,
   "per_category": {
@@ -63,20 +63,20 @@
   "weights": {
     "short": {
       "momentum": 0.096,
-      "technical": 0.176,
-      "trend": 0.547,
-      "stability": 0.181
+      "technical": 0.169,
+      "trend": 0.562,
+      "stability": 0.173
     },
     "medium": {
-      "momentum": 0.476,
-      "technical": 0.238,
+      "momentum": 0.494,
+      "technical": 0.228,
       "trend": 0.096,
-      "stability": 0.19
+      "stability": 0.182
     },
     "long": {
-      "momentum": 0.42,
+      "momentum": 0.46,
       "technical": 0.15,
-      "trend": 0.23,
+      "trend": 0.19,
       "stability": 0.2
     }
   },
@@ -690,6 +690,42 @@
         "momentum": 0.42,
         "technical": 0.15,
         "trend": 0.23,
+        "stability": 0.2
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "bucket": "short",
+      "hit_rate": 0.0,
+      "reason": "Trefferquote short-Horizont niedrig (0%) -> Momentum-Gewicht gesenkt, Trend-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.096,
+        "technical": 0.169,
+        "trend": 0.562,
+        "stability": 0.173
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "bucket": "medium",
+      "hit_rate": 0.625,
+      "reason": "Trefferquote medium-Horizont hoch (62%) -> Momentum-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.494,
+        "technical": 0.228,
+        "trend": 0.096,
+        "stability": 0.182
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "bucket": "long",
+      "hit_rate": 0.675,
+      "reason": "Trefferquote long-Horizont hoch (68%) -> Momentum-Gewicht erhöht",
+      "new_weights": {
+        "momentum": 0.46,
+        "technical": 0.15,
+        "trend": 0.19,
         "stability": 0.2
       }
     }
@@ -58975,6 +59011,166 @@
       "horizon_days": 30,
       "entry_date": "2026-09-28",
       "entry_price": 3.58,
+      "direction": "short"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-28",
+      "entry_price": 201.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-28",
+      "entry_price": 201.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-28",
+      "entry_price": 201.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "QCOM",
+      "category": "technologie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-28",
+      "entry_price": 201.97,
+      "direction": "long"
+    },
+    {
+      "ticker": "MS",
+      "category": "finanzen",
+      "horizon_days": 5,
+      "entry_date": "2026-09-28",
+      "entry_price": 196.31,
+      "direction": "short"
+    },
+    {
+      "ticker": "MS",
+      "category": "finanzen",
+      "horizon_days": 10,
+      "entry_date": "2026-09-28",
+      "entry_price": 196.31,
+      "direction": "short"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 15,
+      "entry_date": "2026-09-28",
+      "entry_price": 393.52,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 20,
+      "entry_date": "2026-09-28",
+      "entry_price": 393.52,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 25,
+      "entry_date": "2026-09-28",
+      "entry_price": 393.52,
+      "direction": "long"
+    },
+    {
+      "ticker": "MPC",
+      "category": "energie",
+      "horizon_days": 30,
+      "entry_date": "2026-09-28",
+      "entry_price": 393.52,
+      "direction": "long"
+    },
+    {
+      "ticker": "FE",
+      "category": "versorger",
+      "horizon_days": 5,
+      "entry_date": "2026-09-28",
+      "entry_price": 43.3,
+      "direction": "short"
+    },
+    {
+      "ticker": "FE",
+      "category": "versorger",
+      "horizon_days": 10,
+      "entry_date": "2026-09-28",
+      "entry_price": 43.3,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 15,
+      "entry_date": "2026-09-28",
+      "entry_price": 112.91,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 20,
+      "entry_date": "2026-09-28",
+      "entry_price": 112.91,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 25,
+      "entry_date": "2026-09-28",
+      "entry_price": 112.91,
+      "direction": "short"
+    },
+    {
+      "ticker": "CHTR",
+      "category": "telekommunikation",
+      "horizon_days": 30,
+      "entry_date": "2026-09-28",
+      "entry_price": 112.91,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 15,
+      "entry_date": "2026-09-28",
+      "entry_price": 245.0,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 20,
+      "entry_date": "2026-09-28",
+      "entry_price": 245.0,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 25,
+      "entry_date": "2026-09-28",
+      "entry_price": 245.0,
+      "direction": "short"
+    },
+    {
+      "ticker": "VMC",
+      "category": "grundstoffe",
+      "horizon_days": 30,
+      "entry_date": "2026-09-28",
+      "entry_price": 245.0,
       "direction": "short"
     }
   ],

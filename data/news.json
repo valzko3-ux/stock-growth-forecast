@@ -1,11 +1,39 @@
 {
-  "generated_at": "2026-09-28T05:36:12.186693Z",
+  "generated_at": "2026-09-28T13:29:37.726697Z",
   "horizon_used": 5,
   "items": [
     {
+      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+      "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:20:00 GMT",
+      "categories": [
+        "Künstliche Intelligenz"
+      ],
+      "winners": [
+        {
+          "ticker": "META",
+          "name": "Meta Platforms"
+        },
+        {
+          "ticker": "AMD",
+          "name": "AMD"
+        }
+      ],
+      "defensive": [
+        {
+          "ticker": "IBM",
+          "name": "IBM"
+        },
+        {
+          "ticker": "ADBE",
+          "name": "Adobe"
+        }
+      ]
+    },
+    {
       "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
       "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
-      "published": "Sun, 27 Sep 2026 14:00:00 GMT",
+      "published": "Mon, 28 Sep 2026 11:47:00 GMT",
       "categories": [
         "Künstliche Intelligenz"
       ],
@@ -44,8 +72,8 @@
           "name": "American Express"
         },
         {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
+          "ticker": "MS",
+          "name": "Morgan Stanley"
         }
       ]
     },
@@ -63,8 +91,8 @@
           "name": "American Express"
         },
         {
-          "ticker": "DBK.DE",
-          "name": "Deutsche Bank"
+          "ticker": "MS",
+          "name": "Morgan Stanley"
         }
       ]
     }
