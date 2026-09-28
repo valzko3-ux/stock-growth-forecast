@@ -1,43 +1,11 @@
 {
-  "generated_at": "2026-09-27T05:33:14.423098Z",
+  "generated_at": "2026-09-28T05:36:12.186693Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-      "published": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "categories": [
-        "Gesundheit"
-      ],
-      "winners": [
-        {
-          "ticker": "DHR",
-          "name": "Danaher"
-        },
-        {
-          "ticker": "MRNA",
-          "name": "Moderna"
-        },
-        {
-          "ticker": "LLY",
-          "name": "Eli Lilly"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "LLY",
-          "name": "Eli Lilly"
-        },
-        {
-          "ticker": "ABT",
-          "name": "Abbott"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "link": "https://www.investing.com/news/stock-market-news/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-4918799",
-      "published": "2026-09-27 04:30:30",
+      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "published": "Sun, 27 Sep 2026 14:00:00 GMT",
       "categories": [
         "Künstliche Intelligenz"
       ],
@@ -55,70 +23,6 @@
         {
           "ticker": "IBM",
           "name": "IBM"
-        },
-        {
-          "ticker": "ADBE",
-          "name": "Adobe"
-        }
-      ]
-    },
-    {
-      "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
-      "link": "https://www.investing.com/news/stock-market-news/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-reports-4918620",
-      "published": "2026-09-26 19:42:24",
-      "categories": [
-        "Technologie"
-      ],
-      "winners": [
-        {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        },
-        {
-          "ticker": "AMD",
-          "name": "AMD"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "INTU",
-          "name": "Intuit"
-        },
-        {
-          "ticker": "ADBE",
-          "name": "Adobe"
-        }
-      ]
-    },
-    {
-      "title": "Boeing finds 737 MAX software glitch that may affect automated navigation - WSJ",
-      "link": "https://www.investing.com/news/stock-market-news/boeing-finds-737-max-software-glitch-that-may-affect-automated-navigation--wsj-4918621",
-      "published": "2026-09-26 19:01:46",
-      "categories": [
-        "Technologie"
-      ],
-      "winners": [
-        {
-          "ticker": "QCOM",
-          "name": "Qualcomm"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        },
-        {
-          "ticker": "AMD",
-          "name": "AMD"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "INTU",
-          "name": "Intuit"
         },
         {
           "ticker": "ADBE",
