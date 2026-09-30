@@ -1,55 +1,23 @@
 {
-  "generated_at": "2026-09-30T05:36:36.959988Z",
+  "generated_at": "2026-09-30T13:35:05.755555Z",
   "horizon_used": 5,
   "items": [
     {
-      "title": "Singapore electricity tariff to fall 10.4% on lower energy costs",
-      "link": "https://www.investing.com/news/stock-market-news/singapore-electricity-tariff-to-fall-104-on-lower-energy-costs-93CH-4924084",
-      "published": "2026-09-30 05:26:35",
+      "title": "FTSE 100 today: Stocks edge higher after cooler-than-expected U.S. inflation data",
+      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-uk-gdp-beats-forecasts-miners-lead-4924242",
+      "published": "2026-09-30 12:44:08",
       "categories": [
-        "Industrie"
+        "Finanzen"
       ],
       "winners": [],
       "defensive": [
         {
-          "ticker": "RTX",
-          "name": "RTX Corporation"
+          "ticker": "MS",
+          "name": "Morgan Stanley"
         },
         {
-          "ticker": "GD",
-          "name": "General Dynamics"
-        }
-      ]
-    },
-    {
-      "title": "Apple iPhone 18 Pro sales rise 12% in China launch week - Counterpoint",
-      "link": "https://www.investing.com/news/stock-market-news/apple-iphone-18-pro-sales-rise-12-in-china-launch-week--counterpoint-4924078",
-      "published": "2026-09-30 05:14:40",
-      "categories": [
-        "Technologie"
-      ],
-      "winners": [
-        {
-          "ticker": "TXN",
-          "name": "Texas Instruments"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms"
-        },
-        {
-          "ticker": "AMD",
-          "name": "AMD"
-        }
-      ],
-      "defensive": [
-        {
-          "ticker": "TXN",
-          "name": "Texas Instruments"
-        },
-        {
-          "ticker": "INTU",
-          "name": "Intuit"
+          "ticker": "BAC",
+          "name": "Bank of America"
         }
       ]
     },
@@ -63,12 +31,12 @@
       "winners": [],
       "defensive": [
         {
-          "ticker": "TFC",
-          "name": "Truist Financial"
+          "ticker": "MS",
+          "name": "Morgan Stanley"
         },
         {
-          "ticker": "ICE",
-          "name": "Intercontinental Exchange"
+          "ticker": "BAC",
+          "name": "Bank of America"
         }
       ]
     },
@@ -82,12 +50,12 @@
       "winners": [],
       "defensive": [
         {
-          "ticker": "TFC",
-          "name": "Truist Financial"
+          "ticker": "MS",
+          "name": "Morgan Stanley"
         },
         {
-          "ticker": "ICE",
-          "name": "Intercontinental Exchange"
+          "ticker": "BAC",
+          "name": "Bank of America"
         }
       ]
     }
